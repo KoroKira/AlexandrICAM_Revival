@@ -1,0 +1,22 @@
+{
+    "exams": [
+        {
+            "year": "2023",
+            "subject": "Maths",
+            "file": "uploads/exams/maths-2023.pdf",
+            "hasCorrection": true
+        },
+        {
+            "year": "2024",
+            "subject": "Physique",
+            "file": "uploads/exams/physique-2024.pdf",
+            "hasCorrection": false
+        },
+        {
+            "year": "2023",
+            "subject": "Anglais",
+            "file": "uploads/exams/anglais-2023.pdf",
+            "hasCorrection": true
+        }
+    ]
+}
