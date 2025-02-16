@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Utilisateur</title>
+    <style>
+        /* Mode sombre */
+        body.dark-mode {
+            background: #1a202c;
+            color: black;
+        }
+
+        .dark-mode header {
+            background: #2d3748;
+            color: black;
+        }
+
+        .dark-mode .card {
+            background: #2d3748;
+            border-color: #4a5568;
+            color: black;
+        }
+
+        .dark-mode footer {
+            background: #2d3748;
+            color: black;
+        }
+
+        /* Bouton mode sombre */
+        .dark-mode-toggle {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 1.2rem;
+            color: black;
+        }        
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f7fafc;
+        }
+
+        /* Header */
+        header {
+            background: #2b6cb0;
+            padding: 1rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        /* Footer */
+        footer {
+            background: #1a202c;
+            color: white;
+            text-align: center;
+            padding: 1.5rem;
+            margin-top: 3rem;
+        }        
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin-right: 1.5rem;
+        }
+
+        nav a:hover {
+            background: #2c5282;
+        }
+
+        /* Bouton mode sombre */
+        .dark-mode-toggle {
+            background: none;
+            border: none;
+            color: white;
+            cursor: pointer;
+            font-size: 1.2rem;
+        }
+
+        main {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+            text-align: center;
+        }
+
+        h1 {
+            color: #2b6cb0;
+        }
+
+        .send-message {
+            padding: 1rem;
+            margin-top: 1rem;
+            border-radius: 8px;
+            background: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            text-align: center;
+            max-width: 400px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .send-message button {
+            background: #2b6cb0;
+            color: white;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+
+        .send-message button:hover {
+            background: #2c5282;
+        }
+
+        footer p {
+            margin: 0;
+        }
+
+        .page-buttons {
+            margin-top: 2rem;
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+        }
+
+        .page-buttons button {
+            background: #2b6cb0;
+            color: white;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+
+        .page-buttons button:hover {
+            background: #2c5282;
+        }
+
+        iframe {
+            width: 100%;
+            height: 500px;
+            border: none;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="/">Accueil</a>
+            <a href="exams.html">Exams</a>
+            <a href="stage.html">Stage</a>
+            <a href="cuisine.html">Cuisine</a>
+            <a href="cours.html">Cours</a>
+            <a href="user.html">Profil</a>
+        </nav>
+        <button class="dark-mode-toggle" id="dark-mode-toggle">🌙</button>
+    </header>
+
+    <main>
+        <h1>📤 Envoyer un message</h1>
+
+        <div class="send-message">
+            <p>Appuyez sur le bouton ci-dessous pour envoyer un email (Pensez à mettre la pièce jointe).</p>
+            <button onclick="sendEmail()">Envoyer l'email</button>
+        </div>
+
+        <div class="page-buttons">
+            <button onclick="window.location.href='jeux/demineur/index.html'">Démineur</button>
+            <button onclick="window.location.href='jeux/Sudoku/index.html'">Sudoku</button>
+            <button onclick="window.location.href='jeux/Tetris/index.html'">Tetris</button>
+            <button onclick="window.location.href='jeux/echecs/main.html'">Echecs</button>
+            <!-- <button onclick="window.location.href='user.html'">Profil</button> -->
+        </div>
+
+        <iframe id="myIframe" src="https://www.jetpunk.com/series/1369880/ingenierie" frameborder="0" title="Quiz d'ingénierie"></iframe>
+    </main>
+
+    <footer>
+        <p>© 2024 - Les gens lisent vraiment ça ?</p>
+    </footer>
+
+    <script>
+        // Gestion du mode sombre
+        const darkModeToggle = document.getElementById('dark-mode-toggle');
+        const body = document.body;
+
+        // Vérifier le cookie au chargement
+        if (document.cookie.includes('darkMode=true')) {
+            body.classList.add('dark-mode');
+            darkModeToggle.textContent = '☀️';
+        }
+
+        // Basculer le mode sombre
+        darkModeToggle.addEventListener('click', () => {
+            body.classList.toggle('dark-mode');
+            const isDarkMode = body.classList.contains('dark-mode');
+            darkModeToggle.textContent = isDarkMode ? '☀️' : '🌙';
+            
+            // Enregistrer dans un cookie (valide 30 jours)
+            document.cookie = `darkMode=${isDarkMode}; path=/; max-age=${30 * 24 * 60 * 60}`;
+        });
+
+        function sendEmail() {
+            const email = "guilhem.desarcy-lemiere@2027.icam.fr";
+            const subject = "Envoi de fichiers";
+            const body = "Fichiers à ajouter.";
+
+            // Construire l'URL mailto
+            const mailtoLink = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
+            // Ouvrir le client mail de l'utilisateur avec le mail pré-rempli
+            window.location.href = mailtoLink;
+        }
+    </script>
+</body>
+</html>

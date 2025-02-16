@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banque d'exams</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f7fafc;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        /* Mode sombre */
+        body.dark-mode {
+            background: #1a202c;
+            color: #f7fafc;
+        }
+
+        .dark-mode header,
+        .dark-mode footer {
+            background: #2d3748;
+        }
+
+        .dark-mode .exam-card {
+            background: #2d3748;
+            border-color: #4a5568;
+        }
+
+        .dark-mode select {
+            background: #4a5568;
+            color: white;
+            border-color: #718096;
+        }
+
+        header {
+            background: #2b6cb0;
+            padding: 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin-right: 1.5rem;
+        }
+
+        .dark-mode-toggle {
+            background: none;
+            border: none;
+            color: white;
+            cursor: pointer;
+            font-size: 1.2rem;
+            padding: 0.5rem;
+        }
+
+        main {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+            text-align: center;
+        }
+
+        h1 {
+            color: #2b6cb0;
+        }
+
+        .dark-mode h1 {
+            color: #63b3ed;
+        }
+
+        select {
+            padding: 0.5rem;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            margin-bottom: 1.5rem;
+            transition: all 0.3s;
+        }
+
+        .exams-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 1rem;
+        }
+
+        .exam-card {
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            overflow: hidden;
+            background: white;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 1.5rem;
+            text-align: left;
+            transition: all 0.3s;
+        }
+
+        .exam-card h3 {
+            color: #2b6cb0;
+            margin-bottom: 0.5rem;
+        }
+
+        .dark-mode .exam-card h3 {
+            color: #63b3ed;
+        }
+
+        .exam-card a {
+            display: inline-block;
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+            background: #2b6cb0;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background 0.2s;
+        }
+
+        .dark-mode .exam-card a {
+            background: #4299e1;
+        }
+
+        .exam-card a:hover {
+            background: #1e4a79;
+        }
+
+        .correction {
+            color: green;
+            font-weight: bold;
+        }
+
+        footer {
+            background: #1a202c;
+            color: white;
+            text-align: center;
+            padding: 1.5rem;
+            margin-top: 3rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="/">Accueil</a>
+            <a href="exams.html" class="current">Exams</a>
+            <a href="stage.html">Stage</a>
+            <a href="cuisine.html">Cuisine</a>
+            <a href="cours.html">Cours</a>
+            <a href="user.html">Profil</a>
+        </nav>
+        <button class="dark-mode-toggle" id="dark-mode-toggle">🌙</button>
+    </header>
+
+    <main>
+        <h1>📝 Banque d'exams</h1>
+        
+        <select id="yearFilter">
+            <option value="all">Toutes années</option>
+        </select>
+
+        <div class="exams-grid" id="examsGrid"></div>
+    </main>
+
+    <footer>
+        <p>© 2024 - Partagez vos ressources !</p>
+    </footer>
+
+    <script>
+        // Gestion du mode sombre
+        const darkModeToggle = document.getElementById('dark-mode-toggle');
+        const body = document.body;
+
+        // Vérifier le cookie au chargement
+        if (document.cookie.includes('darkMode=true')) {
+            body.classList.add('dark-mode');
+            darkModeToggle.textContent = '☀️';
+        }
+
+        // Basculer le mode sombre
+        darkModeToggle.addEventListener('click', () => {
+            body.classList.toggle('dark-mode');
+            const isDarkMode = body.classList.contains('dark-mode');
+            darkModeToggle.textContent = isDarkMode ? '☀️' : '🌙';
+            
+            // Enregistrer dans un cookie (30 jours)
+            document.cookie = `darkMode=${isDarkMode}; path=/; max-age=${30 * 24 * 60 * 60}`;
+        });
+
+        // Chargement des exams
+        document.addEventListener("DOMContentLoaded", function () {
+            const examsGrid = document.getElementById("examsGrid");
+            const yearFilter = document.getElementById("yearFilter");
+
+            fetch("exams/exams.json")
+                .then(response => response.json())
+                .then(data => {
+                    const exams = data.exams;
+
+                    const years = [...new Set(exams.map(exam => exam.year))].sort().reverse();
+                    years.forEach(year => {
+                        const option = document.createElement("option");
+                        option.value = year;
+                        option.textContent = year;
+                        yearFilter.appendChild(option);
+                    });
+
+                    renderExams("all", exams);
+
+                    yearFilter.addEventListener("change", function () {
+                        renderExams(yearFilter.value, exams);
+                    });
+                });
+
+            function renderExams(filterYear, exams) {
+                examsGrid.innerHTML = "";
+                exams.filter(exam => filterYear === "all" || exam.year === filterYear)
+                    .forEach(exam => {
+                        const card = document.createElement("div");
+                        card.classList.add("exam-card");
+                        card.innerHTML = `
+                            <h3>${exam.subject} - ${exam.year}</h3>
+                            <a href="${exam.file}" target="_blank">📂 Télécharger</a>
+                            ${exam.hasCorrection ? '<p class="correction">✅ Corrigé disponible</p>' : ''}
+                        `;
+                        examsGrid.appendChild(card);
+                    });
+            }
+        });
+    </script>
+</body>
+</html>

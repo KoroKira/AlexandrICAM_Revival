@@ -1,0 +1,26 @@
+{
+    "courses": [
+      {
+        "year": "A1",
+        "subject": "Math",
+        "title": "TP Math 1",
+        "type": "TP",
+        "file": "url_to_file"
+      },
+      {
+        "year": "A1",
+        "subject": "Math",
+        "title": "Exo Math 1",
+        "type": "Exos",
+        "file": "url_to_file"
+      },
+      {
+        "year": "A2",
+        "subject": "Physique",
+        "title": "Cours Physique 1",
+        "type": "Cours",
+        "file": "url_to_file"
+      }
+    ]
+  }
+  

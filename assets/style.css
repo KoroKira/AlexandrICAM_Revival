@@ -1,0 +1,54 @@
+:root {
+    --primary: #2b6cb0;
+    --secondary: #4a5568;
+}
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.grid {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.card {
+    display: block;
+    padding: 1.5rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.file-list a {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 4px;
+}
+
+.file-list a:hover {
+    background: #f7fafc;
+}
+
+/* Style des badges de type de fichier */
+[data-type="pdf"]::before {
+    content: "📄";
+}
+
+[data-type="zip"]::before {
+    content: "📁";
+}
+
+[data-type="image"]::before {
+    content: "🖼️";
+}

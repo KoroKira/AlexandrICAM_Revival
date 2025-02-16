@@ -1,0 +1,1931 @@
+[
+    {
+        "nom": "Conseils pratiques",
+        "description": "Quelques astuces et infos utiles",
+        "image": "/cuisine/img/michel.jpg",
+        "temps_total": "N/A",
+        "temps_preparation": "N/A",
+        "temps_cuisson": "N/A",
+        "difficulte": "N/A",
+        "cout": "N/A",
+        "portions": "N/A",
+        "ingredients": [],
+        "etapes": [],
+        "conseils": [
+            "ATTENTION: ne pas recongeler un produit décongelé",
+            "Pour une cuisine économique, privilégiez les produits de saison et les marques de distributeur",
+            "Achetez en vrac pour réduire les emballages et les coûts",
+            "Planifiez vos repas pour éviter le gaspillage",
+            "Cuisinez en grande quantité et congelez les portions individuelles",
+            "Faites des menus simples et équilibrés pour éviter les tentations extérieures",
+            "Utilisez les restes pour de nouveaux plats (salades, omelettes, soupes...)",
+            "Investissez dans des produits de base de qualité pour une meilleure durabilité",
+            "Faites des conserves et des bocaux pour les légumes et les fruits de saison",
+            "Préférez les aliments complets et bruts pour une meilleure santé",
+            "Évitez les plats préparés et les fast-foods pour des économies à long terme",
+            "Pour les meal prep:",
+            "Les légumes ça se conserve 4/5 jours dans un contenant hermétique au frais, avec un filet de citron et sans assaisonnement",
+            "Les poissons/viandes/oeufs se conservent 3/4 jours au frigo, dans un contenant hermétique, à séparer des glucides, et congelable",
+            "Les glucides/pâtes/riz/patates se conservent 3/4 jours, dans un contenant hermétique au frais, avec matière grasse mais sans sauce, et congelable",
+            "Avant tout surtout, faire confiance à ses yeux et son nez pour savoir si un aliment est encore bon à consommer",
+            "Tes meal prep surtout, fais les séparées: un tupp de viande, un tupp de féculent, un tupp de légumes. Pourquoi ? Comme ça les combinaisons de plat sont infinies"
+        ],
+        "valeurs_nutritives": {},
+        "conservation": "N/A"
+    },
+    {
+        "nom": "Pâtes à la Carbonara Étudiante",
+        "description": "Version économique et savoureuse de la carbonara, parfaite pour les étudiants.",
+        "image": "/cuisine/img/carbonara.jpg",
+        "temps_total": "20 minutes",
+        "temps_preparation": "5 minutes",
+        "temps_cuisson": "15 minutes",
+        "difficulte": "Facile",
+        "cout": "€",
+        "portions": 2,
+        "ingredients": [
+            "200g de pâtes",
+            "100g de lardons fumés",
+            "2 œufs",
+            "50g de parmesan râpé",
+            "2 gousses d'ail",
+            "Poivre noir",
+            "Sel"
+        ],
+        "etapes": [
+            "Faire bouillir une grande casserole d'eau salée pour les pâtes",
+            "Pendant ce temps, faire revenir les lardons dans une poêle sans matière grasse",
+            "Dans un bol, mélanger les œufs avec le parmesan râpé et le poivre",
+            "Cuire les pâtes al dente selon les instructions du paquet",
+            "Écraser l'ail et l'ajouter aux lardons",
+            "Égoutter les pâtes en conservant un peu d'eau de cuisson",
+            "Hors du feu, mélanger les pâtes avec les lardons puis le mélange œufs-parmesan",
+            "Ajouter un peu d'eau de cuisson si nécessaire pour obtenir une sauce crémeuse"
+        ],
+        "conseils": [
+            "Utilisez des pâtes de qualité pour un meilleur résultat",
+            "Le parmesan peut être remplacé par du pecorino moins cher",
+            "Ajoutez l'œuf hors du feu pour éviter qu'il ne cuise trop"
+        ],
+        "valeurs_nutritives": {
+            "calories": 650,
+            "proteines": "28g",
+            "glucides": "85g",
+            "lipides": "22g"
+        },
+        "conservation": "À consommer immédiatement, ne se conserve pas"
+    },
+    {
+        "nom": "Buddha Bowl Économique",
+        "description": "Un repas équilibré et coloré qui ne ruine pas le porte-monnaie.",
+        "image": "/cuisine/img/buddha-bowl.jpg",
+        "temps_total": "30 minutes",
+        "temps_preparation": "15 minutes",
+        "temps_cuisson": "15 minutes",
+        "difficulte": "Facile",
+        "cout": "€",
+        "portions": 2,
+        "ingredients": [
+            "150g de riz complet",
+            "1 patate douce",
+            "1 boîte de pois chiches",
+            "2 carottes",
+            "1 avocat",
+            "100g d'épinards frais",
+            "2 cuillères à soupe d'huile d'olive",
+            "1 citron",
+            "Sel et épices au choix"
+        ],
+        "etapes": [
+            "Rincer le riz et le cuire selon les instructions",
+            "Éplucher et couper la patate douce en dés",
+            "Faire rôtir les dés de patate douce au four (200°C, 20 minutes)",
+            "Rincer et égoutter les pois chiches",
+            "Râper les carottes",
+            "Couper l'avocat en tranches",
+            "Préparer la sauce : mélanger l'huile d'olive, le jus de citron, sel et épices",
+            "Assembler les bols : riz, légumes, pois chiches, sauce"
+        ],
+        "conseils": [
+            "Préparez plus de portions pour les jours suivants",
+            "Variez les légumes selon la saison",
+            "Les pois chiches peuvent être épicés avant d'être ajoutés"
+        ],
+        "valeurs_nutritives": {
+            "calories": 550,
+            "proteines": "15g",
+            "glucides": "65g",
+            "lipides": "28g"
+        },
+        "conservation": "Se conserve 2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Omelette aux Légumes du Placard",
+        "description": "Une recette rapide et personnalisable selon vos ingrédients disponibles.",
+        "image": "/cuisine/img/omelette.jpg",
+        "temps_total": "15 minutes",
+        "temps_preparation": "5 minutes",
+        "temps_cuisson": "10 minutes",
+        "difficulte": "Très facile",
+        "cout": "€",
+        "portions": 1,
+        "ingredients": [
+            "3 œufs",
+            "1 oignon",
+            "1 poivron",
+            "100g de champignons",
+            "30g de fromage râpé",
+            "1 cuillère à soupe d'huile",
+            "Sel et poivre",
+            "Herbes de Provence"
+        ],
+        "etapes": [
+            "Laver et couper tous les légumes en petits dés",
+            "Faire revenir l'oignon dans l'huile jusqu'à ce qu'il soit translucide",
+            "Ajouter les autres légumes et faire cuire 5 minutes",
+            "Battre les œufs avec sel, poivre et herbes",
+            "Verser les œufs sur les légumes",
+            "Parsemer de fromage râpé",
+            "Couvrir et laisser cuire à feu doux 5 minutes"
+        ],
+        "conseils": [
+            "Utilisez les légumes qui vous restent au frigo",
+            "Peut se manger chaud ou froid",
+            "Idéal pour utiliser les restes"
+        ],
+        "valeurs_nutritives": {
+            "calories": 450,
+            "proteines": "25g",
+            "glucides": "12g",
+            "lipides": "35g"
+        },
+        "conservation": "Se conserve 1 jour au réfrigérateur"
+    },
+    {
+        "nom": "Curry de Lentilles Express",
+        "description": "Un plat réconfortant, riche en protéines et très économique.",
+        "image": "/cuisine/img/curry-lentilles.jpg",
+        "temps_total": "25 minutes",
+        "temps_preparation": "10 minutes",
+        "temps_cuisson": "15 minutes",
+        "difficulte": "Facile",
+        "cout": "€",
+        "portions": 4,
+        "ingredients": [
+            "250g de lentilles corail",
+            "1 oignon",
+            "2 carottes",
+            "400ml de lait de coco",
+            "2 cuillères à soupe de curry en poudre",
+            "2 gousses d'ail",
+            "1 morceau de gingembre frais",
+            "Huile d'olive",
+            "Sel et poivre",
+            "Coriandre fraîche (optionnel)"
+        ],
+        "etapes": [
+            "Rincer les lentilles corail",
+            "Émincer l'oignon, râper l'ail et le gingembre",
+            "Couper les carottes en petits dés",
+            "Faire revenir l'oignon dans l'huile d'olive",
+            "Ajouter l'ail, le gingembre et le curry, faire revenir 1 minute",
+            "Ajouter les carottes et les lentilles",
+            "Verser le lait de coco et 200ml d'eau",
+            "Laisser mijoter 15 minutes à feu doux",
+            "Saler, poivrer et ajouter la coriandre"
+        ],
+        "conseils": [
+            "Peut se congeler en portions individuelles",
+            "Accompagnez de riz pour un repas complet",
+            "Ajustez les épices selon vos goûts"
+        ],
+        "valeurs_nutritives": {
+            "calories": 400,
+            "proteines": "18g",
+            "glucides": "45g",
+            "lipides": "15g"
+        },
+        "conservation": "Se conserve 3 jours au réfrigérateur, 3 mois au congélateur"
+    },
+    {
+        "nom": "Salade de Quinoa Méditerranéenne",
+        "description": "Une salade fraîche et nourrissante, parfaite pour les repas à emporter.",
+        "image": "/cuisine/img/salade-quinoa.jpg",
+        "temps_total": "25 minutes",
+        "temps_preparation": "15 minutes",
+        "temps_cuisson": "10 minutes",
+        "difficulte": "Facile",
+        "cout": "€€",
+        "portions": 3,
+        "ingredients": [
+            "200g de quinoa",
+            "1 concombre",
+            "200g de tomates cerises",
+            "1 boîte de pois chiches",
+            "100g de feta",
+            "1 citron",
+            "Huile d'olive",
+            "Basilic frais",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Rincer le quinoa et le cuire selon les instructions",
+            "Pendant ce temps, couper le concombre en dés",
+            "Couper les tomates cerises en deux",
+            "Égoutter et rincer les pois chiches",
+            "Émietter la feta",
+            "Préparer la vinaigrette avec le jus de citron, l'huile d'olive, sel et poivre",
+            "Mélanger tous les ingrédients dans un grand bol",
+            "Ajouter le basilic ciselé",
+            "Laisser reposer au frais 30 minutes avant de servir"
+        ],
+        "conseils": [
+            "Peut se préparer la veille",
+            "Ajoutez des noix ou des graines pour plus de croquant",
+            "Conservez la vinaigrette à part si vous prévoyez de manger plus tard"
+        ],
+        "valeurs_nutritives": {
+            "calories": 380,
+            "proteines": "15g",
+            "glucides": "48g",
+            "lipides": "16g"
+        },
+        "conservation": "Se conserve 2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Wraps Végétariens aux Haricots Noirs",
+        "description": "Des wraps healthy et rassasiants, parfaits pour un repas sur le pouce.",
+        "image": "/cuisine/img/wraps-vegetariens.jpg",
+        "temps_total": "20 minutes",
+        "temps_preparation": "15 minutes",
+        "temps_cuisson": "5 minutes",
+        "difficulte": "Facile",
+        "cout": "€",
+        "portions": 4,
+        "ingredients": [
+            "4 grandes tortillas",
+            "1 boîte de haricots noirs",
+            "1 avocat",
+            "1 poivron rouge",
+            "1 oignon rouge",
+            "100g de maïs en conserve",
+            "100g de fromage râpé",
+            "Sauce sriracha ou sauce piquante",
+            "Jus d'un citron vert",
+            "Sel et épices mexicaines"
+        ],
+        "etapes": [
+            "Égoutter et rincer les haricots noirs",
+            "Écraser les haricots avec une fourchette",
+            "Couper l'avocat en tranches",
+            "Émincer finement le poivron et l'oignon rouge",
+            "Égoutter le maïs",
+            "Réchauffer légèrement les tortillas",
+            "Étaler les haricots écrasés sur les tortillas",
+            "Ajouter les légumes, le fromage et la sauce",
+            "Rouler fermement les wraps"
+        ],
+        "conseils": [
+            "Ajoutez de la crème fraîche pour plus d'onctuosité",
+            "Vous pouvez griller les wraps pour un côté croustillant",
+            "Préparez la garniture à l'avance pour gagner du temps"
+        ],
+        "valeurs_nutritives": {
+            "calories": 420,
+            "proteines": "15g",
+            "glucides": "52g",
+            "lipides": "18g"
+        },
+        "conservation": "Les ingrédients se conservent 2 jours, assembler au dernier moment"
+    },
+    {
+        "nom": "Soupe de Légumes Express au Curry",
+        "description": "Une soupe réconfortante et épicée, prête en un rien de temps.",
+        "image": "/cuisine/img/soupe-legumes.jpg",
+        "temps_total": "25 minutes",
+        "temps_preparation": "10 minutes",
+        "temps_cuisson": "15 minutes",
+        "difficulte": "Très facile",
+        "cout": "€",
+        "portions": 4,
+        "ingredients": [
+            "2 pommes de terre",
+            "2 carottes",
+            "1 oignon",
+            "1 courgette",
+            "1 cube de bouillon de légumes",
+            "1 cuillère à café de curry en poudre",
+            "2 cuillères à soupe de crème fraîche",
+            "Huile d'olive",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Éplucher et couper tous les légumes en dés",
+            "Faire revenir l'oignon dans l'huile d'olive",
+            "Ajouter le curry et faire revenir 1 minute",
+            "Ajouter tous les légumes",
+            "Couvrir d'eau (environ 1L)",
+            "Ajouter le cube de bouillon",
+            "Laisser cuire 15 minutes à feu moyen",
+            "Mixer la soupe",
+            "Ajouter la crème fraîche et assaisonner"
+        ],
+        "conseils": [
+            "Utilisez des légumes surgelés pour gagner du temps",
+            "Ajoutez des croûtons pour plus de croquant",
+            "Peut se congeler en portions individuelles"
+        ],
+        "valeurs_nutritives": {
+            "calories": 180,
+            "proteines": "4g",
+            "glucides": "25g",
+            "lipides": "8g"
+        },
+        "conservation": "Se conserve 3 jours au réfrigérateur, 3 mois au congélateur"
+    },
+    {
+        "nom": "Bowl de Riz au Thon",
+        "description": "Un repas rapide, équilibré et économique qui fait toujours l'affaire.",
+        "image": "/cuisine/img/bowl-thon.jpg",
+        "temps_total": "15 minutes",
+        "temps_preparation": "15 minutes",
+        "temps_cuisson": "0 minutes",
+        "difficulte": "Très facile",
+        "cout": "€",
+        "portions": 2,
+        "ingredients": [
+            "300g de riz cuit",
+            "2 boîtes de thon au naturel",
+            "1 avocat",
+            "2 œufs",
+            "1 concombre",
+            "Sauce soja",
+            "1 cuillère à soupe de graines de sésame",
+            "Mayonnaise (optionnel)",
+            "1 citron"
+        ],
+        "etapes": [
+            "Faire cuire les œufs 6 minutes pour qu'ils soient mollets",
+            "Couper l'avocat en tranches et le concombre en dés",
+            "Égoutter le thon",
+            "Dans chaque bol, disposer le riz",
+            "Ajouter le thon, l'avocat et le concombre",
+            "Couper les œufs en deux et les ajouter",
+            "Arroser de sauce soja",
+            "Parsemer de graines de sésame",
+            "Ajouter un filet de citron et de mayonnaise si désiré"
+        ],
+        "conseils": [
+            "Préparez le riz à l'avance pour gagner du temps",
+            "Vous pouvez remplacer le thon par du saumon en conserve",
+            "Ajoutez des algues nori pour plus d'authenticité"
+        ],
+        "valeurs_nutritives": {
+            "calories": 550,
+            "proteines": "35g",
+            "glucides": "45g",
+            "lipides": "28g"
+        },
+        "conservation": "À consommer dans la journée"
+    },
+    {
+        "nom": "Croque-Monsieur au Four",
+        "description": "Version au four du célèbre sandwich, plus léger et croustillant.",
+        "image": "/cuisine/img/croque-monsieur.jpg",
+        "temps_total": "20 minutes",
+        "temps_preparation": "10 minutes",
+        "temps_cuisson": "10 minutes",
+        "difficulte": "Facile",
+        "cout": "€",
+        "portions": 4,
+        "ingredients": [
+            "8 tranches de pain de mie",
+            "4 tranches de jambon",
+            "200g de fromage râpé",
+            "40g de beurre",
+            "30g de farine",
+            "300ml de lait",
+            "Muscade",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Préchauffer le four à 180°C",
+            "Préparer la béchamel : faire fondre 30g de beurre, ajouter la farine, puis le lait petit à petit",
+            "Assaisonner la béchamel avec sel, poivre et muscade",
+            "Beurrer légèrement les tranches de pain",
+            "Sur 4 tranches, mettre du jambon et du fromage râpé",
+            "Refermer avec les autres tranches",
+            "Napper de béchamel",
+            "Parsemer de fromage râpé",
+            "Enfourner 10 minutes puis 2-3 minutes sous le gril"
+        ],
+        "conseils": [
+            "Utilisez plusieurs types de fromages pour plus de saveur",
+            "Ajoutez des champignons ou des tomates avant la cuisson",
+            "Servez avec une salade verte"
+        ],
+        "valeurs_nutritives": {
+            "calories": 450,
+            "proteines": "22g",
+            "glucides": "35g",
+            "lipides": "25g"
+        },
+        "conservation": "À manger chaud, immédiatement"
+    },
+    {
+        "nom": "Taboulé de Chou-Fleur",
+        "description": "Version légère et sans gluten du taboulé traditionnel.",
+        "image": "/cuisine/img/taboule-choufleur.jpg",
+        "temps_total": "20 minutes",
+        "temps_preparation": "20 minutes",
+        "temps_cuisson": "0 minutes",
+        "difficulte": "Facile",
+        "cout": "€€",
+        "portions": 4,
+        "ingredients": [
+            "1 chou-fleur",
+            "2 tomates",
+            "1 concombre",
+            "1 oignon rouge",
+            "200g de pois chiches en conserve",
+            "1 bouquet de persil",
+            "1 bouquet de menthe",
+            "Le jus de 2 citrons",
+            "4 cuillères à soupe d'huile d'olive",
+            "Sel et poivre",
+            "1 cuillère à café de cumin"
+        ],
+        "etapes": [
+            "Laver le chou-fleur et le râper finement (ou mixer rapidement)",
+            "Couper les tomates et le concombre en petits dés",
+            "Émincer finement l'oignon rouge",
+            "Hacher les herbes",
+            "Égoutter et rincer les pois chiches",
+            "Mélanger tous les ingrédients dans un grand saladier",
+            "Préparer la vinaigrette avec citron, huile, sel, poivre et cumin",
+            "Verser la vinaigrette et bien mélanger",
+            "Laisser reposer 30 minutes au frais"
+        ],
+        "conseils": [
+            "Ne mixez pas trop le chou-fleur pour garder de la texture",
+            "Ajoutez des fruits secs pour plus de croquant",
+            "Ce plat est encore meilleur le lendemain"
+        ],
+        "valeurs_nutritives": {
+            "calories": 280,
+            "proteines": "12g",
+            "glucides": "25g",
+            "lipides": "15g"
+        },
+        "conservation": "Se conserve 3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Gnocchis à la Crème de Champignons",
+        "description": "Un plat réconfortant et crémeux prêt en quelques minutes.",
+        "image": "/cuisine/img/gnocchis-champignons.jpg",
+        "temps_total": "20 minutes",
+        "temps_preparation": "5 minutes",
+        "temps_cuisson": "15 minutes",
+        "difficulte": "Facile",
+        "cout": "€€",
+        "portions": 3,
+        "ingredients": [
+            "500g de gnocchis",
+            "250g de champignons de Paris",
+            "20cl de crème fraîche",
+            "1 oignon",
+            "2 gousses d'ail",
+            "2 cuillères à soupe d'huile d'olive",
+            "1 bouquet de persil",
+            "50g de parmesan",
+            "Sel et poivre",
+            "1 cube de bouillon de légumes"
+        ],
+        "etapes": [
+            "Émincer l'oignon et l'ail",
+            "Nettoyer et couper les champignons en lamelles",
+            "Faire revenir l'oignon et l'ail dans l'huile",
+            "Ajouter les champignons et faire dorer",
+            "Pendant ce temps, faire bouillir de l'eau pour les gnocchis",
+            "Ajouter la crème et le cube de bouillon émietté aux champignons",
+            "Cuire les gnocchis selon les instructions",
+            "Les ajouter à la sauce avec un peu d'eau de cuisson",
+            "Ajouter le persil haché et le parmesan"
+        ],
+        "conseils": [
+            "Ajoutez des épinards frais en fin de cuisson",
+            "Utilisez des champignons variés pour plus de saveurs",
+            "Gardez un peu d'eau de cuisson pour ajuster la sauce"
+        ],
+        "valeurs_nutritives": {
+            "calories": 520,
+            "proteines": "18g",
+            "glucides": "65g",
+            "lipides": "22g"
+        },
+        "conservation": "Se conserve 2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Falafels Maison",
+        "description": "Des falafels croustillants et sains, parfaits dans un sandwich ou une salade.",
+        "categorie": "Plat principal",
+        "image": "/cuisine/img/falafels.jpg",
+        "temps_total": "40 minutes",
+        "temps_preparation": "20 minutes",
+        "temps_cuisson": "20 minutes",
+        "difficulte": "Moyen",
+        "cout": "€",
+        "portions": 4,
+        "ingredients": [
+            "400g de pois chiches en conserve",
+            "1 oignon",
+            "4 gousses d'ail",
+            "1 bouquet de persil",
+            "1 bouquet de coriandre",
+            "2 cuillères à café de cumin",
+            "1 cuillère à café de coriandre en poudre",
+            "1 cuillère à soupe de farine",
+            "Sel et poivre",
+            "Huile pour la cuisson"
+        ],
+        "etapes": [
+            "Égoutter et rincer les pois chiches",
+            "Mixer grossièrement les pois chiches",
+            "Hacher finement l'oignon, l'ail et les herbes",
+            "Mélanger avec les épices et la farine",
+            "Former des petites boules",
+            "Les aplatir légèrement",
+            "Faire chauffer l'huile dans une poêle",
+            "Cuire les falafels 4-5 minutes de chaque côté",
+            "Égoutter sur du papier absorbant"
+        ],
+        "conseils": [
+            "Servez avec une sauce tahini maison",
+            "Peut se congeler cru ou cuit",
+            "Ajoutez du bicarbonate pour plus de légèreté"
+        ],
+        "valeurs_nutritives": {
+            "calories": 320,
+            "proteines": "15g",
+            "glucides": "45g",
+            "lipides": "12g"
+        },
+        "conservation": "3 jours au réfrigérateur, 3 mois au congélateur"
+    },
+    {
+        "nom": "Velouté de Potimarron aux Épices",
+        "description": "Une entrée réconfortante aux saveurs automnales.",
+        "categorie": "Entrée",
+        "image": "/cuisine/img/veloute-potimarron.jpg",
+        "temps_total": "30 minutes",
+        "temps_preparation": "10 minutes",
+        "temps_cuisson": "20 minutes",
+        "difficulte": "Facile",
+        "cout": "€",
+        "portions": 4,
+        "ingredients": [
+            "600g de potimarron",
+            "1 oignon",
+            "1 pomme de terre",
+            "2 carottes",
+            "1 cube de bouillon de légumes",
+            "20cl de crème liquide",
+            "1 cuillère à café de curry",
+            "Sel et poivre",
+            "Graines de courge pour la déco"
+        ],
+        "etapes": [
+            "Éplucher et couper le potimarron en cubes",
+            "Éplucher et couper les autres légumes",
+            "Faire revenir l'oignon dans un peu d'huile",
+            "Ajouter les légumes et le curry",
+            "Couvrir d'eau et ajouter le bouillon",
+            "Laisser cuire 20 minutes",
+            "Mixer finement",
+            "Ajouter la crème",
+            "Décorer de graines de courge"
+        ],
+        "conseils": [
+            "Le potimarron peut être cuit avec la peau",
+            "Ajoutez du lait de coco pour une version plus exotique",
+            "Peut se servir chaud ou froid"
+        ],
+        "valeurs_nutritives": {
+            "calories": 180,
+            "proteines": "4g",
+            "glucides": "20g",
+            "lipides": "10g"
+        },
+        "conservation": "3 jours au réfrigérateur, 3 mois au congélateur"
+    },
+    {
+        "nom": "Mug Cake au Chocolat",
+        "description": "Un dessert gourmand prêt en 5 minutes chrono !",
+        "categorie": "Dessert",
+        "image": "/cuisine/img/mugcake-chocolat.jpg",
+        "temps_total": "5 minutes",
+        "temps_preparation": "3 minutes",
+        "temps_cuisson": "2 minutes",
+        "difficulte": "Très facile",
+        "cout": "€",
+        "portions": 1,
+        "ingredients": [
+            "4 cuillères à soupe de farine",
+            "2 cuillères à soupe de sucre",
+            "2 cuillères à soupe de cacao",
+            "1 œuf",
+            "3 cuillères à soupe de lait",
+            "3 cuillères à soupe d'huile",
+            "1/2 cuillère à café de levure",
+            "1 poignée de pépites de chocolat"
+        ],
+        "etapes": [
+            "Dans un mug, mélanger les ingrédients secs",
+            "Ajouter l'œuf et mélanger",
+            "Ajouter le lait et l'huile",
+            "Bien mélanger pour avoir une pâte lisse",
+            "Ajouter les pépites de chocolat",
+            "Cuire 1 minute 30 au micro-ondes",
+            "Laisser reposer 30 secondes",
+            "Déguster tiède"
+        ],
+        "conseils": [
+            "Ne pas trop cuire pour garder le cœur moelleux",
+            "Ajoutez une boule de glace vanille dessus",
+            "Variez avec différents types de chocolat"
+        ],
+        "valeurs_nutritives": {
+            "calories": 450,
+            "proteines": "8g",
+            "glucides": "55g",
+            "lipides": "22g"
+        },
+        "conservation": "À manger immédiatement"
+    },
+    {
+        "nom": "Houmous aux Betteraves",
+        "description": "Une version colorée et originale du houmous classique.",
+        "categorie": "Entrée",
+        "image": "/cuisine/img/houmous-betterave.jpg",
+        "temps_total": "15 minutes",
+        "temps_preparation": "15 minutes",
+        "temps_cuisson": "0 minutes",
+        "difficulte": "Facile",
+        "cout": "€",
+        "portions": 6,
+        "ingredients": [
+            "400g de pois chiches en conserve",
+            "1 betterave cuite",
+            "2 cuillères à soupe de tahini",
+            "Le jus d'un citron",
+            "2 gousses d'ail",
+            "4 cuillères à soupe d'huile d'olive",
+            "1 cuillère à café de cumin",
+            "Sel et poivre",
+            "Graines de sésame pour la déco"
+        ],
+        "etapes": [
+            "Égoutter et rincer les pois chiches",
+            "Couper la betterave en morceaux",
+            "Mettre tous les ingrédients dans un blender",
+            "Mixer jusqu'à obtenir une texture lisse",
+            "Ajuster l'assaisonnement",
+            "Ajouter un peu d'eau si nécessaire",
+            "Servir dans un bol",
+            "Décorer de graines de sésame et d'un filet d'huile"
+        ],
+        "conseils": [
+            "Gardez un peu d'eau des pois chiches pour ajuster la texture",
+            "Servez avec des crudités ou du pain pita",
+            "Peut se décliner avec d'autres légumes (patate douce, carotte...)"
+        ],
+        "valeurs_nutritives": {
+            "calories": 180,
+            "proteines": "7g",
+            "glucides": "15g",
+            "lipides": "12g"
+        },
+        "conservation": "5 jours au réfrigérateur dans un récipient hermétique"
+    },
+    {
+        "nom": "Brownie aux Haricots Noirs",
+        "description": "Version healthy et protéinée du brownie classique.",
+        "categorie": "Dessert",
+        "image": "/cuisine/img/brownie-haricots.jpg",
+        "temps_total": "35 minutes",
+        "temps_preparation": "15 minutes",
+        "temps_cuisson": "20 minutes",
+        "difficulte": "Facile",
+        "cout": "€€",
+        "portions": 8,
+        "ingredients": [
+            "1 boîte de haricots noirs",
+            "3 œufs",
+            "60g de cacao en poudre",
+            "60ml d'huile de coco",
+            "80g de sirop d'érable",
+            "1 cuillère à café d'extrait de vanille",
+            "1 cuillère à café de levure",
+            "1 pincée de sel",
+            "100g de chocolat noir"
+        ],
+        "etapes": [
+            "Préchauffer le four à 180°C",
+            "Égoutter et rincer les haricots noirs",
+            "Mixer les haricots jusqu'à obtenir une purée lisse",
+            "Faire fondre le chocolat avec l'huile de coco",
+            "Mélanger tous les ingrédients",
+            "Verser dans un moule carré",
+            "Enfourner 20 minutes",
+            "Laisser refroidir complètement avant de couper"
+        ],
+        "conseils": [
+            "Mixez bien les haricots pour ne pas avoir de morceaux",
+            "Testez la cuisson avec la pointe d'un couteau",
+            "Se conserve mieux au réfrigérateur"
+        ],
+        "valeurs_nutritives": {
+            "calories": 220,
+            "proteines": "8g",
+            "glucides": "25g",
+            "lipides": "12g"
+        },
+        "conservation": "5 jours au réfrigérateur, 3 mois au congélateur"
+    },
+    {
+        "nom": "Jarret de bœuf aux pruneaux",
+        "description": "Un plat mijoté savoureux et réconfortant, parfait pour les repas en famille ou entre amis. Le jarret de bœuf, tendre et fondant, se marie à merveille avec les pruneaux et les légumes.",
+        "image": "/cuisine/img/jarret-pruneaux.jpg",
+        "temps_total": "3 heures",
+        "temps_preparation": "30 minutes",
+        "temps_cuisson": "2 heures 30 minutes",
+        "difficulte": "Moyen",
+        "cout": "€€",
+        "portions": 5,
+        "ingredients": [
+            "1,5 kg de jarret de bœuf (ou de viande à mijoter)",
+            "200 g de pruneaux dénoyautés",
+            "2 oignons",
+            "3 carottes",
+            "3 gousses d'ail",
+            "1 bouquet garni (thym, laurier, persil)",
+            "1 L de bouillon de bœuf",
+            "20 cl de vin rouge",
+            "3 cuillères à soupe d’huile d’olive",
+            "1 cuillère à soupe de farine",
+            "1 cuillère à soupe de miel (optionnel)",
+            "Sel, poivre"
+        ],
+        "etapes": [
+            "Éplucher et découper grossièrement les légumes (oignons, carottes, ail).",
+            "Dans une cocotte, faire chauffer l'huile d'olive et dorer le jarret de bœuf sur toutes ses faces. Retirer la viande et réserver.",
+            "Dans la même cocotte, faire revenir les oignons jusqu'à ce qu'ils soient translucides.",
+            "Ajouter les carottes, l'ail et la farine. Bien mélanger.",
+            "Déglacer avec le vin rouge et laisser réduire légèrement.",
+            "Remettre la viande dans la cocotte, ajouter le bouquet garni, le bouillon de bœuf, le sel et le poivre.",
+            "Couvrir et laisser mijoter à feu doux pendant 2 heures.",
+            "30 minutes avant la fin de la cuisson, ajouter les pruneaux et le miel (optionnel).",
+            "Vérifier que la viande est tendre et se déchire facilement.",
+            "Servir chaud, accompagné de purée de pommes de terre ou de légumes frais."
+        ],
+        "conseils": [
+            "Pour un plat encore plus savoureux, préparez la recette la veille et réchauffez-la le lendemain.",
+            "Si vous n'avez pas de vin rouge, vous pouvez le remplacer par du vinaigre balsamique dilué dans un peu d'eau.",
+            "Servez avec des tortillas de maïs pour varier les plaisirs."
+        ],
+        "valeurs_nutritives": {
+            "calories": 450,
+            "proteines": "35g",
+            "glucides": "30g",
+            "lipides": "20g"
+        },
+        "conservation": "Se conserve 2 à 3 jours au réfrigérateur dans un contenant hermétique. Peut également être congelé."
+    },
+    {
+        "nom": "Entrecôtes sauce au bleu, purée de patate douce et poêlée de champignons",
+        "description": "Un repas gourmand et équilibré, alliant la richesse des entrecôtes, la douceur de la purée de patate douce et la saveur d'une poêlée de champignons. Parfait pour les amateurs de viande et de fromage.",
+        "image": "/cuisine/img/entrecote_bleu.jpg",
+        "temps_total": "1 heure",
+        "temps_preparation": "30 minutes",
+        "temps_cuisson": "30 minutes",
+        "difficulte": "Facile",
+        "cout": "€€€",
+        "portions": 4,
+        "ingredients": [
+            "2 ou 3 grosses entrecôtes (300-400 g chacune)",
+            "150 g de fromage bleu",
+            "400 g de champignons de Paris",
+            "500 g de patates douces",
+            "1 échalote",
+            "1 gousse d'ail",
+            "60 g de beurre",
+            "30 cl de crème liquide entière",
+            "Noix de muscade râpée (facultatif)",
+            "1/2 botte de persil frais",
+            "Sel, poivre",
+            "Huile d'olive"
+        ],
+        "etapes": [
+            "Préparer la purée de patate douce :",
+            "  1. Éplucher les patates douces et les couper en petits cubes.",
+            "  2. Les faire cuire dans de l'eau bouillante salée jusqu'à ce qu'elles soient tendres.",
+            "  3. Égoutter et écraser les patates douces.",
+            "  4. Ajouter 30 g de beurre, 10 cl de crème liquide, une pincée de noix de muscade, du sel et du poivre. Mélanger jusqu'à obtenir une purée lisse.",
+            "Préparer la sauce au bleu :",
+            "  1. Émincer finement l'échalote.",
+            "  2. Dans une casserole, faire fondre un peu de beurre et faire revenir l'échalote jusqu'à ce qu'elle soit translucide.",
+            "  3. Émietter le fromage bleu et l'ajouter à la casserole. Laisser fondre à feu doux.",
+            "  4. Incorporer 20 cl de crème liquide et mélanger jusqu'à obtenir une sauce homogène. Poivrer selon votre goût.",
+            "Préparer la poêlée de champignons :",
+            "  1. Nettoyer et couper les champignons en quartiers.",
+            "  2. Dans une poêle chaude, ajouter un peu d'huile d'olive et faire revenir les champignons avec une gousse d'ail hachée.",
+            "  3. Ajouter le persil ciselé en fin de cuisson. Saler et poivrer.",
+            "Cuire les entrecôtes :",
+            "  1. Sortir les entrecôtes du réfrigérateur 30 minutes avant la cuisson pour qu'elles soient à température ambiante.",
+            "  2. Dans une poêle bien chaude, ajouter un peu d'huile d'olive et cuire les entrecôtes 3-4 minutes par côté pour une cuisson saignante (ajuster selon vos préférences).",
+            "  3. Saler et poivrer les entrecôtes après la cuisson.",
+            "Dresser l'assiette :",
+            "  1. Servir une entrecôte accompagnée de purée de patate douce, de champignons et napper légèrement de sauce au bleu."
+        ],
+        "conseils": [
+            "Pour une cuisson parfaite des entrecôtes, utilisez une poêle bien chaude et ne les retournez qu'une seule fois.",
+            "Si vous n'aimez pas le fromage bleu, vous pouvez le remplacer par un autre fromage à pâte persillée comme le roquefort.",
+            "Ajoutez une touche de miel dans la sauce au bleu pour adoucir le goût du fromage."
+        ],
+        "valeurs_nutritives": {
+            "calories": 800,
+            "proteines": "45g",
+            "glucides": "40g",
+            "lipides": "50g"
+        },
+        "conservation": "À consommer immédiatement pour profiter de la viande juteuse et des textures optimales."
+    },
+    {
+        "nom": "Poulet Teriyaki avec brocoli et riz",
+        "description": "Une version simple et rapide du poulet teriyaki, idéale pour un meal prep. Prêt en 30 minutes à 1 heure pour 5 à 10 repas.",
+        "image": "/cuisine/img/poulet_teriyaki.jpg",
+        "temps_total": "1 heure",
+        "temps_preparation": "30 minutes",
+        "temps_cuisson": "30 minutes",
+        "difficulte": "Facile",
+        "cout": "€",
+        "portions": 5,
+        "ingredients": [
+            "500 g de filets de poulet",
+            "1 gros brocoli (ou 2 petits)",
+            "1 oignon rouge, haché",
+            "2 gousses d'ail, hachées",
+            "500 g de riz",
+            "2 cuillères à soupe d'huile de sésame (ou huile végétale)",
+            "60 ml de sauce soja",
+            "60 ml de miel",
+            "60 ml de vinaigre de riz",
+            "1 cuillère à soupe de fécule de maïs (diluée dans un peu d'eau)",
+            "1 cuillère à soupe de gingembre frais râpé",
+            "Graines de sésame (pour garnir)",
+            "Cébette (pour garnir, optionnel)"
+        ],
+        "etapes": [
+            "Préchauffer le four à 200°C.",
+            "Déposer le brocoli et l'oignon sur une plaque de cuisson avec un peu d'huile, de sel, de poivre et un fond d'eau. Enfourner pour 20-25 minutes.",
+            "Pendant ce temps, faire revenir les blancs de poulet découpés en morceaux dans l'huile de sésame avec l'ail.",
+            "Lancer la cuisson du riz.",
+            "Préparer la sauce en mélangeant la sauce soja, le miel, le vinaigre de riz et le gingembre dans une casserole. Faire bouillir légèrement, puis ajouter la fécule de maïs diluée.",
+            "Verser la sauce sur le poulet une fois cuit et bien enrober.",
+            "Dresser le tout avec des graines de sésame et de la cébette."
+        ],
+        "conseils": [
+            "Pour économiser, achetez un poulet entier et démembrez-le vous-même.",
+            "Utilisez du poulet Label Rouge ou fermier pour une meilleure qualité.",
+            "Doublez les quantités si vous êtes un gros mangeur."
+        ],
+        "valeurs_nutritives": {
+            "calories": 450,
+            "proteines": "35g",
+            "glucides": "50g",
+            "lipides": "10g"
+        },
+        "conservation": "Se conserve 3 à 4 jours au réfrigérateur dans un contenant hermétique. Peut être congelé."
+    },
+    {
+        "nom": "Épaule d'agneau au porto",
+        "description": "Un plat mijoté riche en saveurs, où l'agneau est cuit lentement avec du porto pour une viande tendre et fondante. Parfait pour un repas entre amis.",
+        "image": "/cuisine/img/epaule_agneau_porto.jpg",
+        "temps_total": "4 heures",
+        "temps_preparation": "30 minutes",
+        "temps_cuisson": "3 heures 30 minutes",
+        "difficulte": "Moyen",
+        "cout": "€€€",
+        "portions": 4,
+        "ingredients": [
+            "1 épaule ou gigot d'agneau coupé en morceaux",
+            "2 cuillères à soupe d'huile d'olive",
+            "2 échalotes, hachées",
+            "2 gousses d'ail, émincées",
+            "500 ml de porto rouge",
+            "1 cuillère à soupe de vinaigre balsamique",
+            "500 ml de fond de veau",
+            "1 brin de romarin",
+            "1/2 feuille de laurier",
+            "Sel et poivre au goût"
+        ],
+        "etapes": [
+            "Dans une marmite, faire chauffer l'huile d'olive et faire revenir les morceaux d'agneau jusqu'à ce qu'ils soient bien dorés. Saler et poivrer.",
+            "Retirer la viande et faire revenir les échalotes et l'ail jusqu'à ce qu'ils soient translucides.",
+            "Déglacer avec le porto et remettre la viande dans la marmite.",
+            "Ajouter le fond de veau, le reste du porto, le vinaigre balsamique, le romarin et le laurier. Assaisonner à nouveau.",
+            "Laisser mijoter à feu doux pendant 2 à 4 heures. Plus c'est long, plus la viande sera tendre.",
+            "Optionnel : Préparer une sauce en faisant un roux (beurre et farine) et en le mélangeant avec le jus de cuisson.",
+            "Servir avec des pâtes fraîches, une purée de pomme de terre ou des légumes rôtis."
+        ],
+        "conseils": [
+            "Plus la cuisson est longue, plus la viande sera tendre.",
+            "Servez avec un verre de porto pour accompagner le plat.",
+            "Le jus de cuisson est déjà délicieux, mais la sauce au roux ajoute une touche gourmande."
+        ],
+        "valeurs_nutritives": {
+            "calories": 600,
+            "proteines": "40g",
+            "glucides": "15g",
+            "lipides": "35g"
+        },
+        "conservation": "Se conserve 2 à 3 jours au réfrigérateur dans un contenant hermétique. Peut être congelé."
+    },
+    {
+        "nom": "Cote de boeuf au cognac",
+        "description": "Je vais pas passer par 4 chemins, tout ce qui compte, c'est que tu me la rates pas celle-là. Donc on se concentre, focus sur la cuisson, et on boit après la recette, pas pendant. Bon après ça a jamais tué personne de gouter au produit…",
+        "image": "/cuisine/img/cote_boeuf_cognac.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "1h",
+        "difficulte": "Moyen",
+        "cout": "Élevé",
+        "portions": "2-3",
+        "ingredients": [
+            "Une belle côte de Bœuf",
+            "5 cl de cognac",
+            "30g de beurre",
+            "Quelques patates grenaille",
+            "2/3 gousses d’ail",
+            "3/4 branches de romarin",
+            "1 bouquet de persil",
+            "2 Cs de Crème fraiche",
+            "2 Cs d’huile d’olive",
+            "Sel, poivre"
+        ],
+        "etapes": [
+            "Réaliser les PDT : Lave bien tes pommes de terre. Mets-les sur une plaque de cuisson avec sel, poivre, huile d’olive et romarin. Enfourne 45 min à 180°C.",
+            "Maitriser le St-Graal : Sors la côte de bœuf du frigo 1h avant. Sale des deux côtés. Saisis dans une poêle bien chaude. Ajoute beurre, romarin, ail et arrose la viande. Enveloppe dans du papier cuisson et laisse reposer 10 min.",
+            "Finir par la sauce : Déglace la poêle avec le cognac. Ajoute un peu de bouillon ou d’eau, puis la crème. Assaisonne et verse sur la viande."
+        ],
+        "conseils": [
+            "Ne flambe pas le cognac si tu n'es pas à l'aise avec cette technique.",
+            "Laisse la viande reposer après cuisson pour qu'elle reste juteuse."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "450 kcal",
+            "Protéines": "35 g",
+            "Glucides": "10 g",
+            "Lipides": "30 g"
+        },
+        "conservation": "2 jours au frigo"
+    },
+    {
+        "nom": "Club Crevette",
+        "description": "Je sais pas si c’est le meilleur choix pour un repas de St-Valentin, mais c’est très bon et simple à faire. Je le vends bien pas vrai ? Dis que je le vends bien.",
+        "image": "/cuisine/img/club_crevette.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "portions": "2",
+        "ingredients": [
+            "6 tranches de pain de mie",
+            "400g de crevettes décortiquées",
+            "2 avocats bien mûrs",
+            "1 radis noir",
+            "2 citron vert",
+            "1 petit morceau de gingembre frais",
+            "1 grenade (le fruit)",
+            "Huile d’olive",
+            "Sel et Poivre",
+            "Wasabi",
+            "Piment d’Espelette",
+            "4 Piques en bois"
+        ],
+        "etapes": [
+            "Marine les crevettes avec gingembre, wasabi, huile d’olive, jus et zeste de citron. Assaisonne et laisse au frais.",
+            "Écrase les avocats avec zeste et jus de citron, piment, sel et poivre.",
+            "Découpe le radis noir en tranches fines et la grenade en grains.",
+            "Fais griller les tranches de pain à 180°C pendant 5 min.",
+            "Empile les couches : pain, avocat, radis, crevettes, avocat, pain. Pique avec des piques en bois."
+        ],
+        "conseils": [
+            "Ne découpe pas le sandwich avant de l'avoir piqué pour éviter qu'il ne s'effondre."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "20 g",
+            "Glucides": "25 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "1 jour au frigo"
+    },
+    {
+        "nom": "Tripes de BP",
+        "description": "Un bon gros plat de brute, la recette vient de chez Bonne Pitance. C’est à gouter au moins une fois. Certains adorent, d’autres détestent, moi je dirai qu’après 8h de cuisson, tout se mange.",
+        "image": "/cuisine/img/tripes_bp.jpg",
+        "temps_total": "8h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "7h30",
+        "difficulte": "Difficile",
+        "cout": "Moyen",
+        "portions": "4-6",
+        "ingredients": [
+            "1.5 kg de tripes",
+            "1 pied de veau",
+            "300g de bœuf",
+            "75 cl de cidre fermier",
+            "25 cl de calva",
+            "1 bouquet garni",
+            "4/5 carottes",
+            "1 poireau",
+            "Farine, eau",
+            "Sel, poivre"
+        ],
+        "etapes": [
+            "Découpe les tripes en petits cubes de 2 cm par 2 cm.",
+            "Lave et découpe les légumes grossièrement.",
+            "Mets tout dans une marmite avec les légumes, le pied de veau, le bœuf, les alcools et le bouquet garni. Complète avec de l’eau.",
+            "Scelle la marmite avec un mélange de farine et d’eau.",
+            "Cuisine 6h-8h à 180°C."
+        ],
+        "conseils": [
+            "Commande les ingrédients chez ton boucher quelques jours avant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "30 g",
+            "Glucides": "10 g",
+            "Lipides": "25 g"
+        },
+        "conservation": "3 jours au frigo"
+    },
+    {
+        "nom": "Pâtes aux Crevettes",
+        "description": "Les petites pâtes à l’encre de seiche, elles font leur petit effet gamin. Du gout à l’esthétique, c’est un 10/10.",
+        "image": "/cuisine/img/pates_crevettes.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "portions": "2",
+        "ingredients": [
+            "300 g de spaghetti à l'encre de seiche",
+            "200 g de crevettes",
+            "2 gousses d’ail",
+            "4 Cs d’huile d’olive",
+            "1 petit piment rouge frais",
+            "Zeste d’un demi-citron",
+            "Persil frais",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Fais cuire les pâtes selon les instructions.",
+            "Fais revenir l’ail et le piment dans l’huile d’olive. Ajoute les crevettes et assaisonne.",
+            "Retire les crevettes, ajoute les pâtes égouttées et un peu d'eau de cuisson. Mélange jusqu'à ce que les pâtes soient crémeuses.",
+            "Ajoute les crevettes, le zeste de citron et le persil."
+        ],
+        "conseils": [
+            "Utilise des pâtes fraîches pour un meilleur résultat."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "25 g",
+            "Glucides": "50 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "1 jour au frigo"
+    },
+    {
+        "nom": "Ragout de Bœuf",
+        "description": "Un Meal prep ou un festin, pas cher, bon à crever et facile à faire. C’est plus une recette c’est une leçon d’humilité.",
+        "image": "/cuisine/img/ragout_boeuf.jpg",
+        "temps_total": "6h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "5h30",
+        "difficulte": "Moyen",
+        "cout": "Élevé",
+        "portions": "4-5",
+        "ingredients": [
+            "1 kg de bœuf à mijoter (gîte, paleron, ou macreuse)",
+            "400g de pulpe de tomates en dés",
+            "3 carottes",
+            "2 branches de céleri",
+            "2 pommes de terre",
+            "2 oignons",
+            "3 gousses d’ail",
+            "1 bouquet garni (thym, laurier)",
+            "2 cuillères à soupe de farine",
+            "500 ml de vin rouge",
+            "500 ml de bouillon de bœuf",
+            "Huile d'olive",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Fais revenir la viande dans une marmite. Retire-la.",
+            "Fais revenir les oignons, l’ail et les herbes.",
+            "Remets la viande, saupoudre de farine et déglace au vin rouge.",
+            "Ajoute les tomates, les légumes et le bouillon. Laisse mijoter 2h à 6h."
+        ],
+        "conseils": [
+            "Plus la cuisson est longue, plus la viande sera tendre."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "500 kcal",
+            "Protéines": "40 g",
+            "Glucides": "20 g",
+            "Lipides": "30 g"
+        },
+        "conservation": "3 jours au frigo"
+    },
+    {
+        "nom": "Saumon Gravlax",
+        "description": "T’as été missionné de faire une partie du repas de Noël ou t’as juste envie de te faire kiffer, c’est cadeau.",
+        "image": "/cuisine/img/saumon_gravlax.jpg",
+        "temps_total": "48h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Élevé",
+        "portions": "4",
+        "ingredients": [
+            "500 g de filet de saumon",
+            "100 g de sel fin",
+            "100 g de sucre",
+            "1 Cs de poivre noir concassé",
+            "1 bouquet d’aneth frais",
+            "Zeste d’un citron non traité",
+            "Jus d’un demi-citron",
+            "2 Cs de moutarde à l’ancienne",
+            "1 Cs de miel",
+            "2 Cs de vinaigre de cidre ou de vin blanc",
+            "4 Cs d’huile d’olive",
+            "1 bouquet d’aneth haché",
+            "Sel et poivre au goût"
+        ],
+        "etapes": [
+            "Mélange le sel, le sucre, le poivre, les zestes de citron et l’aneth.",
+            "Dépose une couche de marinade dans un plat, place le saumon dessus, puis recouvre avec le reste de la marinade.",
+            "Verse un filet de jus de citron, enveloppe dans du film plastique et pèse avec un poids. Laisse mariner 12h à 48h au frigo.",
+            "Rince légèrement le saumon, sèche-le et découpe en tranches fines.",
+            "Prépare la sauce en mélangeant moutarde, miel, vinaigre, huile d’olive et aneth."
+        ],
+        "conseils": [
+            "Plus la marinade est longue, plus le goût sera prononcé."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "25 g",
+            "Glucides": "5 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "3 jours au frigo"
+    },
+    {
+        "nom": "Chicken Teriyaki",
+        "description": "Un classique parmi les classiques. Du poulet nappé de sauce teriyaki maison, des brocolis rôtis croustillants et du riz jasmin bien parfumé. Facile à préparer, parfait pour 5 repas et validé par les estomacs affamés.",
+        "image": "/cuisine/img/chicken_teriyaki.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "25 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "portions": "5",
+        "ingredients": [
+            "500 g de filets de poulet",
+            "120 ml de sauce soja",
+            "60 ml de miel (ou sirop d’érable)",
+            "60 ml de vinaigre de riz",
+            "1 cuillère à soupe de fécule de maïs (diluée dans un peu d’eau)",
+            "1 cuillère à soupe de gingembre frais râpé",
+            "1 cuillère à soupe d’huile de sésame",
+            "Graines de sésame (garniture)",
+            "Oignons verts hachés (optionnel)",
+            "1 gros brocoli (ou 2 petits, en fleurettes)",
+            "1 oignon rouge (émincé)",
+            "1 cuillère à soupe d’huile de sésame",
+            "Sel et poivre",
+            "250 g de riz jasmin",
+            "500 ml d’eau"
+        ],
+        "etapes": [
+            "Prépare le riz jasmin en le rinçant et en le cuisant avec 2 fois son volume d’eau.",
+            "Préchauffe le four à 200°C. Mélange les brocolis et l’oignon rouge avec l’huile de sésame, sel et poivre. Enfourne 20-25 min.",
+            "Coupe le poulet en morceaux et fais-le revenir dans l’huile de sésame pendant 5-7 min.",
+            "Prépare la sauce teriyaki en mélangeant sauce soja, miel, vinaigre de riz et gingembre. Ajoute la fécule diluée et laisse épaissir.",
+            "Mélange le poulet avec la sauce et sers avec le riz et les brocolis."
+        ],
+        "conseils": [
+            "Double la dose de sauce si tu aimes les plats bien nappés."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "35 g",
+            "Glucides": "40 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "3 jours au frigo"
+    },
+    {
+        "nom": "Tiramisu Citron Vert",
+        "description": "Une revisite ultra-fraîche du classique italien, avec du citron vert qui vient twister le mascarpone et donner une vibe estivale à ce dessert déjà culte (bordel je parle bien). Facile, rapide, un peu dangereux.",
+        "image": "/cuisine/img/tiramisu_citron.jpg",
+        "temps_total": "4h30",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "portions": "6",
+        "ingredients": [
+            "250 g de mascarpone",
+            "3 œufs (jaunes et blancs séparés)",
+            "100 g de sucre",
+            "Le zeste et le jus de 3 citrons verts",
+            "20 cl de crème liquide entière (bien froide)",
+            "200 g de biscuits à la cuillère (ou boudoirs)",
+            "20 cl de lait",
+            "2 cuillères à soupe de liqueur de citron vert ou de rhum (optionnel)",
+            "Cacao en poudre (facultatif)",
+            "Zestes supplémentaires de citron vert"
+        ],
+        "etapes": [
+            "Bats les jaunes d’œufs avec le sucre jusqu’à ce que ça devienne pâle et mousseux.",
+            "Ajoute le mascarpone et mélange bien. Incorpore le jus et les zestes de citron vert.",
+            "Monte la crème en chantilly et les blancs en neige. Incorpore-les délicatement au mélange.",
+            "Trempe les biscuits dans le lait mélangé à la liqueur.",
+            "Monte le tiramisu en alternant couches de biscuits et crème. Termine par une couche de crème.",
+            "Laisse reposer au frigo au moins 4 heures. Saupoudre de cacao ou décore avec des zestes avant de servir."
+        ],
+        "conseils": [
+            "Fais double dose, ça part vite !"
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "8 g",
+            "Glucides": "30 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "2 jours au frigo"
+    },
+    {
+        "nom": "Calamars Tequila",
+        "description": "Un plat qui sent bon le soleil, l’audace, et la cuite aussi. Avec des calamars grillés marinés à la tequila et un riz pilaf acidulé pour l’accompagner. Parfait pour une soirée entre potes où on sort les tentacules et les flammes (sans cramer la baraque, promis).",
+        "image": "/cuisine/img/calamars_tequila.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "1h",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Élevé",
+        "portions": "4",
+        "ingredients": [
+            "500 g de calamars frais (anneaux ou tubes)",
+            "2 cuillères à soupe de tequila",
+            "2 jalapeños (1 pour la marinade, 1 pour la garniture)",
+            "2 gousses d'ail, hachées",
+            "2 cuillères à soupe de jus de citron vert",
+            "1 cuillère à soupe d'huile d'olive",
+            "1 cuillère à café de cumin moulu",
+            "1 cuillère à café de paprika fumé",
+            "Sel et poivre",
+            "Coriandre fraîche (pour la garniture)",
+            "Tranches de citron vert (pour servir)",
+            "400 g de riz basmati ou long grain",
+            "2 petits oignons, émincés",
+            "2 gousses d'ail, hachées",
+            "2 cuillères à soupe de beurre ou d'huile d'olive",
+            "800 ml de bouillon de volaille ou légumes",
+            "2 bouquets de coriandre fraîche, hachée",
+            "Zeste et jus de 2 citrons verts",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Marine les calamars avec ail, jalapeño, tequila, jus de citron vert, huile d’olive, cumin, paprika, sel et poivre pendant 30 min à 1h.",
+            "Fais griller les calamars rapidement à feu vif. Ajoute un filet de tequila pour flamber.",
+            "Prépare le riz pilaf en faisant revenir oignon et ail dans du beurre. Ajoute le riz, puis le bouillon. Laisse cuire 15 min.",
+            "Ajoute coriandre, zeste et jus de citron vert au riz.",
+            "Sers les calamars avec le riz pilaf, des jalapeños frais et des tranches de citron vert."
+        ],
+        "conseils": [
+            "Attention à ne pas trop cuire les calamars pour éviter qu’ils ne deviennent caoutchouteux."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "30 g",
+            "Glucides": "40 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "2 jours au frigo"
+    },
+    {
+        "nom": "Agneau au Porto",
+        "description": "Un plat pour les vrais gourmands : de l’agneau mijoté dans du porto, servi avec une purée maison ou des pâtes fraiches. C’est généreux, c’est bonne ambiance, et ça garantit des invitations à dîner toutes les semaines. En plus le porto, c’est un banger, c’est normal c’est portugais.",
+        "image": "/cuisine/img/agneau_porto.jpg",
+        "temps_total": "2h30",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "2h",
+        "difficulte": "Moyen",
+        "cout": "Élevé",
+        "portions": "4",
+        "ingredients": [
+            "600 g d’agneau (épaule ou gigot), coupé en morceaux",
+            "2 c. à soupe d’huile d’olive",
+            "2 échalotes, hachées",
+            "2 gousses d’ail, émincées",
+            "250 ml de porto rouge",
+            "1 c. à soupe de vinaigre balsamique",
+            "200 ml de bouillon de viande",
+            "1 brin de romarin frais",
+            "1 feuille de laurier",
+            "Sel, poivre",
+            "800 g de pommes de terre",
+            "100 ml de lait chaud",
+            "50 g de beurre",
+            "Sel, poivre, muscade"
+        ],
+        "etapes": [
+            "Saisis l’agneau dans l’huile d’olive. Réserve.",
+            "Fais revenir échalotes et ail dans la même cocotte.",
+            "Déglace avec le porto et laisse réduire.",
+            "Remets l’agneau, ajoute vinaigre balsamique, bouillon, romarin et laurier. Laisse mijoter 1h30 à 2h.",
+            "Prépare la purée en écrasant les pommes de terre cuites avec lait, beurre, sel, poivre et muscade.",
+            "Sers l’agneau nappé de sauce avec la purée."
+        ],
+        "conseils": [
+            "Laisse réduire la sauce pour qu’elle soit bien onctueuse."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "500 kcal",
+            "Protéines": "40 g",
+            "Glucides": "30 g",
+            "Lipides": "25 g"
+        },
+        "conservation": "3 jours au frigo"
+    },
+    {
+        "nom": "Tortilla au Boeuf Mariné",
+        "description": "Une recette pour ceux qui veulent des repas prêts à déguster après une longue journée. Bœuf mariné, légumes frais, tortillas chaudes et une sauce à l’ail qui tabasse. Rapide à assembler, parfait pour la semaine de taff !",
+        "image": "/cuisine/img/tortilla_boeuf.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "1h",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "portions": "4",
+        "ingredients": [
+            "500 g de bœuf (bavette, faux-filet ou rumsteak)",
+            "2 c. à soupe d’huile d’olive",
+            "1 c. à soupe de yaourt grec",
+            "1 c. à soupe de jus de citron",
+            "2 gousses d’ail hachées",
+            "1 c. à café de cumin",
+            "1 c. à café de paprika fumé",
+            "1 c. à café de coriandre moulue",
+            "½ c. à café de cannelle",
+            "½ c. à café de curcuma",
+            "¼ c. à café de poivre de Cayenne (facultatif)",
+            "Sel, poivre",
+            "1 oignon rouge, émincé",
+            "Quelques feuilles de chou ou laitue, émincées",
+            "1 tomate en dés",
+            "1 concombre en cubes",
+            "5 tortillas de blé ou maïs",
+            "150 g de yaourt grec",
+            "1 c. à soupe de jus de citron",
+            "1 gousse d’ail, hachée finement",
+            "1 c. à soupe d’huile d’olive",
+            "Sel, poivre",
+            "Coriandre fraîche (en option)"
+        ],
+        "etapes": [
+            "Marine le bœuf avec huile d’olive, yaourt grec, jus de citron, ail et épices pendant 1h à toute la nuit.",
+            "Prépare la sauce en mélangeant yaourt grec, jus de citron, ail, huile d’olive, sel et poivre.",
+            "Fais cuire le bœuf mariné à feu vif pendant 5-7 min.",
+            "Prépare les garnitures : oignon rouge, tomate, concombre, laitue.",
+            "Réchauffe les tortillas et garnis-les avec le bœuf, les légumes et la sauce."
+        ],
+        "conseils": [
+            "Double la dose de marinade si tu aimes les saveurs prononcées."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "35 g",
+            "Glucides": "30 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "2 jours au frigo"
+    },
+    {
+        "nom": "Mochis aux Myrtilles",
+        "description": "J’aime pas les mochis, mais j’aime tout ce que je fais. Alors on teste une recette pour voir si je change d’avis. Mochis maison aux myrtilles, c’est sucré, c’est chelou à malaxer, mais c’est marrant à faire.",
+        "image": "/cuisine/img/mochis_myrtilles.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "45 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "portions": "6",
+        "ingredients": [
+            "90 g de myrtilles (rincées)",
+            "90 g de lait ou lait végétal",
+            "40 g de sucre",
+            "100 g de farine de riz gluant",
+            "30 g de fécule de maïs",
+            "20 g de beurre non salé",
+            "150 g de crème épaisse à fouetter",
+            "15 g de sucre",
+            "4 c. à soupe de confiture de myrtille (ou des myrtilles fraîches en morceaux)",
+            "50 g de farine de riz gluant (pour éviter que ça colle)"
+        ],
+        "etapes": [
+            "Prépare la pâte de mochi en mixant myrtilles, lait, sucre, farine de riz gluant et fécule. Fais cuire au micro-ondes en plusieurs fois jusqu’à obtenir une pâte élastique. Ajoute le beurre.",
+            "Monte la garniture en fouettant la crème avec le sucre et en incorporant la confiture de myrtille.",
+            "Forme les mochis en étalant la pâte, en découpant des cercles et en les garnissant. Referme en boules.",
+            "Laisse reposer au congélateur 15 min avant de servir."
+        ],
+        "conseils": [
+            "Utilise un emporte-pièce pour des mochis bien ronds."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "3 g",
+            "Glucides": "35 g",
+            "Lipides": "5 g"
+        },
+        "conservation": "2 jours au frigo"
+    },
+    {
+        "nom": "Canard au Génépi",
+        "description": "Une viande tendre cuite dans sa propre graisse, une sauce au Génépi qui fait chanter les papilles, et des patates dorées au persil. Simple, efficace, et parfait pour impressionner.",
+        "image": "/cuisine/img/canard_genepi.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "1h",
+        "difficulte": "Moyen",
+        "cout": "Élevé",
+        "portions": "2",
+        "ingredients": [
+            "2 magrets de canard",
+            "5 cl de liqueur de Génépi (de chez De Michellot)",
+            "2 c. à soupe de miel",
+            "1 échalote finement hachée",
+            "1 branche de thym",
+            "1 branche de romarin",
+            "10 cl de fond de veau",
+            "30 g de beurre",
+            "Sel, poivre",
+            "1 c. à soupe de vinaigre balsamique (optionnel)",
+            "800 g de pommes de terre (type Charlotte ou Bintje)",
+            "Graisse de canard (récupérée des magrets ou en pot)",
+            "2 gousses d’ail, hachées",
+            "Persil frais haché",
+            "Sel, poivre"
+        ],
+        "etapes": [
+            "Prépare les magrets en les quadrillant et en les cuisant côté peau dans une poêle froide. Retire la graisse fondue et réserve.",
+            "Fais cuire les magrets au four à 180°C pendant 5 min pour une cuisson rosée.",
+            "Prépare la sauce au Génépi en faisant revenir l’échalote, en déglassant avec le Génépi, en ajoutant miel, thym, romarin et fond de veau. Monte la sauce au beurre.",
+            "Fais cuire les pommes de terre dans la graisse de canard jusqu’à ce qu’elles soient dorées. Ajoute l’ail et le persil en fin de cuisson.",
+            "Sers les magrets tranchés avec la sauce et les pommes de terre."
+        ],
+        "conseils": [
+            "Laisse reposer les magrets après cuisson pour qu’ils restent juteux."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "600 kcal",
+            "Protéines": "40 g",
+            "Glucides": "30 g",
+            "Lipides": "35 g"
+        },
+        "conservation": "2 jours au frigo"
+    },
+    {
+        "nom": "Boeuf au Calva",
+        "description": "Un bon tournedos saignant (obligatoire), une sauce au calva flambé pour que tu te sentes un peu pyromane, et des pommes fondantes pour le petit twist sucré-salé. À partager entre potes ou à sortir pour impressionner ton prochain date.",
+        "image": "/cuisine/img/boeuf_calva.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Élevé",
+        "portions": "2",
+        "ingredients": [
+            "4 tournedos de bœuf (ou filets de 180 g chacun)",
+            "2 c. à soupe de beurre",
+            "1 c. à soupe d'huile d'olive",
+            "2 échalotes, finement hachées",
+            "100 ml de calva",
+            "200 ml de crème fraîche épaisse",
+            "1 c. à café de moutarde au miel",
+            "Sel, poivre",
+            "Persil frais (pour la déco, ou le flex)",
+            "Quelques pommes (type golden ou reinette)",
+            "Patates à frites ou au four",
+            "Huile d'olive",
+            "Herbes de Provence (parce que t’as du goût)"
+        ],
+        "etapes": [
+            "Saisis les tournedos dans le beurre et l’huile d’olive. Réserve.",
+            "Fais revenir les échalotes dans la même poêle. Déglace avec le calva et flambe.",
+            "Ajoute la crème fraîche et la moutarde. Laisse mijoter jusqu’à épaississement.",
+            "Caramélise les pommes dans une poêle avec du beurre et du sucre.",
+            "Fais cuire les patates au four avec huile d’olive, sel, poivre et herbes de Provence.",
+            "Sers les tournedos nappés de sauce avec les pommes et les patates."
+        ],
+        "conseils": [
+            "Flambe le calva avec précaution pour éviter les accidents."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "700 kcal",
+            "Protéines": "50 g",
+            "Glucides": "40 g",
+            "Lipides": "40 g"
+        },
+        "conservation": "2 jours au frigo"
+    },
+    {
+        "nom": "Accras de morue",
+        "description": "Croustillants à l’extérieur, moelleux à l’intérieur, avec un goût de morue bien présent. La version portugaise des acras, signée : la Mamie de Mathéo (LeFrenchGourmet).",
+        "image": "/cuisine/img/accras_morue.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "1h",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "portions": "4",
+        "ingredients": [
+            "500 g de morue",
+            "500 g de pommes de terre",
+            "½ oignon",
+            "½ bouquet de persil (ou plus, c’est toi le boss)",
+            "2 gousses d’ail",
+            "3 œufs (ajuste selon la texture)",
+            "Sel",
+            "Poivre",
+            "Huile pour friture",
+            "Farine",
+            "Épices (optionnel : paprika, piment doux, etc.)"
+        ],
+        "etapes": [
+            "Dessale la morue si besoin. Fais-la cuire dans de l’eau frémissante pendant 10-15 min. Émiette-la.",
+            "Fais cuire les pommes de terre dans de l’eau salée. Écrase-les en purée.",
+            "Mélange la morue, la purée, l’oignon, l’ail, le persil et les épices. Ajoute les œufs un par un.",
+            "Forme des quenelles et fais-les frire dans l’huile chaude jusqu’à ce qu’elles soient dorées.",
+            "Égoutte sur du papier absorbant."
+        ],
+        "conseils": [
+            "Ne mixe pas la morue, elle doit être émiettée à la main."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "20 g",
+            "Glucides": "25 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "2 jours au frigo"
+    },
+    {
+        "nom": "Gua Bao",
+        "description": "Les fameux petits pains vapeur asiatiques, et comme je suis sympa, je t’ai mit 2 garnitures, porc caramélisé ou aubergines épicées. Parfait pour un date qui claque.",
+        "image": "/cuisine/img/gua_bao.jpg",
+        "temps_total": "2h",
+        "temps_preparation": "1h30",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "portions": "4",
+        "ingredients": [
+            "300 g de farine T45",
+            "15 cl d’eau tiède",
+            "1 c. à café de levure de boulanger sèche",
+            "1 pincée de sel",
+            "1 c. à soupe d’huile de sésame",
+            "300 g de poitrine de porc",
+            "2 c. à soupe d’huile de sésame",
+            "2 gousses d’ail",
+            "1 c. à soupe de gingembre râpé",
+            "1 c. à café de cinq-épices",
+            "2 c. à soupe de sauce soja",
+            "1 c. à soupe de vinaigre de riz",
+            "1 c. à soupe de sucre de canne",
+            "1 concombre (en tranches fines)",
+            "Cacahuètes concassées",
+            "Cébettes émincées",
+            "Coriandre fraîche",
+            "2 aubergines",
+            "1 gousse d’ail",
+            "1 petit piment (doucement sur la dose)",
+            "1 c. à soupe de miso",
+            "1 c. à soupe de sauce soja",
+            "1 c. à soupe de sucre",
+            "Paillettes d’algues (optionnel)",
+            "Basilic frais"
+        ],
+        "etapes": [
+            "Prépare les pains Gua Bao en mélangeant farine, levure, sel, eau et huile de sésame. Laisse reposer 1h30, puis forme des petits pains et fais-les cuire à la vapeur.",
+            "Marine le porc avec ail, gingembre, cinq-épices, sauce soja, vinaigre de riz et sucre. Fais-le revenir jusqu’à caramélisation.",
+            "Prépare les aubergines épicées en les faisant revenir avec ail, piment, miso, sauce soja et sucre.",
+            "Garnis les pains avec le porc ou les aubergines, ajoute concombre, cacahuètes et coriandre."
+        ],
+        "conseils": [
+            "Attention à ne pas trop réduire la sauce du porc pour éviter qu’elle ne devienne trop salée."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "20 g",
+            "Glucides": "40 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "2 jours au frigo"
+    },
+    {
+        "nom": "Barbecue & Pastèque",
+        "description": "Bon c’est pas compliqué, je t’ai fait un top 3 de mes viandes préférées (j’ai évidement enlevé le bœuf qui est premier de loin). Et on se met une petite salade de pastèque pour la fraicheur qui fait bien plaisir en été.",
+        "image": "/cuisine/img/barbecue_pasteque.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "1h",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "portions": "4",
+        "ingredients": [
+            "1 pastèque",
+            "140 g de feta",
+            "1 tomate cœur de bœuf",
+            "1/2 oignon rouge",
+            "10 feuilles de menthe",
+            "5 c. à soupe d’huile d’olive",
+            "3 c. à soupe de vinaigre de cidre",
+            "Sel, poivre",
+            "2/3 ventrèches",
+            "2 c. à soupe de sauce hoisin",
+            "2 c. à soupe de sauce soja",
+            "Le jus d’1 citron vert",
+            "1 gousse d’ail hachée",
+            "2 c. à soupe de coriandre ciselée",
+            "2/3 hauts de cuisse de poulet",
+            "2 gousses d’ail",
+            "50 g de gingembre pelé",
+            "1/2 bouquet de coriandre",
+            "1 c. à café de cumin",
+            "1/2 c. à café de curcuma",
+            "1 pincée de piment de Cayenne",
+            "1 pincée de noix de muscade",
+            "2 yaourts",
+            "1 c. à soupe d’huile de tournesol",
+            "Le jus d’1 citron",
+            "1/2 c. à café de sucre",
+            "1 c. à soupe de ketchup",
+            "Sel, poivre",
+            "2/3 côtelettes d’agneau",
+            "Huile",
+            "Sel, poivre",
+            "Herbes de Provence"
+        ],
+        "etapes": [
+            "Prépare la salade de pastèque en mélangeant pastèque, feta, tomate, oignon, menthe, huile d’olive, vinaigre de cidre, sel et poivre.",
+            "Marine les ventrèches avec sauce hoisin, sauce soja, jus de citron, ail et coriandre. Fais griller.",
+            "Marine les hauts de cuisse de poulet avec ail, gingembre, coriandre, cumin, curcuma, piment de Cayenne, muscade, yaourts, huile, jus de citron, sucre, ketchup, sel et poivre. Fais cuire.",
+            "Assaisonne les côtelettes d’agneau avec huile, sel, poivre et herbes de Provence. Fais griller.",
+            "Sers tout ensemble."
+        ],
+        "conseils": [
+            "Laisse mariner les viandes au moins 2h pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "500 kcal",
+            "Protéines": "40 g",
+            "Glucides": "30 g",
+            "Lipides": "25 g"
+        },
+        "conservation": "2 jours au frigo"
+    },
+    {
+        "nom": "Brochettes de Poulet Citronnées",
+        "description": "Des brochettes de poulet marinées au citron et thym, accompagnées d’une salade avec des nectarines rôties. Simple, frais, et parfait pour ton prochain date ou ton BBQ entre potes.",
+        "image": "/cuisine/img/brochettes_poulet.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "portions": "4",
+        "ingredients": [
+            "4 hauts de cuisse de poulet désossés",
+            "2 citrons jaunes bio",
+            "2 citrons confits au sel",
+            "1 bouquet de thym frais",
+            "10 cl d’huile d’olive",
+            "Sel, poivre",
+            "2 boules de mozzarella di bufala",
+            "4 tomates anciennes de différentes couleurs",
+            "2 nectarines",
+            "Quelques feuilles de basilic",
+            "Huile d’olive",
+            "Sel, poivre"
+        ],
+        "etapes": [
+            "Marine le poulet avec jus de citron, citrons confits, thym, huile d’olive, sel et poivre pendant 1h.",
+            "Monte les brochettes et fais-les griller.",
+            "Prépare la salade avec tomates, mozzarella, nectarines rôties, basilic, huile d’olive, sel et poivre.",
+            "Sers les brochettes avec la salade."
+        ],
+        "conseils": [
+            "Laisse mariner le poulet plus longtemps pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "35 g",
+            "Glucides": "20 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "2 jours au frigo"
+    },
+    {
+        "nom": "Riz Poulet Coco Express",
+        "description": "Stop le riz-thon tristesse. Ce plat, c’est du riz parfumé, du poulet juteux, une sauce au lait de coco et le croquant des cacahuètes. Simple, rapide, mais surtout, ça a de la gueule.",
+        "image": "/cuisine/img/riz_poulet_coco.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "portions": "4",
+        "ingredients": [
+            "Riz (au choix, mais un bon basmati ça claque)",
+            "Poulet (découpé en morceaux)",
+            "1 boîte de lait de coco",
+            "Cacahuètes (non salées si possible)",
+            "Coriandre fraîche",
+            "Sel, poivre",
+            "Beurre",
+            "Huile d’olive"
+        ],
+        "etapes": [
+            "Fais cuire le riz.",
+            "Fais revenir le poulet dans un mélange d’huile d’olive et de beurre. Ajoute cacahuètes et coriandre.",
+            "Déglace avec le lait de coco et laisse mijoter.",
+            "Sers le riz avec le poulet et la sauce."
+        ],
+        "conseils": [
+            "Ajoute un peu de piment si tu aimes les plats épicés."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "30 g",
+            "Glucides": "40 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "2 jours au frigo"
+    },
+    {
+        "nom": "Pique-nique de Date",
+        "description": "Les cinés claqués et les plans foireux, on a connu ça. Le Pique-nique c’est le plan parfait, t’as le temps de parler, tu marques des points avec le repas et avec un peu de chance il fait beau. Roi du game assuré.",
+        "image": "/cuisine/img/pique_nique_date.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "1h",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "portions": "2",
+        "ingredients": [
+            "3 avocats",
+            "1 tomate",
+            "1 citron jaune",
+            "1 oignon rouge",
+            "6 branches de coriandre fraîche",
+            "Sel, poivre",
+            "6 pincées de piment d’Espelette",
+            "1 piment (facultatif, pour les amateurs de sensations fortes)",
+            "5 cl d’huile d’olive",
+            "12 tranches de pain (pain de mie ou autre, on s’adapte)",
+            "2 boules de mozzarella di bufala",
+            "4 tranches de saumon fumé",
+            "1 concombre",
+            "1 c. à soupe de moutarde",
+            "2 c. à soupe de crème épaisse",
+            "1/2 bouquet de ciboulette",
+            "1 c. à soupe d’huile d’olive",
+            "Sel, poivre",
+            "Quelques fraises bien mûres",
+            "Chocolat noir",
+            "Chocolat blanc",
+            "Zeste de citron vert"
+        ],
+        "etapes": [
+            "Prépare le guacamole en écrasant les avocats avec tomate, oignon, coriandre, piment, sel, poivre, huile d’olive et jus de citron.",
+            "Prépare les sandwiches en mélangeant moutarde, crème, ciboulette, huile d’olive, sel et poivre. Garnis avec saumon, concombre et mozzarella.",
+            "Prépare les fraises au chocolat en les trempant dans du chocolat fondu et en ajoutant des zestes de citron vert.",
+            "Emporte tout dans un panier pour ton pique-nique."
+        ],
+        "conseils": [
+            "Prépare tout la veille pour gagner du temps."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "20 g",
+            "Glucides": "30 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "1 jour au frigo"
+    },
+    {
+        "nom": "Flan au praliné",
+        "description": "Mes premiers tests en pâtisserie. Un flan crémeux, une pâte sablée au goût noisette et un praliné maison qui claque. Ce dessert, c’est de la douceur en bouche et une petite touche gourmande qui fait la différence. J’ai envie de m’en refaire un, c’est bon signe.",
+        "image": "/cuisine/img/flan_praline.jpg",
+        "temps_total": "2h",
+        "temps_preparation": "1h",
+        "temps_cuisson": "1h",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "portions": "6",
+        "ingredients": [
+            "100 g de sucre glace",
+            "150 g de beurre",
+            "35 g de poudre de noisette",
+            "1 g de sel",
+            "1 œuf entier",
+            "245 g de farine T55",
+            "2,5 œufs (oui, t’as bien lu)",
+            "100 g de sucre",
+            "50 g de maïzena",
+            "140 g de praliné noisettes maison",
+            "100 g de noisettes",
+            "50 g de sucre semoule",
+            "1 g de fleur de sel de Guérande",
+            "500 ml de lait",
+            "125 g de crème liquide",
+            "3 c. à soupe de praliné noisettes maison",
+            "Noisettes entières pour la déco"
+        ],
+        "etapes": [
+            "Prépare la pâte sablée en mélangeant sucre glace, beurre, poudre de noisette, sel, œuf et farine. Laisse reposer 1h.",
+            "Prépare le praliné en torréfiant les noisettes et en les mélangeant avec du sucre caramélisé. Mixe jusqu’à obtenir une pâte.",
+            "Prépare l’appareil à flan en mélangeant œufs, sucre, maïzena, praliné, lait et crème. Fais cuire jusqu’à épaississement.",
+            "Fonce un moule avec la pâte sablée, ajoute une couche de praliné, puis verse l’appareil à flan. Enfourne 40-45 min.",
+            "Laisse refroidir avant de démouler et de décorer avec des noisettes."
+        ],
+        "conseils": [
+            "Utilise un praliné maison pour un goût plus intense."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "8 g",
+            "Glucides": "50 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "2 jours au frigo"
+    },
+    {
+        "nom": "Poulet du Dimanche",
+        "description": "Le poulet au four, c'est un imbattable. Hyper simple à préparer, rapide, après ça part au four et que du bonheur. Perso, je le préfère fondant et juteux que croustillant, mais chacun son délire gamin.",
+        "image": "/cuisine/img/poulet_dimanche.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "1h",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "portions": "4",
+        "ingredients": [
+            "1 poulet entier (label rouge ou fermier)",
+            "Pommes de terre grenaille",
+            "Gousses d’ail (avec la peau, c’est meilleur !)",
+            "Échalotes",
+            "Beurre (parce qu’on fait pas les choses à moitié)",
+            "Romarin",
+            "1 citron",
+            "Un peu d’eau",
+            "Sel",
+            "Poivre",
+            "Huile d’olive (facultatif, mais franchement ça claque)"
+        ],
+        "etapes": [
+            "Prépare le poulet en le remplissant de citron et de romarin. Place-le dans un plat avec pommes de terre, ail et échalotes.",
+            "Assaisonne avec sel, poivre, beurre et huile d’olive. Ajoute un fond d’eau.",
+            "Enfourne à 180°C pendant 1h30. Arrose régulièrement avec le jus.",
+            "Sers le poulet avec les pommes de terre et les échalotes."
+        ],
+        "conseils": [
+            "Laisse reposer le poulet 10 min avant de le découper."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "500 kcal",
+            "Protéines": "40 g",
+            "Glucides": "30 g",
+            "Lipides": "25 g"
+        },
+        "conservation": "2 jours au frigo"
+    }
+]
