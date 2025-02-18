@@ -1,26 +1,648 @@
 {
-    "courses": [
-      {
-        "year": "A1",
-        "subject": "Math",
-        "title": "TP Math 1",
-        "type": "TP",
-        "file": "url_to_file"
-      },
-      {
-        "year": "A1",
-        "subject": "Math",
-        "title": "Exo Math 1",
-        "type": "Exos",
-        "file": "url_to_file"
-      },
-      {
-        "year": "A2",
-        "subject": "Physique",
-        "title": "Cours Physique 1",
-        "type": "Cours",
-        "file": "url_to_file"
-      }
-    ]
-  }
-  
+  "courses": [
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Calcul Intégral",
+      "type": "Cours",
+      "file": "uploads/annee/A1/mathematiques/cours/CalculIntegralICAM.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Dérivation",
+      "type": "Cours",
+      "file": "uploads/annee/A1/mathematiques/cours/Derivation.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Développement Limité",
+      "type": "Cours",
+      "file": "uploads/annee/A1/mathematiques/cours/Developpementlimite.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Équation Différentielle",
+      "type": "Cours",
+      "file": "uploads/annee/A1/mathematiques/cours/EquationdifferentielleICAM.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Fonctions",
+      "type": "Cours",
+      "file": "uploads/annee/A1/mathematiques/cours/FonctionsICAM.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Les Polynômes",
+      "type": "Cours",
+      "file": "uploads/annee/A1/mathematiques/cours/LespolynomesICAM.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Limites de Fonctions",
+      "type": "Cours",
+      "file": "uploads/annee/A1/mathematiques/cours/LimitesFonctionsICAM.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Nombres Complexes",
+      "type": "Cours",
+      "file": "uploads/annee/A1/mathematiques/cours/Nombrecomplexe.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Rappels de Trigonométrie",
+      "type": "Cours",
+      "file": "uploads/annee/A1/mathematiques/cours/Rappelsdetrigonometrie.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Séries de Fourier",
+      "type": "Cours",
+      "file": "uploads/annee/A1/mathematiques/cours/SeriesdeFourierICAM.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Techniques de Calculs",
+      "type": "Cours",
+      "file": "uploads/annee/A1/mathematiques/cours/Techniquesdecalculs.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Activité",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/Activite.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Activité Changement de Variable",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/Activitechangementdevariable.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Activité Intégration par Parties",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/ActiviteIntegrationparparties.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Concours Avenir",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/ConcoursAvenir.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Étude de Fonctions",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/Etudedefonctions.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Exemples Exercices BTS",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/ExemplesExercicesBTS.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Exercices Calcul Intégral",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/ExercicesCalculIntegral.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Exercices Dérivation",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/ExercicesDerivation.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Exercices Développements Limités",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/ExercicesDeveloppementsLimites.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Exercices Équations Différentielles",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/ExercicesEquationDifferentielles.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Exercices Fonctions",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/ExercicesFonctionsICAM.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Exercices Limites et Continuité",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/ExercicesLimitesContinuite.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Exercices Nombres Complexes",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/ExercicesNombrescomplexes.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Exercices Polynômes",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/Exercicespolynomes.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Exercices Séries de Fourier",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/ExercicesSeriedeFourier.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Exercices Techniques de Calculs",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/Exercicestechniquesdecalculs.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Exercices Trigonométrie",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/ExercicesTrigonometrie.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Introduction aux EDLO 1",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/IntroductionauxEDLO1.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Introduction aux EDLO 2 Homogènes",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/IntroductionauxEDLO2homogenes.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Nombres Complexes",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/NombresComplexes.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "QCM ENAC",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/QCMENAC.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Mathématiques",
+      "title": "Utilisation de la Calculatrice avec les Nombres Complexes",
+      "type": "Exercices",
+      "file": "uploads/annee/A1/mathematiques/exos/UtilisationdelaCalculatriceaveclesnombrescomplexes.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "OI",
+      "title": "Cours de Dessin Technique v2",
+      "type": "Cours",
+      "file": "uploads/annee/A1/oi/cours/Coursdessintechniquev2.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "OI",
+      "title": "Cours Gantt et PERT",
+      "type": "Cours",
+      "file": "uploads/annee/A1/oi/cours/CoursGanttetPERT.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "OI",
+      "title": "Cours Gestion des Stocks",
+      "type": "Cours",
+      "file": "uploads/annee/A1/oi/cours/Coursgestiondesstocks.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "OI",
+      "title": "Cours Indicateurs de Performance",
+      "type": "Cours",
+      "file": "uploads/annee/A1/oi/cours/Coursindicateursdeperf.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "OI",
+      "title": "Introduction à la Gestion de Production",
+      "type": "Cours",
+      "file": "uploads/annee/A1/oi/cours/Introductionlagestiondeproduction-prsentation.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "OI",
+      "title": "Matériaux A1",
+      "type": "Cours",
+      "file": "uploads/annee/A1/oi/cours/MatriauxA1.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "OI",
+      "title": "Procédés de Fabrication",
+      "type": "Cours",
+      "file": "uploads/annee/A1/oi/cours/Procedesdefabrication.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "OI",
+      "title": "Type de Trait Dessin",
+      "type": "Cours",
+      "file": "uploads/annee/A1/oi/cours/Typedetraitdessin.png"
+    },
+    {
+      "year": "A1",
+      "subject": "OI",
+      "title": "Exercice Méthode des 2080",
+      "type": "TD",
+      "file": "uploads/annee/A1/oi/td/ExerciceMthodedes2080.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "OI",
+      "title": "Exos d'application TRS",
+      "type": "TD",
+      "file": "uploads/annee/A1/oi/td/Exosd_applicationTRS.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "OI",
+      "title": "TD Gestion des Stocks",
+      "type": "TD",
+      "file": "uploads/annee/A1/oi/td/TDgestiondesstocks.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Chapitre 6",
+      "type": "Cours",
+      "file": "uploads/annee/A1/physique/Chapitre 6.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Analyse Spectrale",
+      "type": "Cours",
+      "file": "uploads/annee/A1/physique/Chapitre6_analyse_spectrale.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Devoir 1",
+      "type": "Devoir",
+      "file": "uploads/annee/A1/physique/devoir1.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "DS A2",
+      "type": "Devoir Surveillé",
+      "file": "uploads/annee/A1/physique/DS-A2.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "BTS Blanc 2021",
+      "type": "BTS",
+      "file": "uploads/annee/A1/physique/BTS/BTS_Blanc_2021.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Correction BTS Blanc 2021",
+      "type": "BTS",
+      "file": "uploads/annee/A1/physique/BTS/BTS_blanc_2021_correction.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "BTS Blanc 2022",
+      "type": "BTS",
+      "file": "uploads/annee/A1/physique/BTS/BTS_Blanc_2022.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Correction BTS Blanc 2022",
+      "type": "BTS",
+      "file": "uploads/annee/A1/physique/BTS/BTS_Blanc_2022_correc.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Chapitre 1 - Électricité Rappels",
+      "type": "Cours",
+      "file": "uploads/annee/A1/physique/Cours/chapitre1_elec_rappels.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Chapitre 2 - Dipôles en CC",
+      "type": "Cours",
+      "file": "uploads/annee/A1/physique/Cours/chapitre2_dipoles_CC_2019.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Chapitre 3 - Théorèmes Électriques",
+      "type": "Cours",
+      "file": "uploads/annee/A1/physique/Cours/chapitre3_Th_elec.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Chapitre 4 - Grandeurs Sinusoïdales",
+      "type": "Cours",
+      "file": "uploads/annee/A1/physique/Cours/chapitre4_grandeurs_sinusoidales_eleve.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Chapitre 5 - Condensateurs et Bobines",
+      "type": "Cours",
+      "file": "uploads/annee/A1/physique/Cours/chapitre5_cond_bobines.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Chapitre 6 - Circuits Linéaires RSF",
+      "type": "Cours",
+      "file": "uploads/annee/A1/physique/Cours/chapitre6_circuits_lineaires-RSF.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Chapitre 7 - Analyse Spectrale",
+      "type": "Cours",
+      "file": "uploads/annee/A1/physique/Cours/Chapitre7_analyse_spectrale.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Chapitre 8 - ALI",
+      "type": "Cours",
+      "file": "uploads/annee/A1/physique/Cours/chapitre8_ALI.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Chapitre 8 - Transmission par Câble Quadri",
+      "type": "Cours",
+      "file": "uploads/annee/A1/physique/Cours/chapitre8_transmi_cxe_quadri.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "Chapitre 9 - Réponse Indicielle d'un SLI",
+      "type": "Cours",
+      "file": "uploads/annee/A1/physique/Cours/chapitre9_SLI_indicielle_eleve.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TD 1",
+      "type": "TD",
+      "file": "uploads/annee/A1/physique/TD/TD1.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TD 1 Mise à Niveau",
+      "type": "TD",
+      "file": "uploads/annee/A1/physique/TD/TD1_mise_a_niveau.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TD 3",
+      "type": "TD",
+      "file": "uploads/annee/A1/physique/TD/TD3.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TD 3 Élève",
+      "type": "TD",
+      "file": "uploads/annee/A1/physique/TD/TD3_eleve.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TD 4 Élève",
+      "type": "TD",
+      "file": "uploads/annee/A1/physique/TD/TD4_eleve.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TD 5 Bis RSF",
+      "type": "TD",
+      "file": "uploads/annee/A1/physique/TD/TD5_bis_RSF.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TD 5 RSF Élève",
+      "type": "TD",
+      "file": "uploads/annee/A1/physique/TD/TD5_RSF_eleve.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TD 6 Analyse Spectrale",
+      "type": "TD",
+      "file": "uploads/annee/A1/physique/TD/TD6_analyse_spectrale.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TD 6 Analyse Vibratoire",
+      "type": "TD",
+      "file": "uploads/annee/A1/physique/TD/TD6_analyse_vibratoire.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TD 8 ALI",
+      "type": "TD",
+      "file": "uploads/annee/A1/physique/TD/TD8_ALI.pdf"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TD 8 Bode",
+      "type": "TD",
+      "file": "uploads/annee/A1/physique/TD/TD8_Bode.docx"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TP 1 2022",
+      "type": "TP",
+      "file": "uploads/annee/A1/physique/TP/TP1_2022.doc"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TP 2 2019",
+      "type": "TP",
+      "file": "uploads/annee/A1/physique/TP/TP2_2019.doc"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TP 3 2019",
+      "type": "TP",
+      "file": "uploads/annee/A1/physique/TP/TP3_2019.doc"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TP 4 RC Bode",
+      "type": "TP",
+      "file": "uploads/annee/A1/physique/TP/TP4_RC_Bode.doc"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TP 5 ALI COMP",
+      "type": "TP",
+      "file": "uploads/annee/A1/physique/TP/TP5_ALI_COMP.doc"
+    },
+    {
+      "year": "A1",
+      "subject": "Physique",
+      "title": "TP 5 ALI Élève",
+      "type": "TP",
+      "file": "uploads/annee/A1/physique/TP/TP5_ALI_eleve.doc"
+    },
+    {
+      "year": "A2",
+      "subject": "AII",
+      "title": "Les Contraintes Industrielles",
+      "type": "Cours",
+      "file": "uploads/annee/A2/AII/4_-_Les_contraintes_industrielles.pdf"
+    },
+    {
+      "year": "A2",
+      "subject": "AII",
+      "title": "Numération",
+      "type": "Cours",
+      "file": "uploads/annee/A2/AII/7-Numeration.pdf"
+    },
+    {
+      "year": "A2",
+      "subject": "AII",
+      "title": "Logique Combinatoire",
+      "type": "Cours",
+      "file": "uploads/annee/A2/AII/F3-Logiquecombinatoire(pages1-11).pdf"
+    },
+    {
+      "year": "A2",
+      "subject": "CE",
+      "title": "Production Énergie Électrique",
+      "type": "Cours",
+      "file": "uploads/annee/A2/CE/1101-02-Production-energie-electrique.pdf"
+    },
+    {
+      "year": "A2",
+      "subject": "CE",
+      "title": "Normes et Composants Électriques",
+      "type": "Cours",
+      "file": "uploads/annee/A2/CE/1101-06-Normes-composants-schemas-electriques.pdf"
+    },
+    {
+      "year": "A2",
+      "subject": "Économie",
+      "title": "Contrat de Travail 1",
+      "type": "Cours",
+      "file": "uploads/annee/A2/Eco/Contrat_de_travail_1.pdf"
+    },
+    {
+      "year": "A2",
+      "subject": "Économie",
+      "title": "Relations Entreprise et Partenaires",
+      "type": "Cours",
+      "file": "uploads/annee/A2/Eco/les_contrats_et_les_relations_entreprise_et_partenaires_Complet.pdf"
+    },
+    {
+      "year": "A2",
+      "subject": "Mathématiques",
+      "title": "Barycentres et Produits Scalaires",
+      "type": "Cours",
+      "file": "uploads/annee/A2/mathematiques/Cours/Barycentres_Produit_Scalaire_et_Vectoriel.pdf"
+    },
+    {
+      "year": "A2",
+      "subject": "Mathématiques",
+      "title": "Exercices Probabilités Continues",
+      "type": "Exercices",
+      "file": "uploads/annee/A2/mathematiques/Exercices/Exercices_Probabilites_continues.pdf"
+    },
+    {
+      "year": "A2",
+      "subject": "OI",
+      "title": "Dynamique des Fluides",
+      "type": "Cours",
+      "file": "uploads/annee/A2/OI/Cours/Cours-Dynamique-des-fluides.pdf"
+    },
+    {
+      "year": "A2",
+      "subject": "OI",
+      "title": "Sujet BTS 2021",
+      "type": "BTS",
+      "file": "uploads/annee/A2/OI/Sujet_BTS/u41-bts-ati-2021.pdf"
+    },
+    {
+      "year": "A2",
+      "subject": "Physique",
+      "title": "Machines Synchrones",
+      "type": "Cours",
+      "file": "uploads/annee/A2/Physique/Cours/Chapitre-n21-Machines-synchrones-Cours.pdf"
+    },
+    {
+      "year": "A2",
+      "subject": "Physique",
+      "title": "Sujet Entraînement BTS 2016",
+      "type": "BTS",
+      "file": "uploads/annee/A2/Physique/Sujet_BTS_Entrainement/sujet_2016-PHY.pdf"
+    }
+  ]
+}
