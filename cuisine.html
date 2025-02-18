@@ -295,7 +295,7 @@
                 .then(response => response.json())
                 .then(recettes => {
                     recettes.forEach(recette => {
-                        const card = document.createElement("article");
+                        const card = document.createElement("article"); // j'ai changé le chemin de l'image
                         card.classList.add("recette-card");
                         card.innerHTML = `
                             <img src="https://korokira.github.io/AlexandrICAM_Revival/${recette.image}" alt="${recette.nom}" class="recette-image"> 
