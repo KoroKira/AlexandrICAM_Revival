@@ -910,7 +910,7 @@
     {
         "nom": "Épaule d'agneau au porto",
         "description": "Un plat mijoté riche en saveurs, où l'agneau est cuit lentement avec du porto pour une viande tendre et fondante. Parfait pour un repas entre amis.",
-        "image": "/cuisine/img/epaule_agneau_porto.jpg",
+        "image": "/cuisine/img/agneau_au_porto.jpg",
         "temps_total": "4 heures",
         "temps_preparation": "30 minutes",
         "temps_cuisson": "3 heures 30 minutes",
@@ -954,7 +954,7 @@
     {
         "nom": "Cote de boeuf au cognac",
         "description": "Je vais pas passer par 4 chemins, tout ce qui compte, c'est que tu me la rates pas celle-là. Donc on se concentre, focus sur la cuisson, et on boit après la recette, pas pendant. Bon après ça a jamais tué personne de gouter au produit…",
-        "image": "/cuisine/img/cote_boeuf_cognac.jpg",
+        "image": "/cuisine/img/cote_de_boeuf_au_cognac.jpg",
         "temps_total": "1h30",
         "temps_preparation": "30 min",
         "temps_cuisson": "1h",
@@ -1035,7 +1035,7 @@
     {
         "nom": "Tripes de BP",
         "description": "Un bon gros plat de brute, la recette vient de chez Bonne Pitance. C’est à gouter au moins une fois. Certains adorent, d’autres détestent, moi je dirai qu’après 8h de cuisson, tout se mange.",
-        "image": "/cuisine/img/tripes_bp.jpg",
+        "image": "/cuisine/img/tripes_de_bp.jpg",
         "temps_total": "8h",
         "temps_preparation": "30 min",
         "temps_cuisson": "7h30",
@@ -1075,7 +1075,7 @@
     {
         "nom": "Pâtes aux Crevettes",
         "description": "Les petites pâtes à l’encre de seiche, elles font leur petit effet gamin. Du gout à l’esthétique, c’est un 10/10.",
-        "image": "/cuisine/img/pates_crevettes.jpg",
+        "image": "/cuisine/img/pates_aux_crevettes.jpg",
         "temps_total": "30 min",
         "temps_preparation": "15 min",
         "temps_cuisson": "15 min",
@@ -1112,7 +1112,7 @@
     {
         "nom": "Ragout de Bœuf",
         "description": "Un Meal prep ou un festin, pas cher, bon à crever et facile à faire. C’est plus une recette c’est une leçon d’humilité.",
-        "image": "/cuisine/img/ragout_boeuf.jpg",
+        "image": "/cuisine/img/ragout_de_boeuf.jpg",
         "temps_total": "6h",
         "temps_preparation": "30 min",
         "temps_cuisson": "5h30",
@@ -1197,7 +1197,7 @@
     {
         "nom": "Chicken Teriyaki",
         "description": "Un classique parmi les classiques. Du poulet nappé de sauce teriyaki maison, des brocolis rôtis croustillants et du riz jasmin bien parfumé. Facile à préparer, parfait pour 5 repas et validé par les estomacs affamés.",
-        "image": "/cuisine/img/chicken_teriyaki.jpg",
+        "image": "/cuisine/img/poulet_teriyaki.jpg",
         "temps_total": "45 min",
         "temps_preparation": "20 min",
         "temps_cuisson": "25 min",
@@ -1242,7 +1242,7 @@
     {
         "nom": "Tiramisu Citron Vert",
         "description": "Une revisite ultra-fraîche du classique italien, avec du citron vert qui vient twister le mascarpone et donner une vibe estivale à ce dessert déjà culte (bordel je parle bien). Facile, rapide, un peu dangereux.",
-        "image": "/cuisine/img/tiramisu_citron.jpg",
+        "image": "/cuisine/img/tiramisu_citron_vert.jpg",
         "temps_total": "4h30",
         "temps_preparation": "30 min",
         "temps_cuisson": "0 min",
@@ -1283,7 +1283,7 @@
     {
         "nom": "Calamars Tequila",
         "description": "Un plat qui sent bon le soleil, l’audace, et la cuite aussi. Avec des calamars grillés marinés à la tequila et un riz pilaf acidulé pour l’accompagner. Parfait pour une soirée entre potes où on sort les tentacules et les flammes (sans cramer la baraque, promis).",
-        "image": "/cuisine/img/calamars_tequila.jpg",
+        "image": "/cuisine/img/calamar_tequila.jpg",
         "temps_total": "1h30",
         "temps_preparation": "1h",
         "temps_cuisson": "30 min",
@@ -1332,7 +1332,7 @@
     {
         "nom": "Agneau au Porto",
         "description": "Un plat pour les vrais gourmands : de l’agneau mijoté dans du porto, servi avec une purée maison ou des pâtes fraiches. C’est généreux, c’est bonne ambiance, et ça garantit des invitations à dîner toutes les semaines. En plus le porto, c’est un banger, c’est normal c’est portugais.",
-        "image": "/cuisine/img/agneau_porto.jpg",
+        "image": "/cuisine/img/agneau_au_porto.jpg",
         "temps_total": "2h30",
         "temps_preparation": "30 min",
         "temps_cuisson": "2h",
@@ -1377,7 +1377,7 @@
     {
         "nom": "Tortilla au Boeuf Mariné",
         "description": "Une recette pour ceux qui veulent des repas prêts à déguster après une longue journée. Bœuf mariné, légumes frais, tortillas chaudes et une sauce à l’ail qui tabasse. Rapide à assembler, parfait pour la semaine de taff !",
-        "image": "/cuisine/img/tortilla_boeuf.jpg",
+        "image": "/cuisine/img/tortilla_boeuf_marine.jpg",
         "temps_total": "1h30",
         "temps_preparation": "1h",
         "temps_cuisson": "30 min",
@@ -1430,7 +1430,7 @@
     {
         "nom": "Mochis aux Myrtilles",
         "description": "J’aime pas les mochis, mais j’aime tout ce que je fais. Alors on teste une recette pour voir si je change d’avis. Mochis maison aux myrtilles, c’est sucré, c’est chelou à malaxer, mais c’est marrant à faire.",
-        "image": "/cuisine/img/mochis_myrtilles.jpg",
+        "image": "/cuisine/img/mocchis_myrtilles.jpg",
         "temps_total": "1h",
         "temps_preparation": "45 min",
         "temps_cuisson": "15 min",
@@ -1469,7 +1469,7 @@
     {
         "nom": "Canard au Génépi",
         "description": "Une viande tendre cuite dans sa propre graisse, une sauce au Génépi qui fait chanter les papilles, et des patates dorées au persil. Simple, efficace, et parfait pour impressionner.",
-        "image": "/cuisine/img/canard_genepi.jpg",
+        "image": "/cuisine/img/canard_au_genepi.jpg",
         "temps_total": "1h30",
         "temps_preparation": "30 min",
         "temps_cuisson": "1h",
@@ -1514,7 +1514,7 @@
     {
         "nom": "Boeuf au Calva",
         "description": "Un bon tournedos saignant (obligatoire), une sauce au calva flambé pour que tu te sentes un peu pyromane, et des pommes fondantes pour le petit twist sucré-salé. À partager entre potes ou à sortir pour impressionner ton prochain date.",
-        "image": "/cuisine/img/boeuf_calva.jpg",
+        "image": "/cuisine/img/boeuf_au_calva.jpg",
         "temps_total": "1h",
         "temps_preparation": "30 min",
         "temps_cuisson": "30 min",
@@ -1558,7 +1558,7 @@
     {
         "nom": "Accras de morue",
         "description": "Croustillants à l’extérieur, moelleux à l’intérieur, avec un goût de morue bien présent. La version portugaise des acras, signée : la Mamie de Mathéo (LeFrenchGourmet).",
-        "image": "/cuisine/img/accras_morue.jpg",
+        "image": "/cuisine/img/accras_de_morue.jpg",
         "temps_total": "1h30",
         "temps_preparation": "1h",
         "temps_cuisson": "30 min",
@@ -1715,7 +1715,7 @@
     {
         "nom": "Brochettes de Poulet Citronnées",
         "description": "Des brochettes de poulet marinées au citron et thym, accompagnées d’une salade avec des nectarines rôties. Simple, frais, et parfait pour ton prochain date ou ton BBQ entre potes.",
-        "image": "/cuisine/img/brochettes_poulet.jpg",
+        "image": "/cuisine/img/brochettes_poulet_citronnees.jpg",
         "temps_total": "1h",
         "temps_preparation": "30 min",
         "temps_cuisson": "30 min",
@@ -1756,7 +1756,7 @@
     {
         "nom": "Riz Poulet Coco Express",
         "description": "Stop le riz-thon tristesse. Ce plat, c’est du riz parfumé, du poulet juteux, une sauce au lait de coco et le croquant des cacahuètes. Simple, rapide, mais surtout, ça a de la gueule.",
-        "image": "/cuisine/img/riz_poulet_coco.jpg",
+        "image": "/cuisine/img/riz_poulet_coco_express.jpg",
         "temps_total": "45 min",
         "temps_preparation": "15 min",
         "temps_cuisson": "30 min",
@@ -1793,7 +1793,7 @@
     {
         "nom": "Pique-nique de Date",
         "description": "Les cinés claqués et les plans foireux, on a connu ça. Le Pique-nique c’est le plan parfait, t’as le temps de parler, tu marques des points avec le repas et avec un peu de chance il fait beau. Roi du game assuré.",
-        "image": "/cuisine/img/pique_nique_date.jpg",
+        "image": "/cuisine/img/pic_nique_de_date.jpg",
         "temps_total": "1h",
         "temps_preparation": "1h",
         "temps_cuisson": "0 min",
@@ -1891,7 +1891,7 @@
     {
         "nom": "Poulet du Dimanche",
         "description": "Le poulet au four, c'est un imbattable. Hyper simple à préparer, rapide, après ça part au four et que du bonheur. Perso, je le préfère fondant et juteux que croustillant, mais chacun son délire gamin.",
-        "image": "/cuisine/img/poulet_dimanche.jpg",
+        "image": "/cuisine/img/poulet_du_dimanche.jpg",
         "temps_total": "1h30",
         "temps_preparation": "30 min",
         "temps_cuisson": "1h",
