@@ -199,6 +199,7 @@
 
         <div class="filter-container">
             <select id="yearFilter" aria-label="Filtrer par année">
+                <option value="all">Toutes les années</option>
                 <option value="A1">A1</option>
                 <option value="A2">A2</option>
                 <option value="A3">A3</option>
@@ -258,7 +259,7 @@
 
             function loadPreferences() {
                 state.isDarkMode = localStorage.getItem(STORAGE_KEYS.DARK_MODE) === 'true';
-                state.selectedYear = localStorage.getItem(STORAGE_KEYS.SELECTED_YEAR) || 'A1';
+                state.selectedYear = localStorage.getItem(STORAGE_KEYS.SELECTED_YEAR) || 'all';
                 state.selectedResource = localStorage.getItem(STORAGE_KEYS.SELECTED_RESOURCE) || 'all';
                 state.selectedSubject = localStorage.getItem(STORAGE_KEYS.SELECTED_SUBJECT) || 'all'; // Charger la matière
 
@@ -310,11 +311,11 @@
 
             function updateUI() {
                 const filteredCourses = state.courses.filter(course => 
-                    course.year === state.selectedYear &&
-                    (state.selectedResource === 'all' || course.type === state.selectedResource) &&
+                    (state.selectedYear === 'all' || course.year === state.selectedYear) && // Filtre par année
+                    (state.selectedResource === 'all' || course.type === state.selectedResource) && // Filtre par type de ressource
                     (state.selectedSubject === 'all' || course.subject === state.selectedSubject) // Filtre par matière
                 );
-
+            
                 dom.subjectsGrid.innerHTML = filteredCourses.length > 0 
                     ? filteredCourses.map(createCourseCard).join('')
                     : '<p class="error-message">Aucune ressource disponible pour ces critères</p>';
