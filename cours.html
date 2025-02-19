@@ -273,7 +273,7 @@
                     const data = await response.json();
                     state.courses = data.courses;
                     populateResourceTypes();
-                    updateUI();
+                    updateUI();  // Filtrer les cours dès le chargement initial
                 } catch (error) {
                     showError("Erreur de chargement des données. Veuillez réessayer plus tard.");
                 } finally {
@@ -304,6 +304,7 @@
                     <div class="subject-card">
                         <span class="resource-badge">${course.type}</span>
                         <h3>${course.subject}</h3>
+                        <p>${course.title || ''}</p>  <!-- Afficher le titre du fichier -->
                         <p>${course.description || ''}</p>
                         <a href="${course.file}" 
                            target="_blank" 
