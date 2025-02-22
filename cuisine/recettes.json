@@ -1,6 +1,7 @@
 [
     {
         "nom": "Conseils pratiques",
+        "type": "conseils",
         "description": "Quelques astuces et infos utiles",
         "image": "/cuisine/img/michel.jpg",
         "temps_total": "N/A",
@@ -8,6 +9,7 @@
         "temps_cuisson": "N/A",
         "difficulte": "N/A",
         "cout": "N/A",
+        "cout_precis": "N/A",
         "portions": "N/A",
         "ingredients": [],
         "etapes": [],
@@ -35,13 +37,15 @@
     },
     {
         "nom": "Pâtes à la Carbonara Étudiante",
+        "type": "plat principal",
         "description": "Version économique et savoureuse de la carbonara, parfaite pour les étudiants.",
         "image": "/cuisine/img/carbonara.jpg",
         "temps_total": "20 minutes",
         "temps_preparation": "5 minutes",
         "temps_cuisson": "15 minutes",
         "difficulte": "Facile",
-        "cout": "€",
+        "cout": "Faible",
+        "cout_precis": "2€ par portion",
         "portions": 2,
         "ingredients": [
             "200g de pâtes",
@@ -77,13 +81,15 @@
     },
     {
         "nom": "Buddha Bowl Économique",
+        "type": "plat principal",
         "description": "Un repas équilibré et coloré qui ne ruine pas le porte-monnaie.",
         "image": "/cuisine/img/buddha-bowl.jpg",
         "temps_total": "30 minutes",
         "temps_preparation": "15 minutes",
         "temps_cuisson": "15 minutes",
         "difficulte": "Facile",
-        "cout": "€",
+        "cout": "Faible",
+        "cout_precis": "3€ par portion",
         "portions": 2,
         "ingredients": [
             "150g de riz complet",
@@ -121,13 +127,15 @@
     },
     {
         "nom": "Omelette aux Légumes du Placard",
+        "type": "plat principal",
         "description": "Une recette rapide et personnalisable selon vos ingrédients disponibles.",
         "image": "/cuisine/img/omelette.jpg",
         "temps_total": "15 minutes",
         "temps_preparation": "5 minutes",
         "temps_cuisson": "10 minutes",
         "difficulte": "Très facile",
-        "cout": "€",
+        "cout": "Faible",
+        "cout_precis": "1€ par portion",
         "portions": 1,
         "ingredients": [
             "3 œufs",
@@ -163,13 +171,15 @@
     },
     {
         "nom": "Curry de Lentilles Express",
+        "type": "plat principal",
         "description": "Un plat réconfortant, riche en protéines et très économique.",
         "image": "/cuisine/img/curry-lentilles.jpg",
         "temps_total": "25 minutes",
         "temps_preparation": "10 minutes",
         "temps_cuisson": "15 minutes",
         "difficulte": "Facile",
-        "cout": "€",
+        "cout": "Faible",
+        "cout_precis": "2€ par portion",
         "portions": 4,
         "ingredients": [
             "250g de lentilles corail",
@@ -209,13 +219,15 @@
     },
     {
         "nom": "Salade de Quinoa Méditerranéenne",
+        "type": "plat principal",
         "description": "Une salade fraîche et nourrissante, parfaite pour les repas à emporter.",
         "image": "/cuisine/img/salade-quinoa.jpg",
         "temps_total": "25 minutes",
         "temps_preparation": "15 minutes",
         "temps_cuisson": "10 minutes",
         "difficulte": "Facile",
-        "cout": "€€",
+        "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": 3,
         "ingredients": [
             "200g de quinoa",
@@ -254,13 +266,15 @@
     },
     {
         "nom": "Wraps Végétariens aux Haricots Noirs",
+        "type": "plat principal",
         "description": "Des wraps healthy et rassasiants, parfaits pour un repas sur le pouce.",
         "image": "/cuisine/img/wraps-vegetariens.jpg",
         "temps_total": "20 minutes",
         "temps_preparation": "15 minutes",
         "temps_cuisson": "5 minutes",
         "difficulte": "Facile",
-        "cout": "€",
+        "cout": "Faible",
+        "cout_precis": "3€ par portion",
         "portions": 4,
         "ingredients": [
             "4 grandes tortillas",
@@ -300,13 +314,15 @@
     },
     {
         "nom": "Soupe de Légumes Express au Curry",
+        "type": "plat principal",
         "description": "Une soupe réconfortante et épicée, prête en un rien de temps.",
         "image": "/cuisine/img/soupe-legumes.jpg",
         "temps_total": "25 minutes",
         "temps_preparation": "10 minutes",
         "temps_cuisson": "15 minutes",
         "difficulte": "Très facile",
-        "cout": "€",
+        "cout": "Faible",
+        "cout_precis": "1€ par portion",
         "portions": 4,
         "ingredients": [
             "2 pommes de terre",
@@ -345,13 +361,15 @@
     },
     {
         "nom": "Bowl de Riz au Thon",
+        "type": "plat principal",
         "description": "Un repas rapide, équilibré et économique qui fait toujours l'affaire.",
         "image": "/cuisine/img/bowl-thon.jpg",
         "temps_total": "15 minutes",
         "temps_preparation": "15 minutes",
         "temps_cuisson": "0 minutes",
         "difficulte": "Très facile",
-        "cout": "€",
+        "cout": "Faible",
+        "cout_precis": "2€ par portion",
         "portions": 2,
         "ingredients": [
             "300g de riz cuit",
@@ -390,13 +408,15 @@
     },
     {
         "nom": "Croque-Monsieur au Four",
+        "type": "plat principal",
         "description": "Version au four du célèbre sandwich, plus léger et croustillant.",
         "image": "/cuisine/img/croque-monsieur.jpg",
         "temps_total": "20 minutes",
         "temps_preparation": "10 minutes",
         "temps_cuisson": "10 minutes",
         "difficulte": "Facile",
-        "cout": "€",
+        "cout": "Faible",
+        "cout_precis": "2€ par portion",
         "portions": 4,
         "ingredients": [
             "8 tranches de pain de mie",
@@ -434,13 +454,15 @@
     },
     {
         "nom": "Taboulé de Chou-Fleur",
+        "type": "plat principal",
         "description": "Version légère et sans gluten du taboulé traditionnel.",
         "image": "/cuisine/img/taboule-choufleur.jpg",
         "temps_total": "20 minutes",
         "temps_preparation": "20 minutes",
         "temps_cuisson": "0 minutes",
         "difficulte": "Facile",
-        "cout": "€€",
+        "cout": "Moyen",
+        "cout_precis": "3€ par portion",
         "portions": 4,
         "ingredients": [
             "1 chou-fleur",
@@ -481,13 +503,15 @@
     },
     {
         "nom": "Gnocchis à la Crème de Champignons",
+        "type": "plat principal",
         "description": "Un plat réconfortant et crémeux prêt en quelques minutes.",
         "image": "/cuisine/img/gnocchis-champignons.jpg",
         "temps_total": "20 minutes",
         "temps_preparation": "5 minutes",
         "temps_cuisson": "15 minutes",
         "difficulte": "Facile",
-        "cout": "€€",
+        "cout": "Moyen",
+        "cout_precis": "4€ par portion",
         "portions": 3,
         "ingredients": [
             "500g de gnocchis",
@@ -527,6 +551,7 @@
     },
     {
         "nom": "Falafels Maison",
+        "type": "plat principal",
         "description": "Des falafels croustillants et sains, parfaits dans un sandwich ou une salade.",
         "categorie": "Plat principal",
         "image": "/cuisine/img/falafels.jpg",
@@ -534,7 +559,8 @@
         "temps_preparation": "20 minutes",
         "temps_cuisson": "20 minutes",
         "difficulte": "Moyen",
-        "cout": "€",
+        "cout": "Faible",
+        "cout_precis": "2€ par portion",
         "portions": 4,
         "ingredients": [
             "400g de pois chiches en conserve",
@@ -574,6 +600,7 @@
     },
     {
         "nom": "Velouté de Potimarron aux Épices",
+        "type": "plat principal",
         "description": "Une entrée réconfortante aux saveurs automnales.",
         "categorie": "Entrée",
         "image": "/cuisine/img/veloute-potimarron.jpg",
@@ -581,7 +608,8 @@
         "temps_preparation": "10 minutes",
         "temps_cuisson": "20 minutes",
         "difficulte": "Facile",
-        "cout": "€",
+        "cout": "Faible",
+        "cout_precis": "2€ par portion",
         "portions": 4,
         "ingredients": [
             "600g de potimarron",
@@ -620,6 +648,7 @@
     },
     {
         "nom": "Mug Cake au Chocolat",
+        "type": "plat principal",
         "description": "Un dessert gourmand prêt en 5 minutes chrono !",
         "categorie": "Dessert",
         "image": "/cuisine/img/mugcake-chocolat.jpg",
@@ -627,7 +656,8 @@
         "temps_preparation": "3 minutes",
         "temps_cuisson": "2 minutes",
         "difficulte": "Très facile",
-        "cout": "€",
+        "cout": "Faible",
+        "cout_precis": "1€ par portion",
         "portions": 1,
         "ingredients": [
             "4 cuillères à soupe de farine",
@@ -664,6 +694,7 @@
     },
     {
         "nom": "Houmous aux Betteraves",
+        "type": "plat principal",
         "description": "Une version colorée et originale du houmous classique.",
         "categorie": "Entrée",
         "image": "/cuisine/img/houmous-betterave.jpg",
@@ -671,7 +702,8 @@
         "temps_preparation": "15 minutes",
         "temps_cuisson": "0 minutes",
         "difficulte": "Facile",
-        "cout": "€",
+        "cout": "Faible",
+        "cout_precis": "2€ par portion",
         "portions": 6,
         "ingredients": [
             "400g de pois chiches en conserve",
@@ -709,6 +741,7 @@
     },
     {
         "nom": "Brownie aux Haricots Noirs",
+        "type": "plat principal",
         "description": "Version healthy et protéinée du brownie classique.",
         "categorie": "Dessert",
         "image": "/cuisine/img/brownie-haricots.jpg",
@@ -716,7 +749,8 @@
         "temps_preparation": "15 minutes",
         "temps_cuisson": "20 minutes",
         "difficulte": "Facile",
-        "cout": "€€",
+        "cout": "Moyen",
+        "cout_precis": "2€ par portion",
         "portions": 8,
         "ingredients": [
             "1 boîte de haricots noirs",
@@ -754,13 +788,15 @@
     },
     {
         "nom": "Jarret de bœuf aux pruneaux",
+        "type": "plat principal",
         "description": "Un plat mijoté savoureux et réconfortant, parfait pour les repas en famille ou entre amis. Le jarret de bœuf, tendre et fondant, se marie à merveille avec les pruneaux et les légumes.",
         "image": "/cuisine/img/jarret-pruneaux.jpg",
         "temps_total": "3 heures",
         "temps_preparation": "30 minutes",
         "temps_cuisson": "2 heures 30 minutes",
         "difficulte": "Moyen",
-        "cout": "€€",
+        "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": 5,
         "ingredients": [
             "1,5 kg de jarret de bœuf (ou de viande à mijoter)",
@@ -803,13 +839,15 @@
     },
     {
         "nom": "Entrecôtes sauce au bleu, purée de patate douce et poêlée de champignons",
+        "type": "plat principal",
         "description": "Un repas gourmand et équilibré, alliant la richesse des entrecôtes, la douceur de la purée de patate douce et la saveur d'une poêlée de champignons. Parfait pour les amateurs de viande et de fromage.",
         "image": "/cuisine/img/entrecote_bleu.jpg",
         "temps_total": "1 heure",
         "temps_preparation": "30 minutes",
         "temps_cuisson": "30 minutes",
         "difficulte": "Facile",
-        "cout": "€€€",
+        "cout": "Élevé",
+        "cout_precis": "10€ par portion",
         "portions": 4,
         "ingredients": [
             "2 ou 3 grosses entrecôtes (300-400 g chacune)",
@@ -862,13 +900,15 @@
     },
     {
         "nom": "Poulet Teriyaki avec brocoli et riz",
+        "type": "plat principal",
         "description": "Une version simple et rapide du poulet teriyaki, idéale pour un meal prep. Prêt en 30 minutes à 1 heure pour 5 à 10 repas.",
         "image": "/cuisine/img/poulet_teriyaki.jpg",
         "temps_total": "1 heure",
         "temps_preparation": "30 minutes",
         "temps_cuisson": "30 minutes",
         "difficulte": "Facile",
-        "cout": "€",
+        "cout": "Faible",
+        "cout_precis": "3€ par portion",
         "portions": 5,
         "ingredients": [
             "500 g de filets de poulet",
@@ -909,13 +949,15 @@
     },
     {
         "nom": "Épaule d'agneau au porto",
+        "type": "plat principal",
         "description": "Un plat mijoté riche en saveurs, où l'agneau est cuit lentement avec du porto pour une viande tendre et fondante. Parfait pour un repas entre amis.",
         "image": "/cuisine/img/agneau_au_porto.jpg",
         "temps_total": "4 heures",
         "temps_preparation": "30 minutes",
         "temps_cuisson": "3 heures 30 minutes",
         "difficulte": "Moyen",
-        "cout": "€€€",
+        "cout": "Élevé",
+        "cout_precis": "8€ par portion",
         "portions": 4,
         "ingredients": [
             "1 épaule ou gigot d'agneau coupé en morceaux",
@@ -953,6 +995,7 @@
     },
     {
         "nom": "Cote de boeuf au cognac",
+        "type": "plat principal",
         "description": "Je vais pas passer par 4 chemins, tout ce qui compte, c'est que tu me la rates pas celle-là. Donc on se concentre, focus sur la cuisson, et on boit après la recette, pas pendant. Bon après ça a jamais tué personne de gouter au produit…",
         "image": "/cuisine/img/cote_de_boeuf_au_cognac.jpg",
         "temps_total": "1h30",
@@ -960,6 +1003,7 @@
         "temps_cuisson": "1h",
         "difficulte": "Moyen",
         "cout": "Élevé",
+        "cout_precis": "15€ par portion",
         "portions": "2-3",
         "ingredients": [
             "Une belle côte de Bœuf",
@@ -992,6 +1036,7 @@
     },
     {
         "nom": "Club Crevette",
+        "type": "plat principal",
         "description": "Je sais pas si c’est le meilleur choix pour un repas de St-Valentin, mais c’est très bon et simple à faire. Je le vends bien pas vrai ? Dis que je le vends bien.",
         "image": "/cuisine/img/club_crevette.jpg",
         "temps_total": "45 min",
@@ -999,6 +1044,7 @@
         "temps_cuisson": "15 min",
         "difficulte": "Facile",
         "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": "2",
         "ingredients": [
             "6 tranches de pain de mie",
@@ -1034,6 +1080,7 @@
     },
     {
         "nom": "Tripes de BP",
+        "type": "plat principal",
         "description": "Un bon gros plat de brute, la recette vient de chez Bonne Pitance. C’est à gouter au moins une fois. Certains adorent, d’autres détestent, moi je dirai qu’après 8h de cuisson, tout se mange.",
         "image": "/cuisine/img/tripes_de_bp.jpg",
         "temps_total": "8h",
@@ -1041,6 +1088,7 @@
         "temps_cuisson": "7h30",
         "difficulte": "Difficile",
         "cout": "Moyen",
+        "cout_precis": "10€ par portion",
         "portions": "4-6",
         "ingredients": [
             "1.5 kg de tripes",
@@ -1074,6 +1122,7 @@
     },
     {
         "nom": "Pâtes aux Crevettes",
+        "type": "plat principal",
         "description": "Les petites pâtes à l’encre de seiche, elles font leur petit effet gamin. Du gout à l’esthétique, c’est un 10/10.",
         "image": "/cuisine/img/pates_aux_crevettes.jpg",
         "temps_total": "30 min",
@@ -1081,6 +1130,7 @@
         "temps_cuisson": "15 min",
         "difficulte": "Facile",
         "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": "2",
         "ingredients": [
             "300 g de spaghetti à l'encre de seiche",
@@ -1111,6 +1161,7 @@
     },
     {
         "nom": "Ragout de Bœuf",
+        "type": "plat principal",
         "description": "Un Meal prep ou un festin, pas cher, bon à crever et facile à faire. C’est plus une recette c’est une leçon d’humilité.",
         "image": "/cuisine/img/ragout_de_boeuf.jpg",
         "temps_total": "6h",
@@ -1118,6 +1169,7 @@
         "temps_cuisson": "5h30",
         "difficulte": "Moyen",
         "cout": "Élevé",
+        "cout_precis": "5€ par portion",
         "portions": "4-5",
         "ingredients": [
             "1 kg de bœuf à mijoter (gîte, paleron, ou macreuse)",
@@ -1153,6 +1205,7 @@
     },
     {
         "nom": "Saumon Gravlax",
+        "type": "plat principal",
         "description": "T’as été missionné de faire une partie du repas de Noël ou t’as juste envie de te faire kiffer, c’est cadeau.",
         "image": "/cuisine/img/saumon_gravlax.jpg",
         "temps_total": "48h",
@@ -1160,6 +1213,7 @@
         "temps_cuisson": "0 min",
         "difficulte": "Facile",
         "cout": "Élevé",
+        "cout_precis": "10€ par portion",
         "portions": "4",
         "ingredients": [
             "500 g de filet de saumon",
@@ -1196,6 +1250,7 @@
     },
     {
         "nom": "Chicken Teriyaki",
+        "type": "plat principal",
         "description": "Un classique parmi les classiques. Du poulet nappé de sauce teriyaki maison, des brocolis rôtis croustillants et du riz jasmin bien parfumé. Facile à préparer, parfait pour 5 repas et validé par les estomacs affamés.",
         "image": "/cuisine/img/poulet_teriyaki.jpg",
         "temps_total": "45 min",
@@ -1203,6 +1258,7 @@
         "temps_cuisson": "25 min",
         "difficulte": "Facile",
         "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": "5",
         "ingredients": [
             "500 g de filets de poulet",
@@ -1241,6 +1297,7 @@
     },
     {
         "nom": "Tiramisu Citron Vert",
+        "type": "dessert",
         "description": "Une revisite ultra-fraîche du classique italien, avec du citron vert qui vient twister le mascarpone et donner une vibe estivale à ce dessert déjà culte (bordel je parle bien). Facile, rapide, un peu dangereux.",
         "image": "/cuisine/img/tiramisu_citron_vert.jpg",
         "temps_total": "4h30",
@@ -1248,6 +1305,7 @@
         "temps_cuisson": "0 min",
         "difficulte": "Facile",
         "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": "6",
         "ingredients": [
             "250 g de mascarpone",
@@ -1282,6 +1340,7 @@
     },
     {
         "nom": "Calamars Tequila",
+        "type": "plat principal",
         "description": "Un plat qui sent bon le soleil, l’audace, et la cuite aussi. Avec des calamars grillés marinés à la tequila et un riz pilaf acidulé pour l’accompagner. Parfait pour une soirée entre potes où on sort les tentacules et les flammes (sans cramer la baraque, promis).",
         "image": "/cuisine/img/calamar_tequila.jpg",
         "temps_total": "1h30",
@@ -1289,6 +1348,7 @@
         "temps_cuisson": "30 min",
         "difficulte": "Moyen",
         "cout": "Élevé",
+        "cout_precis": "10€ par portion",
         "portions": "4",
         "ingredients": [
             "500 g de calamars frais (anneaux ou tubes)",
@@ -1331,6 +1391,7 @@
     },
     {
         "nom": "Agneau au Porto",
+        "type": "plat principal",
         "description": "Un plat pour les vrais gourmands : de l’agneau mijoté dans du porto, servi avec une purée maison ou des pâtes fraiches. C’est généreux, c’est bonne ambiance, et ça garantit des invitations à dîner toutes les semaines. En plus le porto, c’est un banger, c’est normal c’est portugais.",
         "image": "/cuisine/img/agneau_au_porto.jpg",
         "temps_total": "2h30",
@@ -1338,6 +1399,7 @@
         "temps_cuisson": "2h",
         "difficulte": "Moyen",
         "cout": "Élevé",
+        "cout_precis": "10€ par portion",
         "portions": "4",
         "ingredients": [
             "600 g d’agneau (épaule ou gigot), coupé en morceaux",
@@ -1376,6 +1438,7 @@
     },
     {
         "nom": "Tortilla au Boeuf Mariné",
+        "type": "plat principal",
         "description": "Une recette pour ceux qui veulent des repas prêts à déguster après une longue journée. Bœuf mariné, légumes frais, tortillas chaudes et une sauce à l’ail qui tabasse. Rapide à assembler, parfait pour la semaine de taff !",
         "image": "/cuisine/img/tortilla_boeuf_marine.jpg",
         "temps_total": "1h30",
@@ -1383,6 +1446,7 @@
         "temps_cuisson": "30 min",
         "difficulte": "Facile",
         "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": "4",
         "ingredients": [
             "500 g de bœuf (bavette, faux-filet ou rumsteak)",
@@ -1429,6 +1493,7 @@
     },
     {
         "nom": "Mochis aux Myrtilles",
+        "type": "dessert",
         "description": "J’aime pas les mochis, mais j’aime tout ce que je fais. Alors on teste une recette pour voir si je change d’avis. Mochis maison aux myrtilles, c’est sucré, c’est chelou à malaxer, mais c’est marrant à faire.",
         "image": "/cuisine/img/mocchis_myrtilles.jpg",
         "temps_total": "1h",
@@ -1436,6 +1501,7 @@
         "temps_cuisson": "15 min",
         "difficulte": "Moyen",
         "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": "6",
         "ingredients": [
             "90 g de myrtilles (rincées)",
@@ -1468,6 +1534,7 @@
     },
     {
         "nom": "Canard au Génépi",
+        "type": "plat principal",
         "description": "Une viande tendre cuite dans sa propre graisse, une sauce au Génépi qui fait chanter les papilles, et des patates dorées au persil. Simple, efficace, et parfait pour impressionner.",
         "image": "/cuisine/img/canard_au_genepi.jpg",
         "temps_total": "1h30",
@@ -1475,6 +1542,7 @@
         "temps_cuisson": "1h",
         "difficulte": "Moyen",
         "cout": "Élevé",
+        "cout_precis": "10€ par portion",
         "portions": "2",
         "ingredients": [
             "2 magrets de canard",
@@ -1513,6 +1581,7 @@
     },
     {
         "nom": "Boeuf au Calva",
+        "type": "plat principal",
         "description": "Un bon tournedos saignant (obligatoire), une sauce au calva flambé pour que tu te sentes un peu pyromane, et des pommes fondantes pour le petit twist sucré-salé. À partager entre potes ou à sortir pour impressionner ton prochain date.",
         "image": "/cuisine/img/boeuf_au_calva.jpg",
         "temps_total": "1h",
@@ -1520,6 +1589,7 @@
         "temps_cuisson": "30 min",
         "difficulte": "Moyen",
         "cout": "Élevé",
+        "cout_precis": "10€ par portion",
         "portions": "2",
         "ingredients": [
             "4 tournedos de bœuf (ou filets de 180 g chacun)",
@@ -1557,6 +1627,7 @@
     },
     {
         "nom": "Accras de morue",
+        "type": "entrée",
         "description": "Croustillants à l’extérieur, moelleux à l’intérieur, avec un goût de morue bien présent. La version portugaise des acras, signée : la Mamie de Mathéo (LeFrenchGourmet).",
         "image": "/cuisine/img/accras_de_morue.jpg",
         "temps_total": "1h30",
@@ -1564,6 +1635,7 @@
         "temps_cuisson": "30 min",
         "difficulte": "Moyen",
         "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": "4",
         "ingredients": [
             "500 g de morue",
@@ -1598,6 +1670,7 @@
     },
     {
         "nom": "Gua Bao",
+        "type": "plat principal",
         "description": "Les fameux petits pains vapeur asiatiques, et comme je suis sympa, je t’ai mit 2 garnitures, porc caramélisé ou aubergines épicées. Parfait pour un date qui claque.",
         "image": "/cuisine/img/gua_bao.jpg",
         "temps_total": "2h",
@@ -1605,6 +1678,7 @@
         "temps_cuisson": "30 min",
         "difficulte": "Moyen",
         "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": "4",
         "ingredients": [
             "300 g de farine T45",
@@ -1652,6 +1726,7 @@
     },
     {
         "nom": "Barbecue & Pastèque",
+        "type": "plat principal",
         "description": "Bon c’est pas compliqué, je t’ai fait un top 3 de mes viandes préférées (j’ai évidement enlevé le bœuf qui est premier de loin). Et on se met une petite salade de pastèque pour la fraicheur qui fait bien plaisir en été.",
         "image": "/cuisine/img/barbecue_pasteque.jpg",
         "temps_total": "1h30",
@@ -1659,6 +1734,7 @@
         "temps_cuisson": "30 min",
         "difficulte": "Facile",
         "cout": "Moyen",
+        "cout_precis": "10€ par portion",
         "portions": "4",
         "ingredients": [
             "1 pastèque",
@@ -1714,6 +1790,7 @@
     },
     {
         "nom": "Brochettes de Poulet Citronnées",
+        "type": "plat principal",
         "description": "Des brochettes de poulet marinées au citron et thym, accompagnées d’une salade avec des nectarines rôties. Simple, frais, et parfait pour ton prochain date ou ton BBQ entre potes.",
         "image": "/cuisine/img/brochettes_poulet_citronnees.jpg",
         "temps_total": "1h",
@@ -1721,6 +1798,7 @@
         "temps_cuisson": "30 min",
         "difficulte": "Facile",
         "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": "4",
         "ingredients": [
             "4 hauts de cuisse de poulet désossés",
@@ -1755,6 +1833,7 @@
     },
     {
         "nom": "Riz Poulet Coco Express",
+        "type": "plat principal",
         "description": "Stop le riz-thon tristesse. Ce plat, c’est du riz parfumé, du poulet juteux, une sauce au lait de coco et le croquant des cacahuètes. Simple, rapide, mais surtout, ça a de la gueule.",
         "image": "/cuisine/img/riz_poulet_coco_express.jpg",
         "temps_total": "45 min",
@@ -1762,6 +1841,7 @@
         "temps_cuisson": "30 min",
         "difficulte": "Facile",
         "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": "4",
         "ingredients": [
             "Riz (au choix, mais un bon basmati ça claque)",
@@ -1792,6 +1872,7 @@
     },
     {
         "nom": "Pique-nique de Date",
+        "type": "plat principal",
         "description": "Les cinés claqués et les plans foireux, on a connu ça. Le Pique-nique c’est le plan parfait, t’as le temps de parler, tu marques des points avec le repas et avec un peu de chance il fait beau. Roi du game assuré.",
         "image": "/cuisine/img/pic_nique_de_date.jpg",
         "temps_total": "1h",
@@ -1799,6 +1880,7 @@
         "temps_cuisson": "0 min",
         "difficulte": "Facile",
         "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": "2",
         "ingredients": [
             "3 avocats",
@@ -1843,6 +1925,7 @@
     },
     {
         "nom": "Flan au praliné",
+        "type": "dessert",
         "description": "Mes premiers tests en pâtisserie. Un flan crémeux, une pâte sablée au goût noisette et un praliné maison qui claque. Ce dessert, c’est de la douceur en bouche et une petite touche gourmande qui fait la différence. J’ai envie de m’en refaire un, c’est bon signe.",
         "image": "/cuisine/img/flan_praline.jpg",
         "temps_total": "2h",
@@ -1850,6 +1933,7 @@
         "temps_cuisson": "1h",
         "difficulte": "Moyen",
         "cout": "Moyen",
+        "cout_precis": "5€ par portion",
         "portions": "6",
         "ingredients": [
             "100 g de sucre glace",
@@ -1890,6 +1974,7 @@
     },
     {
         "nom": "Poulet du Dimanche",
+        "type": "plat",
         "description": "Le poulet au four, c'est un imbattable. Hyper simple à préparer, rapide, après ça part au four et que du bonheur. Perso, je le préfère fondant et juteux que croustillant, mais chacun son délire gamin.",
         "image": "/cuisine/img/poulet_du_dimanche.jpg",
         "temps_total": "1h30",
@@ -1897,6 +1982,7 @@
         "temps_cuisson": "1h",
         "difficulte": "Facile",
         "cout": "Moyen",
+        "cout_precis": "15€",
         "portions": "4",
         "ingredients": [
             "1 poulet entier (label rouge ou fermier)",
