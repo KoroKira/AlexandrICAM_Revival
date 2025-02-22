@@ -1974,7 +1974,7 @@
     },
     {
         "nom": "Poulet du Dimanche",
-        "type": "plat",
+        "cat": "plat",
         "description": "Le poulet au four, c'est un imbattable. Hyper simple à préparer, rapide, après ça part au four et que du bonheur. Perso, je le préfère fondant et juteux que croustillant, mais chacun son délire gamin.",
         "image": "/cuisine/img/poulet_du_dimanche.jpg",
         "temps_total": "1h30",
