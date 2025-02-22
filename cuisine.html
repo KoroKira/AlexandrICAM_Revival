@@ -237,9 +237,11 @@
             <p id="modal-description"></p>
             
             <div class="meta-info">
+                <span id="modal-cat"></span>
                 <span id="modal-temps-total"></span>
                 <span id="modal-difficulte"></span>
                 <span id="modal-cout"></span>
+                <span id="modal-cout_precis"></span>
                 <span id="modal-portions"></span>
             </div>
 
@@ -306,7 +308,7 @@
                                     <span>${recette.temps_total}</span>
                                     <span class="difficulty">${recette.difficulte}</span>
                                     <span>Pour ${recette.portions} pers.</span>
-                                    <span>${type}</span>
+                                    <span>${cat}</span>
                                 </div>
                             </div>
                         `;
@@ -314,7 +316,7 @@
                         card.addEventListener("click", () => {
                             // Remplir les informations de la modal
                             document.getElementById("modal-title").textContent = recette.nom;
-                            document.getElementByID("modal-type").textContent = recette.type;
+                            document.getElementByID("modal-cat").textContent = recette.cat;
                             document.getElementById("modal-description").textContent = recette.description;
                             document.getElementById("modal-temps-total").textContent = `⏱️ ${recette.temps_total}`;
                             document.getElementById("modal-difficulte").textContent = `📊 ${recette.difficulte}`;
