@@ -8,76 +8,76 @@
         /* Reset CSS basique */
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; }
-            
+
         /* Mode sombre */
         body.dark-mode {
             background: #121212; /* Fond plus doux */
             color: #e0e0e0; /* Texte clair mais pas trop vif */
         }
-        
+
         .dark-mode header {
             background: #1e1e1e; /* Fond plus sombre pour le header */
             color: #e0e0e0;
         }
-        
+
         .dark-mode .recette-card {
             background: #1e1e1e; /* Fond des cartes plus sombre */
             border-color: #333; /* Bordure plus subtile */
             color: #e0e0e0; /* Texte clair */
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3); /* Ombre plus douce */
         }
-        
+
         .dark-mode .recette-card:hover {
             transform: translateY(-3px);
             box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.4); /* Ombre légèrement plus prononcée au survol */
         }
-        
+
         .dark-mode .recette-content h2 {
             color: #bb86fc; /* Couleur d'accent pour les titres (violet doux) */
         }
-        
+
         .dark-mode .meta-info {
             color: #b0b0b0; /* Texte secondaire plus doux */
         }
-        
+
         .dark-mode .difficulty {
             background: #333; /* Fond des badges de difficulté plus sombre */
             color: #bb86fc; /* Texte des badges de difficulté */
         }
-        
+
         .dark-mode .modal-content {
             background: #1e1e1e; /* Fond de la modal plus sombre */
             color: #e0e0e0; /* Texte clair dans la modal */
         }
-        
+
         .dark-mode .modal-content h2 {
             color: #bb86fc; /* Titre de la modal en couleur d'accent */
         }
-        
+
         .dark-mode .close-btn {
             color: #bb86fc; /* Bouton de fermeture en couleur d'accent */
         }
-        
+
         .dark-mode .recipe-steps li {
             background: #333; /* Fond des étapes plus sombre */
             color: #e0e0e0; /* Texte clair */
         }
-        
+
         .dark-mode .nutrition-item {
             background: #333; /* Fond des infos nutritionnelles plus sombre */
             color: #e0e0e0; /* Texte clair */
         }
-        
+
         .dark-mode .tips {
             background: #333; /* Fond des conseils plus sombre */
             color: #e0e0e0; /* Texte clair */
         }
-        
+
         .dark-mode footer {
             background: #1e1e1e; /* Fond du footer plus sombre */
             color: #e0e0e0; /* Texte clair */
         }
-        
+
         /* Bouton mode sombre */
         .dark-mode-toggle {
             background: none;
@@ -86,7 +86,7 @@
             font-size: 1.2rem;
             color: inherit; /* Utilisation de la couleur héritée pour s'adapter au mode sombre */
         }
-        
+
         /* Styles communs */
         body { 
             font-family: 'Segoe UI', sans-serif; 
@@ -95,7 +95,7 @@
             background: #f7fafc;
             color: #1a202c; /* Couleur de texte par défaut */
         }
-        
+
         /* Header */
         header {
             background: #2b6cb0;
@@ -105,23 +105,23 @@
             justify-content: space-between;
             align-items: center;
         }
-        
+
         nav {
             display: flex;
             gap: 2rem;
             flex-wrap: wrap;
         }
-        
+
         nav a { 
             color: white; 
             text-decoration: none; 
             margin-right: 1.5rem; 
         }
-        
+
         nav a:hover {
             background: #2c5282;
         }
-        
+
         /* Conteneur des recettes */
         .recettes {
             max-width: 1200px;
@@ -131,7 +131,7 @@
             gap: 2rem;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         }
-        
+
         /* Carte recette */
         .recette-card {
             border: 1px solid #e2e8f0;
@@ -142,27 +142,27 @@
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
             cursor: pointer;
         }
-        
+
         .recette-card:hover {
             transform: translateY(-3px);
         }
-        
+
         .recette-image {
             width: 100%;
             height: 200px;
             object-fit: cover;
         }
-        
+
         .recette-content {
             padding: 1.5rem;
         }
-        
+
         .recette-content h2 {
             color: #2b6cb0;
             margin-bottom: 0.5rem;
             font-size: 1.25rem;
         }
-        
+
         .meta-info {
             display: flex;
             gap: 1rem;
@@ -170,14 +170,14 @@
             color: #666;
             margin-top: 0.5rem;
         }
-        
+
         .difficulty {
             padding: 0.25rem 0.5rem;
             border-radius: 4px;
             background: #ebf8ff;
             color: #2b6cb0;
         }
-        
+
         /* Modal (popup) */
         .modal {
             display: none;
@@ -192,7 +192,7 @@
             overflow-y: auto;
             padding: 2rem 0;
         }
-        
+
         .modal-content {
             background: white;
             padding: 2rem;
@@ -202,12 +202,12 @@
             position: relative;
             margin: auto;
         }
-        
+
         .modal-content h2 {
             margin-top: 0;
             color: #2b6cb0;
         }
-        
+
         .close-btn {
             position: absolute;
             top: 1rem;
@@ -219,44 +219,89 @@
             border: none;
             padding: 0.5rem;
         }
-        
+
         .recipe-steps {
             list-style-position: inside;
             padding-left: 0;
         }
-        
+
         .recipe-steps li {
             margin-bottom: 0.5rem;
             padding: 0.5rem;
             background: #f8fafc;
             border-radius: 4px;
         }
-        
+
         .nutritional-info {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
             gap: 1rem;
             margin: 1rem 0;
         }
-        
+
         .nutrition-item {
             padding: 1rem;
             background: #f8fafc;
             border-radius: 4px;
             text-align: center;
         }
-        
+
         .nutrition-item span {
             display: block;
             font-weight: bold;
             color: #2b6cb0;
         }
-        
+
         .tips {
             background: #ebf8ff;
             padding: 1rem;
             border-radius: 4px;
             margin: 1rem 0;
+        }
+        /* Styles pour la section de filtres */
+        .filters-section {
+            display: none; /* Cachée par défaut */
+            padding: 1rem;
+            background: #f7fafc;
+            border-bottom: 1px solid #e2e8f0;
+            margin-bottom: 1rem;
+        }
+
+        .dark-mode .filters-section {
+            background: #1e1e1e;
+            border-color: #333;
+        }
+    
+        .filters-section input,
+        .filters-section select {
+            padding: 0.5rem;
+            margin-right: 0.5rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 4px;
+            font-size: 1rem;
+        }
+    
+        .dark-mode .filters-section input,
+        .dark-mode .filters-section select {
+            background: #333;
+            color: #e0e0e0;
+            border-color: #444;
+        }
+    
+        .filters {
+            margin-top: 0.5rem;
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+    
+        .filter-toggle {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 1rem;
+            color: inherit;
+            margin-left: 1rem;
         }
     </style>
 </head>
@@ -268,6 +313,31 @@
         </nav>
         <button class="dark-mode-toggle" id="dark-mode-toggle">🌙</button>
     </header>
+
+    <!-- Section de filtres/recherche (cachée par défaut) -->
+    <div class="filters-section" id="filters-section">
+        <input type="text" id="search-bar" placeholder="Rechercher une recette..." />
+        <div class="filters">
+            <select id="filter-category">
+                <option value="">Toutes les catégories</option>
+                <option value="Végétarien">Végétarien</option>
+                <option value="Rapide">Rapide</option>
+                <option value="Économique">Économique</option>
+            </select>
+            <select id="filter-difficulty">
+                <option value="">Toutes les difficultés</option>
+                <option value="Facile">Facile</option>
+                <option value="Moyen">Moyen</option>
+                <option value="Difficile">Difficile</option>
+            </select>
+            <select id="filter-time">
+                <option value="">Tous les temps</option>
+                <option value="15">15 min</option>
+                <option value="15-30">15-30 min</option>
+                <option value="30">30 min</option>
+            </select>
+        </div>
+    </div>
 
     <div class="recettes" id="recettes-container"></div>
 
@@ -309,122 +379,173 @@
     </footer>
 
     <script>
-        // Gestion du mode sombre
-        const darkModeToggle = document.getElementById('dark-mode-toggle');
-        const body = document.body;
-
-        // Vérifier le cookie au chargement
-        if (document.cookie.includes('darkMode=true')) {
-            body.classList.add('dark-mode');
-            darkModeToggle.textContent = '☀️';
-        }
-
-        // Basculer le mode sombre
-        darkModeToggle.addEventListener('click', () => {
-            body.classList.toggle('dark-mode');
-            const isDarkMode = body.classList.contains('dark-mode');
-            darkModeToggle.textContent = isDarkMode ? '☀️' : '🌙';
-            
-            // Enregistrer dans un cookie (valide 30 jours)
-            document.cookie = `darkMode=${isDarkMode}; path=/; max-age=${30 * 24 * 60 * 60}`;
-        });
-
         document.addEventListener("DOMContentLoaded", function () {
-            const container = document.getElementById("recettes-container");
-            const modal = document.getElementById("modal");
-            const closeModal = document.getElementById("close-modal");
-
+            // Gestion du mode sombre
+            const darkModeToggle = document.getElementById('dark-mode-toggle');
+            const body = document.body;
+        
+            // Vérifier le cookie au chargement
+            if (document.cookie.includes('darkMode=true')) {
+                body.classList.add('dark-mode');
+                darkModeToggle.textContent = '☀️';
+            }
+        
+            // Basculer le mode sombre
+            darkModeToggle.addEventListener('click', () => {
+                body.classList.toggle('dark-mode');
+        const isDarkMode = body.classList.contains('dark-mode');
+        darkModeToggle.textContent = isDarkMode ? '☀️' : '🌙';
+        
+        // Enregistrer dans un cookie (valide 30 jours)
+        document.cookie = `darkMode=${isDarkMode}; path=/; max-age=${30 * 24 * 60 * 60}`;
+    });
+        
+            // Gestion des filtres et de la recherche
+            const filterToggle = document.getElementById('filter-toggle');
+            const filtersSection = document.getElementById('filters-section');
+            const searchBar = document.getElementById('search-bar');
+            const filterCategory = document.getElementById('filter-category');
+            const filterDifficulty = document.getElementById('filter-difficulty');
+            const filterTime = document.getElementById('filter-time');
+            const recettesContainer = document.getElementById('recettes-container');
+            const modal = document.getElementById('modal');
+            const closeModal = document.getElementById('close-modal');
+        
+            let recettes = []; // Stocker les recettes chargées
+        
+            // Afficher/masquer la section de filtres
+            filterToggle.addEventListener('click', () => {
+                filtersSection.style.display = filtersSection.style.display === 'none' ? 'block' : 'none';
+            });
+        
             // Charger les recettes depuis le fichier JSON
-            fetch("cuisine/recettes.json")
+            fetch('cuisine/recettes.json')
                 .then(response => response.json())
-                .then(recettes => {
-                    recettes.forEach(recette => {
-                        const card = document.createElement("article"); // j'ai changé le chemin de l'image
-                        card.classList.add("recette-card");
-                        card.innerHTML = `
-                            <img src="https://korokira.github.io/AlexandrICAM_Revival/${recette.image}" alt="${recette.nom}" class="recette-image"> 
-                            <div class="recette-content">
-                                <h2>${recette.nom}</h2>
-                                <p>${recette.description}</p>
-                                <div class="meta-info">
-                                    <span>${recette.temps_total}</span>
-                                    <span class="difficulty">${recette.difficulte}</span>
-                                    <span>Pour ${recette.portions} pers.</span>
-                                    <span>${recette.cat}</span>
-                                </div>
-                            </div>
-                        `;
-
-                        card.addEventListener("click", () => {
-                            // Remplir les informations de la modal
-                            document.getElementById("modal-title").textContent = recette.nom;
-                            document.getElementById("modal-cat").textContent = recette.cat;
-                            document.getElementById("modal-description").textContent = recette.description;
-                            document.getElementById("modal-temps-total").textContent = `⏱️ ${recette.temps_total}`;
-                            document.getElementById("modal-difficulte").textContent = `📊 ${recette.difficulte}`;
-                            document.getElementById("modal-cout").textContent = `💰 ${recette.cout}`;
-                            document.getElementById("modal-cout_precis").textContent = recette.cout_precis;
-                            document.getElementById("modal-portions").textContent = `👥 ${recette.portions} portions`;
-                            document.getElementById("modal-conservation").textContent = recette.conservation;
-
-                            // Remplir les valeurs nutritives
-                            const nutritionContainer = document.getElementById("modal-nutrition");
-                            nutritionContainer.innerHTML = "";
-                            Object.entries(recette.valeurs_nutritives).forEach(([key, value]) => {
-                                const div = document.createElement("div");
-                                div.className = "nutrition-item";
-                                div.innerHTML = `
-                                    <span>${value}</span>
-                                    ${key}
-                                `;
-                                nutritionContainer.appendChild(div);
-                            });
-
-                            // Remplir les ingrédients
-                            const ingredientsList = document.getElementById("modal-ingredients");
-                            ingredientsList.innerHTML = "";
-                            recette.ingredients.forEach(ingredient => {
-                                const li = document.createElement("li");
-                                li.textContent = ingredient;
-                                ingredientsList.appendChild(li);
-                            });
-
-                            // Remplir les étapes
-                            const stepsList = document.getElementById("modal-steps");
-                            stepsList.innerHTML = "";
-                            recette.etapes.forEach(etape => {
-                                const li = document.createElement("li");
-                                li.textContent = etape;
-                                stepsList.appendChild(li);
-                            });
-
-                            // Remplir les conseils
-                            const tipsList = document.getElementById("modal-tips");
-                            tipsList.innerHTML = "";
-                            recette.conseils.forEach(conseil => {
-                                const li = document.createElement("li");
-                                li.textContent = conseil;
-                                tipsList.appendChild(li);
-                            });
-
-                            modal.style.display = "flex";
-                        });
-
-                        container.appendChild(card);
-                    });
-
-                    // Fermer la modal
-                    closeModal.addEventListener("click", () => {
-                        modal.style.display = "none";
-                    });
-
-                    modal.addEventListener("click", (event) => {
-                        if (event.target === modal) {
-                            modal.style.display = "none";
-                        }
-                    });
+                .then(data => {
+                    recettes = data;
+                    afficherRecettes(recettes); // Afficher toutes les recettes au départ
                 })
-                .catch(error => console.error("Erreur lors du chargement des recettes:", error));
+                .catch(error => console.error('Erreur lors du chargement des recettes:', error));
+            
+            // Fonction pour filtrer les recettes
+            function filtrerRecettes() {
+                const searchTerm = searchBar.value.toLowerCase();
+                const category = filterCategory.value;
+                const difficulty = filterDifficulty.value;
+                const time = filterTime.value;
+            
+                const recettesFiltrees = recettes.filter(recette => {
+                    const matchesSearch = recette.nom.toLowerCase().includes(searchTerm) ||
+                                         recette.description.toLowerCase().includes(searchTerm);
+                    const matchesCategory = category ? recette.cat === category : true;
+                    const matchesDifficulty = difficulty ? recette.difficulte === difficulty : true;
+                    const matchesTime = time ? (
+                        time === '<15' && parseInt(recette.temps_total) < 15 ||
+                        time === '15-30' && parseInt(recette.temps_total) >= 15 && parseInt(recette.temps_total) <= 30 ||
+                        time === '>30' && parseInt(recette.temps_total) > 30
+                    ) : true;
+                
+                    return matchesSearch && matchesCategory && matchesDifficulty && matchesTime;
+                });
+            
+                afficherRecettes(recettesFiltrees);
+            }
+        
+            // Appliquer les filtres lors de la saisie ou de la sélection
+            searchBar.addEventListener('input', filtrerRecettes);
+            filterCategory.addEventListener('change', filtrerRecettes);
+            filterDifficulty.addEventListener('change', filtrerRecettes);
+            filterTime.addEventListener('change', filtrerRecettes);
+        
+            // Fonction pour afficher les recettes filtrées
+            function afficherRecettes(recettes) {
+                recettesContainer.innerHTML = '';
+                recettes.forEach(recette => {
+                    const card = document.createElement('article');
+                    card.classList.add('recette-card');
+                    card.innerHTML = `
+                        <img src="https://korokira.github.io/AlexandrICAM_Revival/${recette.image}" alt="${recette.nom}" class="recette-image"> 
+                        <div class="recette-content">
+                            <h2>${recette.nom}</h2>
+                            <p>${recette.description}</p>
+                            <div class="meta-info">
+                                <span>${recette.temps_total}</span>
+                                <span class="difficulty">${recette.difficulte}</span>
+                                <span>Pour ${recette.portions} pers.</span>
+                                <span>${recette.cat}</span>
+                            </div>
+                        </div>
+                    `;
+                    card.addEventListener('click', () => afficherModal(recette));
+                    recettesContainer.appendChild(card);
+                });
+            }
+        
+            // Fonction pour afficher la modal avec les détails de la recette
+            function afficherModal(recette) {
+                document.getElementById('modal-title').textContent = recette.nom;
+                document.getElementById('modal-cat').textContent = recette.cat;
+                document.getElementById('modal-description').textContent = recette.description;
+                document.getElementById('modal-temps-total').textContent = `⏱️ ${recette.temps_total}`;
+                document.getElementById('modal-difficulte').textContent = `📊 ${recette.difficulte}`;
+                document.getElementById('modal-cout').textContent = `💰 ${recette.cout}`;
+                document.getElementById('modal-cout_precis').textContent = recette.cout_precis;
+                document.getElementById('modal-portions').textContent = `👥 ${recette.portions} portions`;
+                document.getElementById('modal-conservation').textContent = recette.conservation;
+            
+                // Remplir les valeurs nutritives
+                const nutritionContainer = document.getElementById('modal-nutrition');
+                nutritionContainer.innerHTML = '';
+                Object.entries(recette.valeurs_nutritives).forEach(([key, value]) => {
+                    const div = document.createElement('div');
+                    div.className = 'nutrition-item';
+                    div.innerHTML = `
+                        <span>${value}</span>
+                        ${key}
+                    `;
+                    nutritionContainer.appendChild(div);
+                });
+            
+                // Remplir les ingrédients
+                const ingredientsList = document.getElementById('modal-ingredients');
+                ingredientsList.innerHTML = '';
+                recette.ingredients.forEach(ingredient => {
+                    const li = document.createElement('li');
+                    li.textContent = ingredient;
+                    ingredientsList.appendChild(li);
+                });
+            
+                // Remplir les étapes
+                const stepsList = document.getElementById('modal-steps');
+                stepsList.innerHTML = '';
+                recette.etapes.forEach(etape => {
+                    const li = document.createElement('li');
+                    li.textContent = etape;
+                    stepsList.appendChild(li);
+                });
+            
+                // Remplir les conseils
+                const tipsList = document.getElementById('modal-tips');
+                tipsList.innerHTML = '';
+                recette.conseils.forEach(conseil => {
+                    const li = document.createElement('li');
+                    li.textContent = conseil;
+                    tipsList.appendChild(li);
+                });
+            
+                modal.style.display = 'flex';
+            }
+        
+            // Fermer la modal
+            closeModal.addEventListener('click', () => {
+                modal.style.display = 'none';
+            });
+        
+            modal.addEventListener('click', (event) => {
+                if (event.target === modal) {
+                    modal.style.display = 'none';
+                }
+            });
         });
     </script>
 </body>
