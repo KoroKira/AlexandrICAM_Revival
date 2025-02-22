@@ -316,12 +316,12 @@
                         card.addEventListener("click", () => {
                             // Remplir les informations de la modal
                             document.getElementById("modal-title").textContent = recette.nom;
-                            document.getElementByID("modal-cat").textContent = recette.cat;
+                            document.getElementById("modal-cat").textContent = recette.cat;
                             document.getElementById("modal-description").textContent = recette.description;
                             document.getElementById("modal-temps-total").textContent = `⏱️ ${recette.temps_total}`;
                             document.getElementById("modal-difficulte").textContent = `📊 ${recette.difficulte}`;
                             document.getElementById("modal-cout").textContent = `💰 ${recette.cout}`;
-                            document.getElementByID("modal-cout_precis").textContent = recette.cout_precis;
+                            document.getElementById("modal-cout_precis").textContent = recette.cout_precis;
                             document.getElementById("modal-portions").textContent = `👥 ${recette.portions} portions`;
                             document.getElementById("modal-conservation").textContent = recette.conservation;
 
