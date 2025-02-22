@@ -4746,5 +4746,4553 @@
             "Lipides": "5 g"
         },
         "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Pancakes à la Patate Douce et Cannelle",
+        "cat": "petit-déjeuner",
+        "description": "Des pancakes moelleux et légèrement sucrés, parfaits pour un petit-déjeuner gourmand.",
+        "image": "/cuisine/img/pancakes_patate_douce_cannelle.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "5€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de patate douce cuite",
+            "150 g de farine",
+            "1 œuf",
+            "1 C A S de cannelle",
+            "100 ml de lait"
+        ],
+        "etapes": [
+            "Écraser la patate douce et mélanger avec la farine, l'œuf, la cannelle et le lait.",
+            "Faire cuire les pancakes à la poêle jusqu'à ce qu'ils soient dorés.",
+            "Servir avec du sirop d'érable ou des fruits frais."
+        ],
+        "conseils": [
+            "Ajoutez des noix pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "6 g",
+            "Glucides": "35 g",
+            "Lipides": "4 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Omelette Norvégienne (Saumon Fumé et Aneth)",
+        "cat": "petit-déjeuner",
+        "description": "Une omelette élégante et savoureuse, inspirée des saveurs nordiques.",
+        "image": "/cuisine/img/omelette_norvegienne.jpg",
+        "temps_total": "20 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "10 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "cout_precis": "12€",
+        "portions": "2",
+        "ingredients": [
+            "4 œufs",
+            "100 g de saumon fumé",
+            "1 C A S d'aneth frais",
+            "1 C A S de crème fraîche",
+            "Sel, poivre"
+        ],
+        "etapes": [
+            "Battre les œufs avec la crème fraîche, l'aneth, le sel et le poivre.",
+            "Faire cuire l'omelette à feu doux. Déposer le saumon fumé avant de replier.",
+            "Servir avec une salade verte."
+        ],
+        "conseils": [
+            "Ajoutez des câpres pour une touche acidulée."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "20 g",
+            "Glucides": "2 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Smoothie Bowl à la Papaye et au Gingembre",
+        "cat": "petit-déjeuner",
+        "description": "Un smoothie bowl exotique et rafraîchissant, parfait pour un petit-déjeuner healthy.",
+        "image": "/cuisine/img/smoothie_bowl_papaye_gingembre.jpg",
+        "temps_total": "10 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "6€",
+        "portions": "2",
+        "ingredients": [
+            "1 papaye",
+            "1 banane",
+            "1 C A C de gingembre frais râpé",
+            "100 ml de lait de coco",
+            "Graines de chia"
+        ],
+        "etapes": [
+            "Mixer la papaye, la banane, le gingembre et le lait de coco jusqu'à obtenir une texture lisse.",
+            "Verser dans un bol et garnir de graines de chia.",
+            "Servir immédiatement."
+        ],
+        "conseils": [
+            "Ajoutez des flocons de coco pour plus de texture."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "180 kcal",
+            "Protéines": "3 g",
+            "Glucides": "30 g",
+            "Lipides": "6 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Petits Pains au Curcuma et Graines de Sésame",
+        "cat": "petit-déjeuner",
+        "description": "Des petits pains moelleux et parfumés, parfaits pour accompagner un petit-déjeuner salé.",
+        "image": "/cuisine/img/petits_pains_curcuma_sesame.jpg",
+        "temps_total": "2h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "7€",
+        "portions": "6",
+        "ingredients": [
+            "300 g de farine",
+            "1 C A C de curcuma",
+            "1 sachet de levure boulangère",
+            "1 C A S de graines de sésame",
+            "150 ml d'eau tiède"
+        ],
+        "etapes": [
+            "Mélanger la farine, le curcuma, la levure et l'eau tiède. Pétrir jusqu'à obtenir une pâte homogène.",
+            "Laisser reposer 1h. Former des petits pains et parsemer de graines de sésame.",
+            "Cuire 20 min au four à 180°C."
+        ],
+        "conseils": [
+            "Servez avec du beurre ou de la confiture."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "150 kcal",
+            "Protéines": "5 g",
+            "Glucides": "25 g",
+            "Lipides": "4 g"
+        },
+        "conservation": "2 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Œufs au Plat sur Toast d'Avocat et Piment d'Espelette",
+        "cat": "petit-déjeuner",
+        "description": "Un petit-déjeuner gourmand et équilibré, avec une touche de piquant.",
+        "image": "/cuisine/img/oeufs_toast_avocat_piment.jpg",
+        "temps_total": "15 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "5 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "2",
+        "ingredients": [
+            "2 tranches de pain complet",
+            "1 avocat",
+            "2 œufs",
+            "1 pincée de piment d'Espelette",
+            "Sel, poivre"
+        ],
+        "etapes": [
+            "Griller les tranches de pain. Écraser l'avocat et l'étaler sur les toasts.",
+            "Faire cuire les œufs au plat. Les déposer sur les toasts.",
+            "Parsemer de piment d'Espelette, de sel et de poivre."
+        ],
+        "conseils": [
+            "Ajoutez des graines de chia pour plus de nutriments."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "10 g",
+            "Glucides": "20 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Granola au Matcha et Noix de Coco",
+        "cat": "petit-déjeuner",
+        "description": "Un granola healthy et gourmand, parfait pour un petit-déjeuner énergisant.",
+        "image": "/cuisine/img/granola_matcha_coco.jpg",
+        "temps_total": "40 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "6€",
+        "portions": "8",
+        "ingredients": [
+            "200 g de flocons d'avoine",
+            "50 g de noix de coco râpée",
+            "1 C A S de matcha en poudre",
+            "50 ml de sirop d'érable",
+            "50 ml d'huile de coco"
+        ],
+        "etapes": [
+            "Mélanger les flocons d'avoine, la noix de coco, le matcha, le sirop d'érable et l'huile de coco.",
+            "Étaler sur une plaque et cuire 30 min à 150°C en remuant de temps en temps.",
+            "Laisser refroidir avant de conserver dans un bocal."
+        ],
+        "conseils": [
+            "Ajoutez des fruits secs pour plus de gourmandise."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "5 g",
+            "Glucides": "25 g",
+            "Lipides": "8 g"
+        },
+        "conservation": "2 semaines dans un bocal hermétique"
+    },
+    {
+        "nom": "Crêpes à la Farine de Châtaigne",
+        "cat": "petit-déjeuner",
+        "description": "Des crêpes originales et savoureuses, avec une touche de douceur.",
+        "image": "/cuisine/img/crepes_farine_chataigne.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "7€",
+        "portions": "4",
+        "ingredients": [
+            "150 g de farine de châtaigne",
+            "2 œufs",
+            "300 ml de lait",
+            "1 pincée de sel",
+            "1 C A S de beurre"
+        ],
+        "etapes": [
+            "Mélanger la farine, les œufs, le lait et le sel jusqu'à obtenir une pâte lisse.",
+            "Faire cuire les crêpes à la poêle avec un peu de beurre.",
+            "Servir avec du miel ou de la confiture."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de cannelle pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "180 kcal",
+            "Protéines": "6 g",
+            "Glucides": "25 g",
+            "Lipides": "6 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Brioche au Chocolat et à la Fleur d'Oranger",
+        "cat": "petit-déjeuner",
+        "description": "Une brioche moelleuse et parfumée, parfaite pour un petit-déjeuner gourmand.",
+        "image": "/cuisine/img/brioche_chocolat_fleur_oranger.jpg",
+        "temps_total": "3h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "6",
+        "ingredients": [
+            "300 g de farine",
+            "1 sachet de levure boulangère",
+            "100 g de chocolat noir",
+            "1 C A S de fleur d'oranger",
+            "100 ml de lait"
+        ],
+        "etapes": [
+            "Mélanger la farine, la levure, le lait et la fleur d'oranger. Pétrir jusqu'à obtenir une pâte homogène.",
+            "Incorporer le chocolat coupé en morceaux. Laisser reposer 2h.",
+            "Cuire 30 min au four à 180°C."
+        ],
+        "conseils": [
+            "Servez tiède avec du beurre."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "6 g",
+            "Glucides": "35 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "2 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Porridge au Chai Latte et Pommes Caramélisées",
+        "cat": "petit-déjeuner",
+        "description": "Un porridge réconfortant et épicé, parfait pour un petit-déjeuner d'hiver.",
+        "image": "/cuisine/img/porridge_chai_latte_pommes.jpg",
+        "temps_total": "20 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "10 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "6€",
+        "portions": "2",
+        "ingredients": [
+            "100 g de flocons d'avoine",
+            "300 ml de lait",
+            "1 pomme",
+            "1 C A C de cannelle",
+            "1 C A C de gingembre"
+        ],
+        "etapes": [
+            "Faire chauffer les flocons d'avoine avec le lait, la cannelle et le gingembre.",
+            "Couper la pomme en dés et la caraméliser à la poêle avec un peu de sucre.",
+            "Servir le porridge avec les pommes caramélisées."
+        ],
+        "conseils": [
+            "Ajoutez des noix pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "6 g",
+            "Glucides": "30 g",
+            "Lipides": "6 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Tartines de Pain de Seigle au Fromage Blanc et Confiture de Figues",
+        "cat": "petit-déjeuner",
+        "description": "Des tartines saines et gourmandes, parfaites pour un petit-déjeuner équilibré.",
+        "image": "/cuisine/img/tartines_pain_seigle_fromage_figues.jpg",
+        "temps_total": "10 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "5€",
+        "portions": "2",
+        "ingredients": [
+            "4 tranches de pain de seigle",
+            "100 g de fromage blanc",
+            "4 C A S de confiture de figues"
+        ],
+        "etapes": [
+            "Griller les tranches de pain de seigle.",
+            "Tartiner de fromage blanc et ajouter une cuillère de confiture de figues.",
+            "Servir immédiatement."
+        ],
+        "conseils": [
+            "Ajoutez des graines de chia pour plus de nutriments."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "150 kcal",
+            "Protéines": "6 g",
+            "Glucides": "25 g",
+            "Lipides": "4 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Salade de Quinoa au Chèvre et Betterave",
+        "cat": "déjeuner",
+        "description": "Une salade fraîche et équilibrée, parfaite pour un déjeuner léger.",
+        "image": "/cuisine/img/salade_quinoa_chevre_betterave.jpg",
+        "temps_total": "25 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "10 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de quinoa",
+            "1 betterave cuite",
+            "100 g de fromage de chèvre",
+            "1 poignée de roquette",
+            "2 C A S d'huile d'olive"
+        ],
+        "etapes": [
+            "Cuire le quinoa selon les instructions. Laisser refroidir.",
+            "Couper la betterave et le fromage de chèvre en dés.",
+            "Mélanger le quinoa, la betterave, le chèvre et la roquette. Arroser d'huile d'olive."
+        ],
+        "conseils": [
+            "Ajoutez des noix pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "10 g",
+            "Glucides": "30 g",
+            "Lipides": "8 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Burger de Poulet au Curry et Mangue",
+        "cat": "déjeuner",
+        "description": "Un burger original et savoureux, avec une touche exotique.",
+        "image": "/cuisine/img/burger_poulet_curry_mangue.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "cout_precis": "10€",
+        "portions": "4",
+        "ingredients": [
+            "4 pains à burger",
+            "400 g de poulet haché",
+            "1 C A C de curry",
+            "1 mangue",
+            "1 oignon rouge"
+        ],
+        "etapes": [
+            "Mélanger le poulet haché avec le curry. Former des steaks et les faire cuire à la poêle.",
+            "Couper la mangue et l'oignon en tranches fines.",
+            "Monter les burgers avec les steaks de poulet, la mangue et l'oignon."
+        ],
+        "conseils": [
+            "Ajoutez une sauce au yaourt pour plus de gourmandise."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "25 g",
+            "Glucides": "30 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Tarte Salée aux Courgettes et à la Feta",
+        "cat": "déjeuner",
+        "description": "Une tarte légère et savoureuse, idéale pour un déjeuner estival.",
+        "image": "/cuisine/img/tarte_courgettes_feta.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "25 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "9€",
+        "portions": "6",
+        "ingredients": [
+            "1 pâte brisée",
+            "2 courgettes",
+            "100 g de feta",
+            "2 œufs",
+            "100 ml de crème fraîche"
+        ],
+        "etapes": [
+            "Étaler la pâte brisée dans un moule. Piquer le fond avec une fourchette.",
+            "Couper les courgettes en rondelles et les disposer sur la pâte.",
+            "Battre les œufs avec la crème fraîche. Verser sur les courgettes. Émietter la feta.",
+            "Cuire 25 min au four à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de thym pour plus de parfum."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "10 g",
+            "Glucides": "25 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Soupe Pho Vietnamienne",
+        "cat": "déjeuner",
+        "description": "Une soupe parfumée et réconfortante, inspirée de la cuisine vietnamienne.",
+        "image": "/cuisine/img/pho_vietnamien.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "12€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de nouilles de riz",
+            "300 g de bœuf finement tranché",
+            "1 oignon",
+            "1 morceau de gingembre",
+            "1 L de bouillon de bœuf"
+        ],
+        "etapes": [
+            "Faire revenir l'oignon et le gingembre dans un peu d'huile. Ajouter le bouillon et laisser mijoter 20 min.",
+            "Cuire les nouilles de riz selon les instructions. Les répartir dans des bols.",
+            "Ajouter le bœuf tranché dans le bouillon chaud. Verser sur les nouilles."
+        ],
+        "conseils": [
+            "Ajoutez des herbes fraîches (coriandre, menthe) et des pousses de soja."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "25 g",
+            "Glucides": "40 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Pâtes au Gorgonzola et Noix",
+        "cat": "déjeuner",
+        "description": "Des pâtes crémeuses et gourmandes, parfaites pour un déjeuner réconfortant.",
+        "image": "/cuisine/img/pates_gorgonzola_noix.jpg",
+        "temps_total": "25 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "300 g de pâtes",
+            "100 g de gorgonzola",
+            "50 g de noix",
+            "100 ml de crème fraîche",
+            "Sel, poivre"
+        ],
+        "etapes": [
+            "Cuire les pâtes selon les instructions. Réserver un peu d'eau de cuisson.",
+            "Faire fondre le gorgonzola avec la crème fraîche dans une poêle. Ajouter les noix concassées.",
+            "Mélanger les pâtes avec la sauce. Ajouter un peu d'eau de cuisson si nécessaire."
+        ],
+        "conseils": [
+            "Parsemer de persil frais pour plus de fraîcheur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "450 kcal",
+            "Protéines": "15 g",
+            "Glucides": "50 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Tacos de Crevettes Marinées au Citron Vert",
+        "cat": "déjeuner",
+        "description": "Des tacos frais et savoureux, parfaits pour un déjeuner estival.",
+        "image": "/cuisine/img/tacos_crevettes_citron_vert.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "10 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "cout_precis": "12€",
+        "portions": "4",
+        "ingredients": [
+            "8 tortillas",
+            "300 g de crevettes",
+            "1 citron vert",
+            "1 avocat",
+            "1 poignée de coriandre fraîche"
+        ],
+        "etapes": [
+            "Faire mariner les crevettes dans le jus de citron vert pendant 10 min.",
+            "Faire cuire les crevettes à la poêle. Couper l'avocat en dés.",
+            "Garnir les tortillas avec les crevettes, l'avocat et la coriandre."
+        ],
+        "conseils": [
+            "Ajoutez une sauce au yaourt pour plus de gourmandise."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "20 g",
+            "Glucides": "25 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Risotto au Safran et Fruits de Mer",
+        "cat": "déjeuner",
+        "description": "Un risotto onctueux et raffiné, parfait pour un déjeuner élégant.",
+        "image": "/cuisine/img/risotto_safran_fruits_mer.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "cout_precis": "18€",
+        "portions": "4",
+        "ingredients": [
+            "300 g de riz Arborio",
+            "200 g de fruits de mer (crevettes, moules, etc.)",
+            "1 oignon",
+            "1 L de bouillon de poisson",
+            "1 pincée de safran"
+        ],
+        "etapes": [
+            "Faire revenir l'oignon émincé dans un peu d'huile. Ajouter le riz et le safran.",
+            "Verser le bouillon petit à petit en remuant jusqu'à absorption.",
+            "Ajouter les fruits de mer et cuire 5 min supplémentaires."
+        ],
+        "conseils": [
+            "Parsemer de persil frais avant de servir."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "20 g",
+            "Glucides": "50 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Salade Niçoise Revisité",
+        "cat": "déjeuner",
+        "description": "Une version moderne de la salade niçoise, fraîche et équilibrée.",
+        "image": "/cuisine/img/salade_nicoise_revisitee.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "4",
+        "ingredients": [
+            "4 œufs durs",
+            "200 g de thon en conserve",
+            "1 poivron rouge",
+            "100 g de haricots verts",
+            "2 tomates"
+        ],
+        "etapes": [
+            "Couper les œufs, le poivron, les haricots verts et les tomates en morceaux.",
+            "Mélanger avec le thon. Assaisonner avec une vinaigrette légère."
+        ],
+        "conseils": [
+            "Ajoutez des olives noires pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "20 g",
+            "Glucides": "10 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Sandwich au Porc Effiloché et Coleslaw",
+        "cat": "déjeuner",
+        "description": "Un sandwich gourmand et savoureux, parfait pour un déjeuner rapide.",
+        "image": "/cuisine/img/sandwich_porc_effiloche_coleslaw.jpg",
+        "temps_total": "20 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "4 petits pains",
+            "300 g de porc effiloché",
+            "100 g de coleslaw",
+            "1 C A S de sauce barbecue"
+        ],
+        "etapes": [
+            "Faire réchauffer le porc effiloché avec la sauce barbecue.",
+            "Garnir les petits pains avec le porc et le coleslaw."
+        ],
+        "conseils": [
+            "Ajoutez des cornichons pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "20 g",
+            "Glucides": "30 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Poke Bowl au Saumon Mariné et Édamame",
+        "cat": "déjeuner",
+        "description": "Un poke bowl frais et équilibré, inspiré de la cuisine hawaïenne.",
+        "image": "/cuisine/img/poke_bowl_saumon_edamame.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "cout_precis": "15€",
+        "portions": "2",
+        "ingredients": [
+            "200 g de riz",
+            "200 g de saumon frais",
+            "100 g d'édamame",
+            "1 avocat",
+            "1 C A S de sauce soja"
+        ],
+        "etapes": [
+            "Cuire le riz selon les instructions. Couper le saumon en dés.",
+            "Mélanger le saumon avec la sauce soja. Laisser mariner 10 min.",
+            "Assembler le riz, le saumon, l'édamame et l'avocat en tranches dans un bol."
+        ],
+        "conseils": [
+            "Ajoutez des graines de sésame pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "25 g",
+            "Glucides": "35 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Cookies aux Pépites de Chocolat et Noix de Pécan",
+        "cat": "goûter",
+        "description": "Des cookies moelleux et gourmands, parfaits pour un goûter réconfortant.",
+        "image": "/cuisine/img/cookies_pepites_chocolat_pecan.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "6€",
+        "portions": "12",
+        "ingredients": [
+            "200 g de farine",
+            "100 g de beurre",
+            "100 g de sucre",
+            "1 œuf",
+            "100 g de pépites de chocolat",
+            "50 g de noix de pécan"
+        ],
+        "etapes": [
+            "Mélanger le beurre ramolli avec le sucre. Ajouter l'œuf et la farine.",
+            "Incorporer les pépites de chocolat et les noix de pécan concassées.",
+            "Former des boules et les disposer sur une plaque. Cuire 15 min à 180°C."
+        ],
+        "conseils": [
+            "Laissez refroidir avant de déguster pour une texture parfaite."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "150 kcal",
+            "Protéines": "2 g",
+            "Glucides": "20 g",
+            "Lipides": "8 g"
+        },
+        "conservation": "1 semaine dans une boîte hermétique"
+    },
+    {
+        "nom": "Gâteau au Yaourt et Citron",
+        "cat": "goûter",
+        "description": "Un gâteau moelleux et parfumé, idéal pour un goûter simple et délicieux.",
+        "image": "/cuisine/img/gateau_yaourt_citron.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "5€",
+        "portions": "8",
+        "ingredients": [
+            "1 pot de yaourt nature",
+            "3 pots de farine",
+            "2 pots de sucre",
+            "1/2 pot d'huile",
+            "2 œufs",
+            "1 citron (zeste et jus)"
+        ],
+        "etapes": [
+            "Mélanger le yaourt, la farine, le sucre, l'huile, les œufs, le zeste et le jus de citron.",
+            "Verser dans un moule et cuire 30 min au four à 180°C."
+        ],
+        "conseils": [
+            "Saupoudrez de sucre glace avant de servir."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "4 g",
+            "Glucides": "30 g",
+            "Lipides": "8 g"
+        },
+        "conservation": "3 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Muffins aux Myrtilles",
+        "cat": "goûter",
+        "description": "Des muffins moelleux et fruités, parfaits pour un goûter sain.",
+        "image": "/cuisine/img/muffins_myrtilles.jpg",
+        "temps_total": "35 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "7€",
+        "portions": "12",
+        "ingredients": [
+            "200 g de farine",
+            "100 g de sucre",
+            "1 œuf",
+            "100 ml de lait",
+            "100 g de myrtilles"
+        ],
+        "etapes": [
+            "Mélanger la farine, le sucre, l'œuf et le lait. Incorporer les myrtilles.",
+            "Verser dans des moules à muffins et cuire 20 min au four à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez des flocons d'avoine pour plus de texture."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "150 kcal",
+            "Protéines": "3 g",
+            "Glucides": "25 g",
+            "Lipides": "5 g"
+        },
+        "conservation": "3 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Churros Maison avec Chocolat Chaud",
+        "cat": "goûter",
+        "description": "Des churros croustillants et gourmands, accompagnés d'un chocolat chaud onctueux.",
+        "image": "/cuisine/img/churros_chocolat_chaud.jpg",
+        "temps_total": "40 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "6",
+        "ingredients": [
+            "250 ml d'eau",
+            "100 g de farine",
+            "1 pincée de sel",
+            "1 œuf",
+            "Huile de friture",
+            "100 g de chocolat noir"
+        ],
+        "etapes": [
+            "Faire chauffer l'eau avec le sel. Ajouter la farine et mélanger jusqu'à obtenir une pâte lisse. Incorporer l'œuf.",
+            "Faire frire les churros dans l'huile chaude jusqu'à ce qu'ils soient dorés.",
+            "Faire fondre le chocolat avec un peu de lait pour la sauce. Servir avec les churros."
+        ],
+        "conseils": [
+            "Saupoudrez les churros de sucre et de cannelle."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "5 g",
+            "Glucides": "40 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Tarte au Caramel Beurre Salé",
+        "cat": "goûter",
+        "description": "Une tarte gourmande et réconfortante, parfaite pour les amateurs de caramel.",
+        "image": "/cuisine/img/tarte_caramel_beurre_sale.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "8",
+        "ingredients": [
+            "1 pâte brisée",
+            "200 g de sucre",
+            "100 g de beurre",
+            "100 ml de crème liquide",
+            "1 pincée de fleur de sel"
+        ],
+        "etapes": [
+            "Faire fondre le sucre jusqu'à obtenir un caramel. Ajouter le beurre et la crème. Mélanger.",
+            "Verser le caramel sur la pâte brisée. Cuire 30 min au four à 180°C.",
+            "Saupoudrer de fleur de sel avant de servir."
+        ],
+        "conseils": [
+            "Servez avec une boule de glace à la vanille."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "3 g",
+            "Glucides": "40 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Donuts Fourrés à la Crème Pâtissière",
+        "cat": "goûter",
+        "description": "Des donuts moelleux et gourmands, fourrés à la crème pâtissière.",
+        "image": "/cuisine/img/donuts_creme_patissiere.jpg",
+        "temps_total": "2h",
+        "temps_preparation": "1h",
+        "temps_cuisson": "30 min",
+        "difficulte": "Difficile",
+        "cout": "Économique",
+        "cout_precis": "12€",
+        "portions": "12",
+        "ingredients": [
+            "300 g de farine",
+            "100 g de sucre",
+            "1 sachet de levure boulangère",
+            "100 ml de lait",
+            "200 g de crème pâtissière"
+        ],
+        "etapes": [
+            "Mélanger la farine, le sucre, la levure et le lait. Pétrir jusqu'à obtenir une pâte homogène.",
+            "Laisser reposer 1h. Former des donuts et les faire frire jusqu'à ce qu'ils soient dorés.",
+            "Remplir de crème pâtissière à l'aide d'une poche à douille."
+        ],
+        "conseils": [
+            "Saupoudrez de sucre glace pour plus de gourmandise."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "4 g",
+            "Glucides": "35 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "2 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Pain d'Épices aux Épices Douces",
+        "cat": "goûter",
+        "description": "Un pain d'épices moelleux et parfumé, parfait pour les fêtes de fin d'année.",
+        "image": "/cuisine/img/pain_epices_epices_douces.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "40 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "10",
+        "ingredients": [
+            "200 g de farine",
+            "100 g de miel",
+            "1 œuf",
+            "1 C A C de cannelle",
+            "1 C A C de gingembre"
+        ],
+        "etapes": [
+            "Mélanger la farine, le miel, l'œuf, la cannelle et le gingembre.",
+            "Verser dans un moule et cuire 40 min au four à 180°C."
+        ],
+        "conseils": [
+            "Servez avec une compote de pommes."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "3 g",
+            "Glucides": "35 g",
+            "Lipides": "5 g"
+        },
+        "conservation": "1 semaine dans une boîte hermétique"
+    },
+    {
+        "nom": "Financiers au Thé Matcha",
+        "cat": "goûter",
+        "description": "Des financiers moelleux et parfumés, parfaits pour un goûter raffiné.",
+        "image": "/cuisine/img/financiers_matcha.jpg",
+        "temps_total": "35 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "7€",
+        "portions": "12",
+        "ingredients": [
+            "100 g de poudre d'amande",
+            "100 g de sucre",
+            "2 blancs d'œufs",
+            "50 g de beurre",
+            "1 C A S de thé matcha"
+        ],
+        "etapes": [
+            "Mélanger la poudre d'amande, le sucre, les blancs d'œufs, le beurre fondu et le thé matcha.",
+            "Verser dans des moules à financiers et cuire 20 min au four à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez des amandes effilées pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "150 kcal",
+            "Protéines": "4 g",
+            "Glucides": "20 g",
+            "Lipides": "8 g"
+        },
+        "conservation": "3 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Biscuits au Beurre et à la Confiture",
+        "cat": "goûter",
+        "description": "Des biscuits sablés et gourmands, parfaits pour accompagner un thé ou un café.",
+        "image": "/cuisine/img/biscuits_beurre_confiture.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "5€",
+        "portions": "20",
+        "ingredients": [
+            "200 g de farine",
+            "100 g de beurre",
+            "100 g de sucre",
+            "1 œuf",
+            "4 C A S de confiture"
+        ],
+        "etapes": [
+            "Mélanger la farine, le beurre ramolli, le sucre et l'œuf. Former des boules.",
+            "Faire un trou au centre de chaque biscuit et remplir de confiture.",
+            "Cuire 15 min au four à 180°C."
+        ],
+        "conseils": [
+            "Utilisez différentes confitures pour varier les saveurs."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "100 kcal",
+            "Protéines": "2 g",
+            "Glucides": "15 g",
+            "Lipides": "5 g"
+        },
+        "conservation": "1 semaine dans une boîte hermétique"
+    },
+    {
+        "nom": "Gaufres au Miel et aux Noix",
+        "cat": "goûter",
+        "description": "Des gaufres croustillantes et gourmandes, parfaites pour un goûter réconfortant.",
+        "image": "/cuisine/img/gaufres_miel_noix.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "6€",
+        "portions": "6",
+        "ingredients": [
+            "200 g de farine",
+            "2 œufs",
+            "100 ml de lait",
+            "50 g de beurre",
+            "2 C A S de miel",
+            "50 g de noix concassées"
+        ],
+        "etapes": [
+            "Mélanger la farine, les œufs, le lait, le beurre fondu et le miel.",
+            "Ajouter les noix concassées. Faire cuire les gaufres dans un gaufrier."
+        ],
+        "conseils": [
+            "Servez avec du sirop d'érable pour plus de gourmandise."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "5 g",
+            "Glucides": "25 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Boeuf Bourguignon",
+        "cat": "dîner",
+        "description": "Un plat traditionnel français, riche en saveurs et réconfortant.",
+        "image": "/cuisine/img/boeuf_bourguignon.jpg",
+        "temps_total": "3h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "2h30",
+        "difficulte": "Difficile",
+        "cout": "Moyen",
+        "cout_precis": "20€",
+        "portions": "6",
+        "ingredients": [
+            "1 kg de bœuf à bourguignon",
+            "200 g de lardons",
+            "1 oignon",
+            "2 carottes",
+            "500 ml de vin rouge",
+            "200 g de champignons"
+        ],
+        "etapes": [
+            "Faire revenir le bœuf et les lardons dans une cocotte. Ajouter l'oignon et les carottes émincés.",
+            "Verser le vin rouge et laisser mijoter 2h à feu doux.",
+            "Ajouter les champignons et cuire 30 min supplémentaires."
+        ],
+        "conseils": [
+            "Servez avec des pommes de terre vapeur ou du riz."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "450 kcal",
+            "Protéines": "35 g",
+            "Glucides": "15 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Lasagnes à la Bolognaise",
+        "cat": "dîner",
+        "description": "Des lasagnes gourmandes et réconfortantes, parfaites pour un dîner en famille.",
+        "image": "/cuisine/img/lasagnes_bolognaise.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "1h",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "cout_precis": "15€",
+        "portions": "6",
+        "ingredients": [
+            "12 feuilles de lasagnes",
+            "500 g de viande hachée",
+            "1 oignon",
+            "500 ml de sauce tomate",
+            "200 g de fromage râpé"
+        ],
+        "etapes": [
+            "Faire revenir la viande hachée avec l'oignon émincé. Ajouter la sauce tomate.",
+            "Monter les lasagnes en alternant couches de pâtes, sauce bolognaise et fromage.",
+            "Cuire 1h au four à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de noix de muscade pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "25 g",
+            "Glucides": "30 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Poulet Rôti aux Herbes de Provence",
+        "cat": "dîner",
+        "description": "Un poulet rôti parfumé et savoureux, parfait pour un dîner dominical.",
+        "image": "/cuisine/img/poulet_roti_herbes_provence.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "1h15",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "cout_precis": "12€",
+        "portions": "4",
+        "ingredients": [
+            "1 poulet entier",
+            "2 C A S d'herbes de Provence",
+            "4 gousses d'ail",
+            "2 C A S d'huile d'olive",
+            "Sel, poivre"
+        ],
+        "etapes": [
+            "Préchauffer le four à 180°C. Badigeonner le poulet d'huile d'olive et le frotter avec les herbes de Provence, l'ail, le sel et le poivre.",
+            "Enfourner et cuire 1h15 en arrosant régulièrement avec le jus de cuisson."
+        ],
+        "conseils": [
+            "Servez avec des légumes rôtis pour un repas complet."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "40 g",
+            "Glucides": "5 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Gratin de Courgettes et Tomates",
+        "cat": "dîner",
+        "description": "Un gratin léger et savoureux, parfait pour un dîner estival.",
+        "image": "/cuisine/img/gratin_courgettes_tomates.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "40 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "3 courgettes",
+            "4 tomates",
+            "100 g de fromage râpé",
+            "2 œufs",
+            "100 ml de crème fraîche"
+        ],
+        "etapes": [
+            "Couper les courgettes et les tomates en rondelles. Les disposer dans un plat à gratin.",
+            "Battre les œufs avec la crème fraîche. Verser sur les légumes. Saupoudrer de fromage.",
+            "Cuire 40 min au four à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de thym pour plus de parfum."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "10 g",
+            "Glucides": "15 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Sushi Burger (Version Burger avec du Riz et du Poisson)",
+        "cat": "dîner",
+        "description": "Une version originale du burger, inspirée de la cuisine japonaise.",
+        "image": "/cuisine/img/sushi_burger.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "cout_precis": "15€",
+        "portions": "4",
+        "ingredients": [
+            "300 g de riz à sushi",
+            "200 g de saumon frais",
+            "1 avocat",
+            "1 C A S de sauce soja",
+            "1 C A S de mayonnaise japonaise"
+        ],
+        "etapes": [
+            "Cuire le riz à sushi selon les instructions. Former des galettes avec le riz.",
+            "Couper le saumon et l'avocat en tranches. Monter les burgers en alternant riz, saumon, avocat et sauce.",
+            "Servir avec de la sauce soja."
+        ],
+        "conseils": [
+            "Ajoutez des algues nori pour plus d'authenticité."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "20 g",
+            "Glucides": "45 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Curry Rouge Thaï au Porc",
+        "cat": "dîner",
+        "description": "Un curry épicé et parfumé, inspiré de la cuisine thaïlandaise.",
+        "image": "/cuisine/img/curry_rouge_thai_porc.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "cout_precis": "18€",
+        "portions": "4",
+        "ingredients": [
+            "400 g de porc",
+            "2 C A S de pâte de curry rouge",
+            "400 ml de lait de coco",
+            "1 poivron rouge",
+            "1 aubergine"
+        ],
+        "etapes": [
+            "Faire revenir le porc avec la pâte de curry rouge. Ajouter le lait de coco.",
+            "Couper les légumes en morceaux et les ajouter au curry. Laisser mijoter 30 min."
+        ],
+        "conseils": [
+            "Servez avec du riz thaï pour un repas complet."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "450 kcal",
+            "Protéines": "25 g",
+            "Glucides": "20 g",
+            "Lipides": "25 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Tartiflette au Reblochon et aux Lardons Fumés",
+        "cat": "dîner",
+        "description": "Un plat réconfortant et gourmand, parfait pour les soirées d'hiver.",
+        "image": "/cuisine/img/tartiflette_reblochon_lardons.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "40 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "cout_precis": "15€",
+        "portions": "6",
+        "ingredients": [
+            "1 kg de pommes de terre",
+            "200 g de lardons fumés",
+            "1 reblochon",
+            "1 oignon",
+            "200 ml de crème fraîche"
+        ],
+        "etapes": [
+            "Cuire les pommes de terre à l'eau. Les couper en rondelles.",
+            "Faire revenir les lardons avec l'oignon émincé. Mélanger avec les pommes de terre et la crème fraîche.",
+            "Disposer dans un plat et recouvrir de reblochon. Cuire 40 min au four à 180°C."
+        ],
+        "conseils": [
+            "Servez avec une salade verte pour équilibrer."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "500 kcal",
+            "Protéines": "20 g",
+            "Glucides": "40 g",
+            "Lipides": "25 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Soupe de Pois Cassés au Lard Fumé",
+        "cat": "dîner",
+        "description": "Une soupe réconfortante et savoureuse, parfaite pour les soirées froides.",
+        "image": "/cuisine/img/soupe_pois_casses_lard.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "1h15",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "6",
+        "ingredients": [
+            "300 g de pois cassés",
+            "200 g de lard fumé",
+            "1 oignon",
+            "1 carotte",
+            "1 L de bouillon de légumes"
+        ],
+        "etapes": [
+            "Faire revenir le lard fumé avec l'oignon et la carotte émincés.",
+            "Ajouter les pois cassés et le bouillon. Laisser mijoter 1h15."
+        ],
+        "conseils": [
+            "Servez avec des croûtons pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "15 g",
+            "Glucides": "35 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Couscous Végétarien aux Légumes Rôtis",
+        "cat": "dîner",
+        "description": "Un couscous léger et savoureux, parfait pour un dîner végétarien.",
+        "image": "/cuisine/img/couscous_vegetarien_legumes_rotis.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de semoule",
+            "1 courgette",
+            "1 poivron",
+            "1 aubergine",
+            "2 C A S d'huile d'olive"
+        ],
+        "etapes": [
+            "Couper les légumes en morceaux et les faire rôtir au four à 200°C pendant 30 min.",
+            "Préparer la semoule selon les instructions. Servir avec les légumes rôtis."
+        ],
+        "conseils": [
+            "Ajoutez des raisins secs pour une touche sucrée."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "8 g",
+            "Glucides": "40 g",
+            "Lipides": "8 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Pizza Margherita Faite Maison",
+        "cat": "dîner",
+        "description": "Une pizza classique et savoureuse, facile à préparer à la maison.",
+        "image": "/cuisine/img/pizza_margherita_maison.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "1 pâte à pizza",
+            "200 g de sauce tomate",
+            "150 g de mozzarella",
+            "Feuilles de basilic",
+            "Huile d'olive"
+        ],
+        "etapes": [
+            "Étaler la pâte à pizza et la recouvrir de sauce tomate.",
+            "Ajouter la mozzarella et des feuilles de basilic. Cuire 30 min au four à 200°C."
+        ],
+        "conseils": [
+            "Ajoutez une pincée d'origan pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "12 g",
+            "Glucides": "35 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Bao Buns au Porc Caramélisé",
+        "cat": "dîner",
+        "description": "Des brioches moelleuses garnies de porc caramélisé, inspirées de la cuisine asiatique.",
+        "image": "/cuisine/img/bao_buns_porc_caramelise.jpg",
+        "temps_total": "2h",
+        "temps_preparation": "1h",
+        "temps_cuisson": "1h",
+        "difficulte": "Difficile",
+        "cout": "Moyen",
+        "cout_precis": "18€",
+        "portions": "6",
+        "ingredients": [
+            "300 g de farine",
+            "1 sachet de levure boulangère",
+            "150 ml de lait",
+            "300 g de porc",
+            "2 C A S de sauce hoisin"
+        ],
+        "etapes": [
+            "Préparer la pâte à bao en mélangeant la farine, la levure et le lait. Laisser reposer 1h.",
+            "Faire caraméliser le porc avec la sauce hoisin. Former des bao buns et les garnir de porc.",
+            "Cuire à la vapeur pendant 15 min."
+        ],
+        "conseils": [
+            "Ajoutez des légumes marinés pour plus de fraîcheur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "20 g",
+            "Glucides": "40 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Feijoada Végétarienne (Haricots Noirs et Légumes)",
+        "cat": "dîner",
+        "description": "Un plat brésilien revisité en version végétarienne, riche en saveurs.",
+        "image": "/cuisine/img/feijoada_vegetarienne.jpg",
+        "temps_total": "2h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "1h30",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "6",
+        "ingredients": [
+            "400 g de haricots noirs",
+            "1 oignon",
+            "1 poivron",
+            "2 tomates",
+            "1 C A C de paprika"
+        ],
+        "etapes": [
+            "Faire cuire les haricots noirs selon les instructions. Faire revenir l'oignon, le poivron et les tomates.",
+            "Ajouter les haricots et le paprika. Laisser mijoter 1h30."
+        ],
+        "conseils": [
+            "Servez avec du riz et des tranches d'orange."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "15 g",
+            "Glucides": "40 g",
+            "Lipides": "8 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Tagine de Poulet aux Olives et Citron Confit",
+        "cat": "dîner",
+        "description": "Un plat marocain parfumé et savoureux, parfait pour un dîner exotique.",
+        "image": "/cuisine/img/tagine_poulet_olives_citron.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "1h10",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "cout_precis": "15€",
+        "portions": "4",
+        "ingredients": [
+            "8 morceaux de poulet",
+            "2 oignons",
+            "2 gousses d'ail",
+            "150 g d'olives vertes",
+            "2 citrons confits"
+        ],
+        "etapes": [
+            "Faire revenir le poulet avec les oignons et l'ail. Ajouter les olives et les citrons confits.",
+            "Laisser mijoter 1h à feu doux."
+        ],
+        "conseils": [
+            "Servez avec de la semoule pour une expérience authentique."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "35 g",
+            "Glucides": "10 g",
+            "Lipides": "25 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Ramen au Curry et au Poulet",
+        "cat": "dîner",
+        "description": "Un ramen épicé et réconfortant, inspiré de la cuisine japonaise.",
+        "image": "/cuisine/img/ramen_curry_poulet.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "cout_precis": "12€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de nouilles ramen",
+            "300 g de poulet",
+            "2 C A S de pâte de curry",
+            "1 L de bouillon de poulet",
+            "1 œuf mollet"
+        ],
+        "etapes": [
+            "Faire cuire les nouilles ramen selon les instructions. Faire revenir le poulet avec la pâte de curry.",
+            "Ajouter le bouillon et laisser mijoter 30 min. Servir avec un œuf mollet."
+        ],
+        "conseils": [
+            "Ajoutez des légumes (carottes, champignons) pour plus de fraîcheur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "450 kcal",
+            "Protéines": "25 g",
+            "Glucides": "40 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Empanadas au Poulet et aux Poivrons",
+        "cat": "dîner",
+        "description": "Des empanadas croustillantes et savoureuses, inspirées de la cuisine argentine.",
+        "image": "/cuisine/img/empanadas_poulet_poivrons.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "6",
+        "ingredients": [
+            "300 g de pâte à empanadas",
+            "200 g de poulet",
+            "1 poivron",
+            "1 oignon",
+            "1 C A C de paprika"
+        ],
+        "etapes": [
+            "Faire revenir le poulet avec l'oignon et le poivron. Ajouter le paprika.",
+            "Garnir les pâtes à empanadas avec la préparation. Faire cuire au four à 180°C pendant 30 min."
+        ],
+        "conseils": [
+            "Servez avec une sauce au yaourt pour plus de gourmandise."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "15 g",
+            "Glucides": "25 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Dahl de Lentilles Corail et Épinards",
+        "cat": "dîner",
+        "description": "Un plat indien végétarien, riche en saveurs et en nutriments.",
+        "image": "/cuisine/img/dahl_lentilles_corail_epinards.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de lentilles corail",
+            "100 g d'épinards",
+            "1 oignon",
+            "2 gousses d'ail",
+            "1 C A C de curcuma"
+        ],
+        "etapes": [
+            "Faire revenir l'oignon et l'ail dans un peu d'huile. Ajouter les lentilles et le curcuma.",
+            "Couvrir d'eau et laisser mijoter 20 min. Ajouter les épinards et cuire 10 min supplémentaires."
+        ],
+        "conseils": [
+            "Servez avec du riz basmati pour un repas complet."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "12 g",
+            "Glucides": "35 g",
+            "Lipides": "6 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Fajitas au Bœuf et aux Oignons Caramélisés",
+        "cat": "dîner",
+        "description": "Des fajitas savoureuses et colorées, inspirées de la cuisine mexicaine.",
+        "image": "/cuisine/img/fajitas_boeuf_oignons.jpg",
+        "temps_total": "40 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "cout_precis": "12€",
+        "portions": "4",
+        "ingredients": [
+            "300 g de bœuf",
+            "2 oignons",
+            "1 poivron",
+            "4 tortillas",
+            "1 C A S d'huile d'olive"
+        ],
+        "etapes": [
+            "Faire revenir le bœuf avec les oignons et le poivron. Caraméliser légèrement.",
+            "Garnir les tortillas avec la préparation. Servir avec de la crème fraîche et de la coriandre."
+        ],
+        "conseils": [
+            "Ajoutez du guacamole pour plus de gourmandise."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "25 g",
+            "Glucides": "30 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Bibimbap au Tofu et aux Légumes Marinés",
+        "cat": "dîner",
+        "description": "Un plat coréen équilibré et savoureux, parfait pour un dîner healthy.",
+        "image": "/cuisine/img/bibimbap_tofu_legumes.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de riz",
+            "200 g de tofu",
+            "1 carotte",
+            "1 courgette",
+            "2 C A S de sauce soja"
+        ],
+        "etapes": [
+            "Cuire le riz selon les instructions. Faire mariner le tofu dans la sauce soja.",
+            "Couper les légumes en julienne et les faire sauter. Assembler le bibimbap avec le riz, le tofu et les légumes."
+        ],
+        "conseils": [
+            "Ajoutez un œuf au plat pour plus de gourmandise."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "15 g",
+            "Glucides": "40 g",
+            "Lipides": "8 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Pierogi aux Champignons et à la Crème Fraîche",
+        "cat": "dîner",
+        "description": "Des raviolis polonais garnis de champignons et de crème fraîche, parfaits pour un dîner réconfortant.",
+        "image": "/cuisine/img/pierogi_champignons_creme.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "1h",
+        "temps_cuisson": "30 min",
+        "difficulte": "Difficile",
+        "cout": "Économique",
+        "cout_precis": "12€",
+        "portions": "6",
+        "ingredients": [
+            "300 g de farine",
+            "150 ml d'eau",
+            "200 g de champignons",
+            "100 ml de crème fraîche",
+            "1 oignon"
+        ],
+        "etapes": [
+            "Préparer la pâte à pierogi en mélangeant la farine et l'eau. Laisser reposer 30 min.",
+            "Faire revenir les champignons avec l'oignon. Garnir les pierogi et les faire cuire à l'eau bouillante.",
+            "Servir avec de la crème fraîche."
+        ],
+        "conseils": [
+            "Ajoutez des herbes fraîches pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "8 g",
+            "Glucides": "35 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Baklava aux Noix et au Miel",
+        "cat": "dessert",
+        "description": "Un dessert méditerranéen sucré et croustillant, parfait pour terminer un repas.",
+        "image": "/cuisine/img/baklava_noix_miel.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "1h",
+        "temps_cuisson": "30 min",
+        "difficulte": "Difficile",
+        "cout": "Économique",
+        "cout_precis": "15€",
+        "portions": "12",
+        "ingredients": [
+            "200 g de noix",
+            "10 feuilles de filo",
+            "100 g de beurre",
+            "200 g de miel"
+        ],
+        "etapes": [
+            "Hacher les noix. Superposer les feuilles de filo en les badigeonnant de beurre fondu.",
+            "Ajouter une couche de noix entre chaque feuille. Cuire 30 min au four à 180°C.",
+            "Arroser de miel chaud avant de servir."
+        ],
+        "conseils": [
+            "Laissez refroidir avant de couper en carrés."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "6 g",
+            "Glucides": "35 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "1 semaine dans une boîte hermétique"
+    },
+    {
+        "nom": "Galettes de Pois Chiches et Épinards",
+        "cat": "plat végétarien",
+        "description": "Des galettes protéinées et savoureuses, parfaites pour un repas végétarien.",
+        "image": "/cuisine/img/galettes_pois_chiches_epinards.jpg",
+        "temps_total": "40 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "7€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de pois chiches cuits",
+            "100 g d'épinards",
+            "1 œuf",
+            "2 C A S de farine",
+            "1 C A C de cumin"
+        ],
+        "etapes": [
+            "Écraser les pois chiches et mélanger avec les épinards hachés, l'œuf, la farine et le cumin.",
+            "Former des galettes et les faire cuire à la poêle jusqu'à ce qu'elles soient dorées."
+        ],
+        "conseils": [
+            "Servez avec une sauce au yaourt pour plus de gourmandise."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "10 g",
+            "Glucides": "25 g",
+            "Lipides": "6 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Curry de Lait de Coco et Légumes Rôtis",
+        "cat": "plat végétarien",
+        "description": "Un curry crémeux et parfumé, parfait pour un dîner végétarien.",
+        "image": "/cuisine/img/curry_lait_coco_legumes_rotis.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "4",
+        "ingredients": [
+            "1 patate douce",
+            "1 courgette",
+            "1 poivron",
+            "400 ml de lait de coco",
+            "2 C A S de pâte de curry"
+        ],
+        "etapes": [
+            "Couper les légumes en morceaux et les faire rôtir au four à 200°C pendant 20 min.",
+            "Faire chauffer le lait de coco avec la pâte de curry. Ajouter les légumes rôtis et laisser mijoter 10 min."
+        ],
+        "conseils": [
+            "Servez avec du riz basmati pour un repas complet."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "6 g",
+            "Glucides": "35 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Buddha Bowl au Quinoa et aux Légumes Grillés",
+        "cat": "plat végétarien",
+        "description": "Un bowl équilibré et coloré, parfait pour un repas healthy.",
+        "image": "/cuisine/img/buddha_bowl_quinoa_legumes.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "2",
+        "ingredients": [
+            "100 g de quinoa",
+            "1 courgette",
+            "1 poivron",
+            "1 avocat",
+            "2 C A S d'huile d'olive"
+        ],
+        "etapes": [
+            "Cuire le quinoa selon les instructions. Couper les légumes en morceaux et les faire griller à la poêle.",
+            "Assembler le bowl avec le quinoa, les légumes grillés et l'avocat en tranches."
+        ],
+        "conseils": [
+            "Ajoutez des graines de chia pour plus de nutriments."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "10 g",
+            "Glucides": "40 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Tofu Mariné au Miso et Sésame",
+        "cat": "plat végétarien",
+        "description": "Un tofu savoureux et parfumé, parfait pour un repas végétarien.",
+        "image": "/cuisine/img/tofu_marine_miso_sesame.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "300 g de tofu",
+            "2 C A S de pâte miso",
+            "1 C A S de graines de sésame",
+            "2 C A S de sauce soja",
+            "1 C A S d'huile de sésame"
+        ],
+        "etapes": [
+            "Couper le tofu en dés et le faire mariner dans la pâte miso, la sauce soja et l'huile de sésame pendant 30 min.",
+            "Faire cuire le tofu à la poêle jusqu'à ce qu'il soit doré. Parsemer de graines de sésame."
+        ],
+        "conseils": [
+            "Servez avec du riz et des légumes sautés."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "15 g",
+            "Glucides": "10 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Rouleaux de Printemps aux Légumes et Vermicelles",
+        "cat": "plat végétarien",
+        "description": "Des rouleaux frais et légers, parfaits pour un repas estival.",
+        "image": "/cuisine/img/rouleaux_printemps_legumes.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "6€",
+        "portions": "4",
+        "ingredients": [
+            "8 feuilles de riz",
+            "100 g de vermicelles de riz",
+            "1 carotte",
+            "1 concombre",
+            "Feuilles de menthe"
+        ],
+        "etapes": [
+            "Faire tremper les feuilles de riz dans l'eau tiède. Couper les légumes en julienne.",
+            "Garnir les feuilles de riz avec les vermicelles, les légumes et la menthe. Rouler et servir."
+        ],
+        "conseils": [
+            "Servez avec une sauce à base de sauce soja et de piment."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "150 kcal",
+            "Protéines": "4 g",
+            "Glucides": "30 g",
+            "Lipides": "2 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Chili Sin Carne aux Haricots Rouges et Maïs",
+        "cat": "plat végétarien",
+        "description": "Un chili végétarien riche en saveurs, parfait pour un dîner réconfortant.",
+        "image": "/cuisine/img/chili_sin_carne_haricots_mais.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "45 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "400 g de haricots rouges",
+            "200 g de maïs",
+            "1 oignon",
+            "1 poivron",
+            "2 C A S de poudre de chili"
+        ],
+        "etapes": [
+            "Faire revenir l'oignon et le poivron dans un peu d'huile. Ajouter les haricots rouges, le maïs et la poudre de chili.",
+            "Laisser mijoter 45 min à feu doux."
+        ],
+        "conseils": [
+            "Servez avec du riz ou des tortillas."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "12 g",
+            "Glucides": "40 g",
+            "Lipides": "6 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Pizza Végétarienne aux Artichauts et Olives Noires",
+        "cat": "plat végétarien",
+        "description": "Une pizza gourmande et végétarienne, parfaite pour un dîner convivial.",
+        "image": "/cuisine/img/pizza_vegetarienne_artichauts_olives.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "4",
+        "ingredients": [
+            "1 pâte à pizza",
+            "200 g de sauce tomate",
+            "100 g d'artichauts",
+            "50 g d'olives noires",
+            "100 g de fromage râpé"
+        ],
+        "etapes": [
+            "Étaler la pâte à pizza et la recouvrir de sauce tomate.",
+            "Ajouter les artichauts, les olives noires et le fromage. Cuire 30 min au four à 200°C."
+        ],
+        "conseils": [
+            "Ajoutez une pincée d'origan pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "12 g",
+            "Glucides": "35 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Soupe de Lentilles Corail et Lait de Coco",
+        "cat": "plat végétarien",
+        "description": "Une soupe réconfortante et parfumée, parfaite pour un dîner léger.",
+        "image": "/cuisine/img/soupe_lentilles_corail_lait_coco.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "7€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de lentilles corail",
+            "400 ml de lait de coco",
+            "1 oignon",
+            "1 C A C de curcuma",
+            "1 C A C de gingembre"
+        ],
+        "etapes": [
+            "Faire revenir l'oignon dans un peu d'huile. Ajouter les lentilles, le lait de coco, le curcuma et le gingembre.",
+            "Laisser mijoter 30 min à feu doux."
+        ],
+        "conseils": [
+            "Servez avec des croûtons pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "10 g",
+            "Glucides": "30 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Gratin de Chou-Fleur et Brocoli",
+        "cat": "plat végétarien",
+        "description": "Un gratin léger et savoureux, parfait pour un dîner végétarien.",
+        "image": "/cuisine/img/gratin_chou_fleur_brocoli.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "40 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "1 chou-fleur",
+            "1 brocoli",
+            "100 g de fromage râpé",
+            "200 ml de crème fraîche",
+            "1 C A C de noix de muscade"
+        ],
+        "etapes": [
+            "Couper le chou-fleur et le brocoli en fleurettes. Les faire cuire à l'eau bouillante pendant 10 min.",
+            "Mélanger avec la crème fraîche et la noix de muscade. Verser dans un plat à gratin et saupoudrer de fromage.",
+            "Cuire 40 min au four à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez des graines de sésame pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "10 g",
+            "Glucides": "20 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Tartelettes aux Légumes et à la Feta",
+        "cat": "plat végétarien",
+        "description": "Des tartelettes légères et savoureuses, parfaites pour un apéritif ou un dîner léger.",
+        "image": "/cuisine/img/tartelettes_legumes_feta.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "6",
+        "ingredients": [
+            "6 fonds de tartelette",
+            "1 courgette",
+            "1 poivron",
+            "100 g de feta",
+            "2 œufs"
+        ],
+        "etapes": [
+            "Couper les légumes en dés. Les faire revenir à la poêle.",
+            "Battre les œufs avec la feta émiettée. Verser sur les fonds de tartelette avec les légumes.",
+            "Cuire 30 min au four à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez des herbes fraîches pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "8 g",
+            "Glucides": "20 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Fondue au Chocolat Noir et Fruits Frais",
+        "cat": "dessert",
+        "description": "Une fondue gourmande et raffinée, parfaite pour un dessert convivial.",
+        "image": "/cuisine/img/fondue_chocolat_fruits.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "cout_precis": "15€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de chocolat noir",
+            "100 ml de crème liquide",
+            "1 C A S de beurre",
+            "Fruits frais (fraises, bananes, etc.)"
+        ],
+        "etapes": [
+            "Faire fondre le chocolat avec la crème et le beurre au bain-marie.",
+            "Servir avec des fruits frais coupés en morceaux."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de sel pour rehausser le goût du chocolat."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "4 g",
+            "Glucides": "35 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Cheesecake au Speculoos et Caramel",
+        "cat": "dessert",
+        "description": "Un cheesecake gourmand et original, parfait pour les amateurs de speculoos.",
+        "image": "/cuisine/img/cheesecake_speculoos_caramel.jpg",
+        "temps_total": "4h (dont 3h de froid)",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "cout_precis": "20€",
+        "portions": "8",
+        "ingredients": [
+            "200 g de speculoos",
+            "100 g de beurre",
+            "500 g de fromage frais",
+            "100 g de caramel"
+        ],
+        "etapes": [
+            "Écraser les speculoos et mélanger avec le beurre fondu. Tasser au fond d'un moule.",
+            "Fouetter le fromage frais avec le sucre. Verser sur la base de speculoos.",
+            "Cuire 15 min au four à 180°C. Laisser refroidir puis ajouter le caramel.",
+            "Réfrigérer 3h avant de servir."
+        ],
+        "conseils": [
+            "Ajoutez des noix concassées pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "6 g",
+            "Glucides": "40 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Tarte aux Pommes et à la Cannelle",
+        "cat": "dessert",
+        "description": "Une tarte classique et réconfortante, parfaite pour un dessert familial.",
+        "image": "/cuisine/img/tarte_pommes_cannelle.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "6",
+        "ingredients": [
+            "1 pâte brisée",
+            "4 pommes",
+            "2 C A S de sucre",
+            "1 C A C de cannelle",
+            "1 C A S de beurre"
+        ],
+        "etapes": [
+            "Étaler la pâte brisée dans un moule. Couper les pommes en tranches et les disposer sur la pâte.",
+            "Saupoudrer de sucre et de cannelle. Ajouter des noisettes de beurre.",
+            "Cuire 30 min au four à 180°C."
+        ],
+        "conseils": [
+            "Servez avec une boule de glace à la vanille."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "3 g",
+            "Glucides": "40 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Mousse au Chocolat et à la Fleur de Sel",
+        "cat": "dessert",
+        "description": "Une mousse légère et intense, parfaite pour les amateurs de chocolat.",
+        "image": "/cuisine/img/mousse_chocolat_fleur_sel.jpg",
+        "temps_total": "2h (dont 1h30 de froid)",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de chocolat noir",
+            "4 œufs",
+            "1 pincée de fleur de sel"
+        ],
+        "etapes": [
+            "Faire fondre le chocolat au bain-marie. Séparer les blancs des jaunes.",
+            "Monter les blancs en neige. Incorporer délicatement au chocolat fondu.",
+            "Répartir dans des verrines et réfrigérer 1h30."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de sel pour rehausser le goût du chocolat."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "6 g",
+            "Glucides": "25 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Panna Cotta au Café et au Caramel",
+        "cat": "dessert",
+        "description": "Une panna cotta onctueuse et parfumée, parfaite pour un dessert raffiné.",
+        "image": "/cuisine/img/panna_cotta_cafe_caramel.jpg",
+        "temps_total": "4h (dont 3h de froid)",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "10 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "cout_precis": "12€",
+        "portions": "4",
+        "ingredients": [
+            "500 ml de crème liquide",
+            "100 g de sucre",
+            "2 feuilles de gélatine",
+            "1 C A S de café soluble",
+            "100 g de caramel"
+        ],
+        "etapes": [
+            "Faire chauffer la crème avec le sucre et le café. Ajouter la gélatine ramollie.",
+            "Verser dans des verrines et réfrigérer 3h.",
+            "Servir avec un filet de caramel."
+        ],
+        "conseils": [
+            "Ajoutez des grains de café pour la décoration."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "4 g",
+            "Glucides": "30 g",
+            "Lipides": "25 g"
+        },
+        "conservation": "2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Clafoutis aux Abricots et Amandes",
+        "cat": "dessert",
+        "description": "Un clafoutis moelleux et fruité, parfait pour un dessert estival.",
+        "image": "/cuisine/img/clafoutis_abricots_amandes.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "45 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "6",
+        "ingredients": [
+            "6 abricots",
+            "100 g de farine",
+            "100 g de sucre",
+            "3 œufs",
+            "50 g d'amandes effilées"
+        ],
+        "etapes": [
+            "Couper les abricots en morceaux. Mélanger la farine, le sucre et les œufs.",
+            "Verser la pâte dans un plat. Ajouter les abricots et les amandes.",
+            "Cuire 45 min au four à 180°C."
+        ],
+        "conseils": [
+            "Servez tiède avec une boule de glace à la vanille."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "6 g",
+            "Glucides": "35 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Macarons au Chocolat et à la Framboise",
+        "cat": "dessert",
+        "description": "Des macarons délicats et gourmands, parfaits pour un goûter raffiné.",
+        "image": "/cuisine/img/macarons_chocolat_framboise.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "45 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Difficile",
+        "cout": "Élevé",
+        "cout_precis": "25€",
+        "portions": "12",
+        "ingredients": [
+            "150 g de poudre d'amande",
+            "150 g de sucre glace",
+            "3 blancs d'œufs",
+            "50 g de sucre",
+            "100 g de chocolat noir",
+            "100 g de confiture de framboise"
+        ],
+        "etapes": [
+            "Mélanger la poudre d'amande et le sucre glace. Monter les blancs en neige avec le sucre.",
+            "Incorporer délicatement les deux préparations. Dresser les macarons sur une plaque.",
+            "Laisser croûter 30 min, puis cuire 15 min à 150°C. Garnir de confiture de framboise."
+        ],
+        "conseils": [
+            "Utilisez une poche à douille pour des macarons bien ronds."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "120 kcal",
+            "Protéines": "3 g",
+            "Glucides": "18 g",
+            "Lipides": "5 g"
+        },
+        "conservation": "3 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Éclairs au Caramel Beurre Salé",
+        "cat": "dessert",
+        "description": "Des éclairs moelleux et gourmands, garnis de caramel beurre salé.",
+        "image": "/cuisine/img/eclairs_caramel_beurre_sale.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "45 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Difficile",
+        "cout": "Moyen",
+        "cout_precis": "18€",
+        "portions": "8",
+        "ingredients": [
+            "125 g de farine",
+            "100 g de beurre",
+            "250 ml d'eau",
+            "4 œufs",
+            "500 ml de crème pâtissière au caramel beurre salé"
+        ],
+        "etapes": [
+            "Préparer la pâte à choux en mélangeant eau, beurre et farine. Ajouter les œufs un à un.",
+            "Dresser les éclairs sur une plaque. Cuire 30 min à 180°C.",
+            "Garnir de crème pâtissière au caramel beurre salé et napper de glaçage."
+        ],
+        "conseils": [
+            "Utilisez une poche à douille pour garnir les éclairs facilement."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "280 kcal",
+            "Protéines": "6 g",
+            "Glucides": "30 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Fondant au Chocolat et à la Menthe",
+        "cat": "dessert",
+        "description": "Un fondant intense et rafraîchissant, parfait pour les amateurs de chocolat.",
+        "image": "/cuisine/img/fondant_chocolat_menthe.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "cout_precis": "12€",
+        "portions": "6",
+        "ingredients": [
+            "200 g de chocolat noir",
+            "150 g de beurre",
+            "150 g de sucre",
+            "4 œufs",
+            "50 g de farine",
+            "1 C A S de menthe fraîche"
+        ],
+        "etapes": [
+            "Faire fondre le chocolat et le beurre au bain-marie.",
+            "Fouetter les œufs avec le sucre. Incorporer le chocolat fondu et la farine. Ajouter la menthe hachée.",
+            "Verser dans un moule et cuire 30 min à 180°C."
+        ],
+        "conseils": [
+            "Servez tiède avec une boule de glace à la vanille."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "6 g",
+            "Glucides": "40 g",
+            "Lipides": "25 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Crêpes Suzette à l'Orange et au Grand Marnier",
+        "cat": "dessert",
+        "description": "Des crêpes flambées et parfumées, parfaites pour un dessert élégant.",
+        "image": "/cuisine/img/crepes_suzette_orange_grand_marnier.jpg",
+        "temps_total": "40 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "cout_precis": "15€",
+        "portions": "4",
+        "ingredients": [
+            "250 g de farine",
+            "500 ml de lait",
+            "3 œufs",
+            "50 g de beurre",
+            "100 ml de Grand Marnier",
+            "2 oranges"
+        ],
+        "etapes": [
+            "Préparer la pâte à crêpes en mélangeant farine, œufs et lait. Laisser reposer 30 min.",
+            "Faire cuire les crêpes à la poêle. Réserver au chaud.",
+            "Faire fondre le beurre avec le sucre et le jus d'orange. Flamber avec le Grand Marnier et servir."
+        ],
+        "conseils": [
+            "Servez avec une boule de glace à la vanille pour plus de gourmandise."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "8 g",
+            "Glucides": "35 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Burger de Poisson au Wasabi",
+        "cat": "dîner",
+        "description": "Un burger original et savoureux, avec une touche de wasabi pour plus de piquant.",
+        "image": "/cuisine/img/burger_poisson_wasabi.jpg",
+        "temps_total": "40 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "cout_precis": "15€",
+        "portions": "4",
+        "ingredients": [
+            "4 pains à burger",
+            "400 g de filet de poisson blanc",
+            "1 C A S de wasabi",
+            "1 avocat",
+            "1 C A S de mayonnaise"
+        ],
+        "etapes": [
+            "Faire cuire le poisson à la poêle. Mélanger le wasabi avec la mayonnaise.",
+            "Garnir les pains à burger avec le poisson, l'avocat en tranches et la mayonnaise au wasabi."
+        ],
+        "conseils": [
+            "Ajoutez des pousses de soja pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "25 g",
+            "Glucides": "30 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Tartare de Thon et Avocat",
+        "cat": "dîner",
+        "description": "Un tartare frais et léger, parfait pour un dîner estival.",
+        "image": "/cuisine/img/tartare_thon_avocat.jpg",
+        "temps_total": "20 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "cout_precis": "18€",
+        "portions": "4",
+        "ingredients": [
+            "300 g de thon frais",
+            "1 avocat",
+            "1 citron vert",
+            "1 échalote",
+            "Coriandre fraîche"
+        ],
+        "etapes": [
+            "Couper le thon et l'avocat en dés. Hacher finement l'échalote et la coriandre.",
+            "Mélanger le thon, l'avocat, l'échalote, la coriandre et le jus de citron vert.",
+            "Servir frais avec des toasts ou des blinis."
+        ],
+        "conseils": [
+            "Utilisez du thon très frais pour un résultat optimal."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "20 g",
+            "Glucides": "5 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Ceviche de Dorade et Mangue",
+        "cat": "dîner",
+        "description": "Un ceviche frais et acidulé, parfait pour un apéritif ou un dîner léger.",
+        "image": "/cuisine/img/ceviche_dorade_mangue.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Moyen",
+        "cout_precis": "20€",
+        "portions": "4",
+        "ingredients": [
+            "300 g de dorade fraîche",
+            "1 mangue",
+            "1 citron vert",
+            "1 oignon rouge",
+            "Coriandre fraîche"
+        ],
+        "etapes": [
+            "Couper la dorade en dés. Laisser mariner dans le jus de citron vert pendant 15 min.",
+            "Couper la mangue et l'oignon en dés. Mélanger avec la dorade et la coriandre.",
+            "Servir frais."
+        ],
+        "conseils": [
+            "Ajoutez un peu de piment pour plus de piquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "18 g",
+            "Glucides": "15 g",
+            "Lipides": "8 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Feuilletés au Fromage Bleu et aux Poires",
+        "cat": "apéritif",
+        "description": "Des feuilletés gourmands et originaux, parfaits pour un apéritif chic.",
+        "image": "/cuisine/img/feuilletes_fromage_bleu_poires.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "6",
+        "ingredients": [
+            "1 pâte feuilletée",
+            "100 g de fromage bleu",
+            "2 poires",
+            "1 œuf"
+        ],
+        "etapes": [
+            "Étaler la pâte feuilletée et la couper en rectangles.",
+            "Déposer des morceaux de fromage bleu et de poire sur chaque rectangle. Replier et sceller les bords.",
+            "Badigeonner avec de l'œuf battu. Cuire 15 min au four à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de poivre pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "8 g",
+            "Glucides": "20 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Chips de Kale et Parmesan",
+        "cat": "apéritif",
+        "description": "Des chips légères et croustillantes, parfaites pour un apéritif healthy.",
+        "image": "/cuisine/img/chips_kale_parmesan.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "6€",
+        "portions": "4",
+        "ingredients": [
+            "1 bouquet de kale",
+            "2 C A S d'huile d'olive",
+            "50 g de parmesan râpé",
+            "Sel, poivre"
+        ],
+        "etapes": [
+            "Laver et sécher le kale. Retirer les tiges et déchirer les feuilles en morceaux.",
+            "Mélanger avec l'huile d'olive, le parmesan, le sel et le poivre.",
+            "Étaler sur une plaque et cuire 15 min au four à 180°C."
+        ],
+        "conseils": [
+            "Servez avec une sauce au yaourt pour plus de gourmandise."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "150 kcal",
+            "Protéines": "6 g",
+            "Glucides": "10 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "2 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Caviar de Courgettes et Feta",
+        "cat": "apéritif",
+        "description": "Une tartinade légère et savoureuse, parfaite pour un apéritif estival.",
+        "image": "/cuisine/img/caviar_courgettes_feta.jpg",
+        "temps_total": "40 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "7€",
+        "portions": "4",
+        "ingredients": [
+            "2 courgettes",
+            "100 g de feta",
+            "2 gousses d'ail",
+            "2 C A S d'huile d'olive",
+            "Jus de citron"
+        ],
+        "etapes": [
+            "Couper les courgettes en dés et les faire rôtir au four à 200°C pendant 30 min.",
+            "Mixer les courgettes avec la feta, l'ail, l'huile d'olive et un filet de jus de citron.",
+            "Servir avec des toasts ou des légumes crus."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de piment pour plus de piquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "150 kcal",
+            "Protéines": "6 g",
+            "Glucides": "10 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Bouchées à la Reine aux Champignons Sauvages",
+        "cat": "apéritif",
+        "description": "Des bouchées gourmandes et raffinées, parfaites pour un apéritif chic.",
+        "image": "/cuisine/img/bouchees_reine_champignons.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Moyen",
+        "cout_precis": "15€",
+        "portions": "6",
+        "ingredients": [
+            "12 croûtes à vol-au-vent",
+            "200 g de champignons sauvages",
+            "200 ml de crème fraîche",
+            "1 oignon",
+            "1 C A S de beurre"
+        ],
+        "etapes": [
+            "Faire revenir l'oignon émincé avec les champignons dans le beurre. Ajouter la crème fraîche.",
+            "Remplir les croûtes à vol-au-vent avec la préparation. Cuire 30 min au four à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de noix de muscade pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "8 g",
+            "Glucides": "20 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Samossas au Bœuf et aux Épices",
+        "cat": "apéritif",
+        "description": "Des samossas croustillants et savoureux, parfaits pour un apéritif exotique.",
+        "image": "/cuisine/img/samossas_boeuf_epices.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "6",
+        "ingredients": [
+            "10 feuilles de brick",
+            "200 g de bœuf haché",
+            "1 oignon",
+            "1 C A C de cumin",
+            "1 C A C de coriandre"
+        ],
+        "etapes": [
+            "Faire revenir le bœuf avec l'oignon et les épices. Laisser refroidir.",
+            "Garnir les feuilles de brick avec la préparation. Plier en triangles et faire frire."
+        ],
+        "conseils": [
+            "Servez avec une sauce au yaourt pour plus de fraîcheur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "12 g",
+            "Glucides": "25 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Tartelettes à la Ratatouille et au Chèvre",
+        "cat": "apéritif",
+        "description": "Des tartelettes légères et savoureuses, parfaites pour un apéritif estival.",
+        "image": "/cuisine/img/tartelettes_ratatouille_chevre.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "10€",
+        "portions": "6",
+        "ingredients": [
+            "6 fonds de tartelette",
+            "1 aubergine",
+            "1 courgette",
+            "1 poivron",
+            "100 g de fromage de chèvre"
+        ],
+        "etapes": [
+            "Couper les légumes en dés et les faire revenir à la poêle.",
+            "Garnir les fonds de tartelette avec les légumes et des morceaux de chèvre.",
+            "Cuire 30 min au four à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de thym pour plus de parfum."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "8 g",
+            "Glucides": "20 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Mini-Quiches aux Poireaux et au Gorgonzola",
+        "cat": "apéritif",
+        "description": "Des mini-quiches gourmandes et savoureuses, parfaites pour un apéritif convivial.",
+        "image": "/cuisine/img/mini_quiches_poireaux_gorgonzola.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "12€",
+        "portions": "6",
+        "ingredients": [
+            "6 fonds de tartelette",
+            "2 poireaux",
+            "100 g de gorgonzola",
+            "2 œufs",
+            "100 ml de crème fraîche"
+        ],
+        "etapes": [
+            "Faire revenir les poireaux émincés dans un peu de beurre.",
+            "Battre les œufs avec la crème fraîche. Verser sur les fonds de tartelette avec les poireaux et le gorgonzola.",
+            "Cuire 30 min au four à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de noix de muscade pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "10 g",
+            "Glucides": "20 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Porridge aux Fruits Secs et Miel",
+        "cat": "petit-déjeuner",
+        "description": "Un porridge réconfortant et nutritif, garni de fruits secs et d'un filet de miel.",
+        "image": "/cuisine/img/porridge_fruits_secs_miel.jpg",
+        "temps_total": "20 min",
+        "temps_preparation": "5 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "5€",
+        "portions": "2",
+        "ingredients": [
+            "100 g de flocons d'avoine",
+            "500 ml de lait ou boisson végétale",
+            "1 cuillère à soupe de miel",
+            "50 g de fruits secs (amandes, noix, raisins secs)"
+        ],
+        "etapes": [
+            "Faire chauffer le lait dans une casserole.",
+            "Ajouter les flocons d'avoine et cuire à feu doux pendant 10-15 min en remuant.",
+            "Servir dans un bol, garnir de fruits secs et arroser de miel."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de cannelle pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "10 g",
+            "Glucides": "45 g",
+            "Lipides": "8 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Œufs Bénédicte",
+        "cat": "petit-déjeuner",
+        "description": "Des œufs pochés sur des muffins anglais, nappés d'une sauce hollandaise onctueuse.",
+        "image": "/cuisine/img/oeufs_benedicte.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Moyen",
+        "cout": "Modéré",
+        "cout_precis": "10€",
+        "portions": "2",
+        "ingredients": [
+            "2 muffins anglais",
+            "4 œufs",
+            "100 g de beurre",
+            "1 jaune d'œuf",
+            "1 cuillère à soupe de jus de citron",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Pocher les œufs dans de l'eau frémissante.",
+            "Préparer la sauce hollandaise en fouettant le jaune d'œuf, le jus de citron et le beurre fondu.",
+            "Griller les muffins anglais, y déposer les œufs pochés et napper de sauce hollandaise."
+        ],
+        "conseils": [
+            "Servez avec des tranches de saumon fumé pour une version plus gourmande."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "450 kcal",
+            "Protéines": "20 g",
+            "Glucides": "25 g",
+            "Lipides": "30 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Smoothie Bowl à la Banane et au Beurre de Cacahuète",
+        "cat": "petit-déjeuner",
+        "description": "Un smoothie bowl crémeux et nourrissant, garni de fruits frais et de granola.",
+        "image": "/cuisine/img/smoothie_bowl_banane_beurre_cacahuete.jpg",
+        "temps_total": "10 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "6€",
+        "portions": "1",
+        "ingredients": [
+            "1 banane",
+            "1 cuillère à soupe de beurre de cacahuète",
+            "100 ml de lait ou boisson végétale",
+            "Granola",
+            "Fruits frais (framboises, myrtilles)"
+        ],
+        "etapes": [
+            "Mixer la banane, le beurre de cacahuète et le lait jusqu'à obtenir une texture lisse.",
+            "Verser dans un bol et garnir de granola et de fruits frais."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de graines de chia pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "10 g",
+            "Glucides": "40 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Croissants Maison",
+        "cat": "petit-déjeuner",
+        "description": "Des croissants faits maison, légers et croustillants.",
+        "image": "/cuisine/img/croissants_maison.jpg",
+        "temps_total": "4h",
+        "temps_preparation": "1h",
+        "temps_cuisson": "20 min",
+        "difficulte": "Difficile",
+        "cout": "Modéré",
+        "cout_precis": "8€",
+        "portions": "6",
+        "ingredients": [
+            "500 g de farine",
+            "250 ml de lait",
+            "10 g de sel",
+            "50 g de sucre",
+            "250 g de beurre",
+            "20 g de levure fraîche"
+        ],
+        "etapes": [
+            "Préparer la pâte en mélangeant farine, lait, sel, sucre et levure.",
+            "Incorporer le beurre et plier la pâte plusieurs fois pour créer des couches.",
+            "Laisser reposer 2h, puis façonner les croissants et cuire 20 min à 180°C."
+        ],
+        "conseils": [
+            "Laissez reposer la pâte au réfrigérateur pour une meilleure texture."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "6 g",
+            "Glucides": "35 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "2 jours à température ambiante"
+    },
+    {
+        "nom": "Petits Pains au Lait",
+        "cat": "petit-déjeuner",
+        "description": "Des petits pains moelleux et légèrement sucrés, parfaits pour le petit-déjeuner.",
+        "image": "/cuisine/img/petits_pains_lait.jpg",
+        "temps_total": "2h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "5€",
+        "portions": "8",
+        "ingredients": [
+            "500 g de farine",
+            "250 ml de lait",
+            "50 g de sucre",
+            "10 g de sel",
+            "20 g de levure fraîche",
+            "50 g de beurre"
+        ],
+        "etapes": [
+            "Mélanger la farine, le lait, le sucre, le sel et la levure.",
+            "Ajouter le beurre et pétrir jusqu'à obtenir une pâte homogène.",
+            "Laisser reposer 1h, façonner les pains et cuire 20 min à 180°C."
+        ],
+        "conseils": [
+            "Badigeonnez les pains de lait avant la cuisson pour une belle couleur dorée."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "5 g",
+            "Glucides": "35 g",
+            "Lipides": "5 g"
+        },
+        "conservation": "2 jours à température ambiante"
+    },
+    {
+        "nom": "Œufs Cocotte aux Épinards et Chèvre",
+        "cat": "petit-déjeuner",
+        "description": "Des œufs cocotte crémeux, accompagnés d'épinards et de fromage de chèvre.",
+        "image": "/cuisine/img/oeufs_cocotte_epinards_chevre.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "7€",
+        "portions": "2",
+        "ingredients": [
+            "4 œufs",
+            "100 g d'épinards frais",
+            "50 g de fromage de chèvre",
+            "50 ml de crème fraîche",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Faire revenir les épinards dans une poêle.",
+            "Répartir les épinards et le fromage de chèvre dans des ramequins.",
+            "Casser un œuf dans chaque ramequin, ajouter la crème fraîche et cuire 20 min au bain-marie à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez une pincée de noix de muscade pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "15 g",
+            "Glucides": "5 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Granola Chocolat-Noisette",
+        "cat": "petit-déjeuner",
+        "description": "Un granola croustillant et gourmand, parfait avec du yaourt ou du lait.",
+        "image": "/cuisine/img/granola_chocolat_noisette.jpg",
+        "temps_total": "40 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "6€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de flocons d'avoine",
+            "50 g de noisettes",
+            "50 g de chocolat noir",
+            "50 ml de miel",
+            "50 ml d'huile de coco"
+        ],
+        "etapes": [
+            "Mélanger les flocons d'avoine, les noisettes, le miel et l'huile de coco.",
+            "Étaler sur une plaque et cuire 30 min à 150°C en remuant de temps en temps.",
+            "Ajouter le chocolat noir haché après la cuisson."
+        ],
+        "conseils": [
+            "Conservez dans un bocal hermétique pour garder le croustillant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "6 g",
+            "Glucides": "35 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "1 semaine dans un contenant hermétique"
+    },
+    {
+        "nom": "Crêpes Sarrasin Salées",
+        "cat": "petit-déjeuner",
+        "description": "Des crêpes au sarrasin, idéales pour un petit-déjeuner salé.",
+        "image": "/cuisine/img/crepes_sarrasin_salees.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "5€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de farine de sarrasin",
+            "500 ml d'eau",
+            "1 œuf",
+            "1 pincée de sel",
+            "Beurre pour la cuisson"
+        ],
+        "etapes": [
+            "Mélanger la farine, l'eau, l'œuf et le sel pour obtenir une pâte lisse.",
+            "Faire cuire les crêpes dans une poêle beurrée."
+        ],
+        "conseils": [
+            "Servez avec du jambon, du fromage et un œuf au plat."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "6 g",
+            "Glucides": "30 g",
+            "Lipides": "5 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Brioche Perdue à la Vanille",
+        "cat": "petit-déjeuner",
+        "description": "Une brioche perdue gourmande, parfumée à la vanille.",
+        "image": "/cuisine/img/brioche_perdue_vanille.jpg",
+        "temps_total": "20 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "10 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "6€",
+        "portions": "2",
+        "ingredients": [
+            "4 tranches de brioche",
+            "2 œufs",
+            "200 ml de lait",
+            "1 cuillère à soupe de sucre",
+            "1 gousse de vanille",
+            "Beurre pour la cuisson"
+        ],
+        "etapes": [
+            "Battre les œufs avec le lait, le sucre et les graines de vanille.",
+            "Tremper les tranches de brioche dans le mélange et les faire cuire à la poêle avec du beurre."
+        ],
+        "conseils": [
+            "Servez avec des fruits frais et un filet de sirop d'érable."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "10 g",
+            "Glucides": "40 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Tartines de Pain d'Épices au Fromage Frais",
+        "cat": "petit-déjeuner",
+        "description": "Des tartines sucrées-salées, parfaites pour un petit-déjeuner original.",
+        "image": "/cuisine/img/tartines_pain_epices_fromage_frais.jpg",
+        "temps_total": "10 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "5€",
+        "portions": "2",
+        "ingredients": [
+            "4 tranches de pain d'épices",
+            "100 g de fromage frais",
+            "1 cuillère à soupe de miel",
+            "Fruits secs (amandes, noix)"
+        ],
+        "etapes": [
+            "Tartiner les tranches de pain d'épices avec le fromage frais.",
+            "Arroser de miel et parsemer de fruits secs."
+        ],
+        "conseils": [
+            "Ajoutez des fruits frais pour plus de fraîcheur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "8 g",
+            "Glucides": "30 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Salade César au Poulet Grillé",
+        "cat": "déjeuner",
+        "description": "Une salade César classique avec du poulet grillé, des croûtons et une sauce crémeuse.",
+        "image": "/cuisine/img/salade_cesar_poulet_grille.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Modéré",
+        "cout_precis": "10€",
+        "portions": "2",
+        "ingredients": [
+            "1 poitrine de poulet",
+            "1 cœur de laitue romaine",
+            "50 g de parmesan",
+            "50 g de croûtons",
+            "2 cuillères à soupe de sauce César",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Griller la poitrine de poulet et la couper en tranches.",
+            "Laver et couper la laitue romaine.",
+            "Mélanger la laitue, le poulet, les croûtons et le parmesan.",
+            "Arroser de sauce César et servir."
+        ],
+        "conseils": [
+            "Ajoutez des anchois pour une version plus traditionnelle."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "25 g",
+            "Glucides": "15 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Burrito au Bœuf et Haricots",
+        "cat": "déjeuner",
+        "description": "Un burrito garni de bœuf haché, haricots, riz et fromage, parfait pour un déjeuner rapide.",
+        "image": "/cuisine/img/burrito_boeuf_haricots.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "2",
+        "ingredients": [
+            "200 g de bœuf haché",
+            "100 g de haricots rouges",
+            "100 g de riz cuit",
+            "2 tortillas",
+            "50 g de fromage râpé",
+            "1 cuillère à soupe de sauce tomate",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Faire revenir le bœuf haché dans une poêle.",
+            "Ajouter les haricots, le riz et la sauce tomate.",
+            "Garnir les tortillas avec le mélange et le fromage, puis les rouler.",
+            "Faire griller légèrement les burritos à la poêle."
+        ],
+        "conseils": [
+            "Ajoutez de la salsa et de la crème fraîche pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "20 g",
+            "Glucides": "35 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Quiche aux Poireaux et Saumon Fumé",
+        "cat": "déjeuner",
+        "description": "Une quiche savoureuse aux poireaux et au saumon fumé, idéale pour un déjeuner léger.",
+        "image": "/cuisine/img/quiche_poireaux_saumon_fume.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Modéré",
+        "cout_precis": "12€",
+        "portions": "4",
+        "ingredients": [
+            "1 pâte brisée",
+            "2 poireaux",
+            "100 g de saumon fumé",
+            "3 œufs",
+            "200 ml de crème fraîche",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Faire revenir les poireaux émincés dans une poêle.",
+            "Étaler la pâte brisée dans un moule à tarte.",
+            "Disposer les poireaux et le saumon fumé sur la pâte.",
+            "Battre les œufs avec la crème fraîche, saler et poivrer, puis verser sur la quiche.",
+            "Cuire 30 min à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez de l'aneth pour plus de fraîcheur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "15 g",
+            "Glucides": "20 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Poke Bowl au Thon et Avocat",
+        "cat": "déjeuner",
+        "description": "Un poke bowl frais et équilibré, garni de thon, avocat et riz.",
+        "image": "/cuisine/img/poke_bowl_thon_avocat.jpg",
+        "temps_total": "20 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Modéré",
+        "cout_precis": "10€",
+        "portions": "2",
+        "ingredients": [
+            "200 g de riz cuit",
+            "150 g de thon frais",
+            "1 avocat",
+            "1 cuillère à soupe de sauce soja",
+            "1 cuillère à soupe de sésame",
+            "Algues séchées (optionnel)"
+        ],
+        "etapes": [
+            "Couper le thon et l'avocat en dés.",
+            "Disposer le riz dans un bol, ajouter le thon et l'avocat.",
+            "Arroser de sauce soja et saupoudrer de sésame."
+        ],
+        "conseils": [
+            "Ajoutez des graines de sésame grillées pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "20 g",
+            "Glucides": "30 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Soupe Miso avec Nouilles Soba",
+        "cat": "déjeuner",
+        "description": "Une soupe miso réconfortante, accompagnée de nouilles soba et de légumes.",
+        "image": "/cuisine/img/soupe_miso_nouilles_soba.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "2",
+        "ingredients": [
+            "100 g de nouilles soba",
+            "1 cuillère à soupe de pâte miso",
+            "500 ml d'eau",
+            "1 carotte",
+            "1 oignon vert",
+            "1 cuillère à soupe de sauce soja"
+        ],
+        "etapes": [
+            "Faire cuire les nouilles soba selon les instructions.",
+            "Dans une casserole, mélanger l'eau, la pâte miso et la sauce soja.",
+            "Ajouter les légumes émincés et laisser mijoter 10 min.",
+            "Servir avec les nouilles soba."
+        ],
+        "conseils": [
+            "Ajoutez du tofu pour plus de protéines."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "10 g",
+            "Glucides": "40 g",
+            "Lipides": "5 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Tacos de Poisson Frit",
+        "cat": "déjeuner",
+        "description": "Des tacos garnis de poisson frit, de chou et de sauce crémeuse.",
+        "image": "/cuisine/img/tacos_poisson_frit.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "9€",
+        "portions": "2",
+        "ingredients": [
+            "2 filets de poisson blanc",
+            "4 petites tortillas",
+            "100 g de chou râpé",
+            "1 cuillère à soupe de mayonnaise",
+            "1 cuillère à soupe de sauce piquante",
+            "Huile pour la friture"
+        ],
+        "etapes": [
+            "Frire les filets de poisson dans l'huile chaude.",
+            "Mélanger la mayonnaise et la sauce piquante.",
+            "Garnir les tortillas de chou, de poisson frit et de sauce.",
+            "Servir immédiatement."
+        ],
+        "conseils": [
+            "Ajoutez des rondelles de citron vert pour plus de fraîcheur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "20 g",
+            "Glucides": "30 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Risotto aux Asperges et Parmesan",
+        "cat": "déjeuner",
+        "description": "Un risotto crémeux aux asperges et parmesan, parfait pour un déjeuner gourmand.",
+        "image": "/cuisine/img/risotto_asperges_parmesan.jpg",
+        "temps_total": "40 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Modéré",
+        "cout_precis": "12€",
+        "portions": "2",
+        "ingredients": [
+            "200 g de riz Arborio",
+            "500 ml de bouillon de légumes",
+            "100 g d'asperges",
+            "50 g de parmesan",
+            "1 oignon",
+            "2 cuillères à soupe de beurre"
+        ],
+        "etapes": [
+            "Faire revenir l'oignon dans le beurre.",
+            "Ajouter le riz et cuire jusqu'à ce qu'il soit translucide.",
+            "Ajouter le bouillon petit à petit en remuant.",
+            "Ajouter les asperges et le parmesan en fin de cuisson."
+        ],
+        "conseils": [
+            "Servez avec un filet d'huile d'olive pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "12 g",
+            "Glucides": "50 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Salade de Lentilles et Feta",
+        "cat": "déjeuner",
+        "description": "Une salade de lentilles nourrissante, garnie de feta et de légumes.",
+        "image": "/cuisine/img/salade_lentilles_feta.jpg",
+        "temps_total": "20 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "7€",
+        "portions": "2",
+        "ingredients": [
+            "200 g de lentilles cuites",
+            "100 g de feta",
+            "1 tomate",
+            "1 concombre",
+            "1 cuillère à soupe d'huile d'olive",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Mélanger les lentilles, la feta, la tomate et le concombre coupés en dés.",
+            "Arroser d'huile d'olive et assaisonner."
+        ],
+        "conseils": [
+            "Ajoutez des olives noires pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "15 g",
+            "Glucides": "25 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Sandwich Cubain",
+        "cat": "déjeuner",
+        "description": "Un sandwich cubain garni de jambon, porc rôti, fromage et cornichons.",
+        "image": "/cuisine/img/sandwich_cubain.jpg",
+        "temps_total": "20 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "0 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "2",
+        "ingredients": [
+            "4 tranches de pain cubain",
+            "100 g de jambon",
+            "100 g de porc rôti",
+            "50 g de fromage suisse",
+            "2 cornichons",
+            "1 cuillère à soupe de moutarde"
+        ],
+        "etapes": [
+            "Tartiner les tranches de pain avec la moutarde.",
+            "Garnir avec le jambon, le porc rôti, le fromage et les cornichons.",
+            "Faire griller le sandwich à la poêle jusqu'à ce que le fromage fonde."
+        ],
+        "conseils": [
+            "Servez avec des chips pour un repas complet."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "25 g",
+            "Glucides": "30 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Pâtes au Pesto de Basilic et Pignons",
+        "cat": "déjeuner",
+        "description": "Des pâtes simples et savoureuses, accompagnées d'un pesto maison au basilic et pignons.",
+        "image": "/cuisine/img/pates_pesto_basilic_pignons.jpg",
+        "temps_total": "20 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "10 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "7€",
+        "portions": "2",
+        "ingredients": [
+            "200 g de pâtes",
+            "50 g de basilic frais",
+            "30 g de pignons de pin",
+            "50 g de parmesan",
+            "100 ml d'huile d'olive",
+            "1 gousse d'ail"
+        ],
+        "etapes": [
+            "Faire cuire les pâtes selon les instructions.",
+            "Mixer le basilic, les pignons, le parmesan, l'ail et l'huile d'olive pour faire le pesto.",
+            "Mélanger les pâtes avec le pesto et servir."
+        ],
+        "conseils": [
+            "Ajoutez des tomates cerises pour plus de fraîcheur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "450 kcal",
+            "Protéines": "12 g",
+            "Glucides": "40 g",
+            "Lipides": "25 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Cookies aux Pépites de Chocolat et Noix de Pécan",
+        "cat": "goûter",
+        "description": "Des cookies moelleux et croustillants, garnis de pépites de chocolat et de noix de pécan.",
+        "image": "/cuisine/img/cookies_pepites_chocolat_noix_pecan.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "6€",
+        "portions": "12",
+        "ingredients": [
+            "200 g de farine",
+            "100 g de beurre",
+            "100 g de sucre",
+            "1 œuf",
+            "100 g de pépites de chocolat",
+            "50 g de noix de pécan",
+            "1 cuillère à café de levure chimique"
+        ],
+        "etapes": [
+            "Mélanger le beurre et le sucre jusqu'à obtenir une texture crémeuse.",
+            "Ajouter l'œuf, puis la farine et la levure.",
+            "Incorporer les pépites de chocolat et les noix de pécan.",
+            "Former des boules et les disposer sur une plaque. Cuire 15 min à 180°C."
+        ],
+        "conseils": [
+            "Laissez refroidir les cookies sur une grille pour qu'ils restent moelleux."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "3 g",
+            "Glucides": "25 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "3 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Gâteau au Yaourt et Citron",
+        "cat": "goûter",
+        "description": "Un gâteau moelleux et léger, parfumé au yaourt et au citron.",
+        "image": "/cuisine/img/gateau_yaourt_citron.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "5€",
+        "portions": "8",
+        "ingredients": [
+            "1 yaourt nature",
+            "3 pots de farine (utiliser le pot de yaourt comme mesure)",
+            "2 pots de sucre",
+            "1/2 pot d'huile",
+            "3 œufs",
+            "1 citron (zeste et jus)",
+            "1 sachet de levure chimique"
+        ],
+        "etapes": [
+            "Mélanger le yaourt, le sucre, les œufs et l'huile.",
+            "Ajouter la farine, la levure, le zeste et le jus de citron.",
+            "Verser dans un moule et cuire 30 min à 180°C."
+        ],
+        "conseils": [
+            "Saupoudrez de sucre glace pour une touche sucrée."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "5 g",
+            "Glucides": "35 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "3 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Muffins aux Myrtilles",
+        "cat": "goûter",
+        "description": "Des muffins moelleux et fruités, garnis de myrtilles fraîches.",
+        "image": "/cuisine/img/muffins_myrtilles.jpg",
+        "temps_total": "35 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "7€",
+        "portions": "12",
+        "ingredients": [
+            "200 g de farine",
+            "100 g de sucre",
+            "100 ml de lait",
+            "100 g de beurre",
+            "1 œuf",
+            "150 g de myrtilles",
+            "1 sachet de levure chimique"
+        ],
+        "etapes": [
+            "Mélanger la farine, le sucre et la levure.",
+            "Ajouter le lait, le beurre fondu et l'œuf.",
+            "Incorporer les myrtilles délicatement.",
+            "Verser dans des moules à muffins et cuire 20 min à 180°C."
+        ],
+        "conseils": [
+            "Utilisez des myrtilles surgelées si les fraîches ne sont pas disponibles."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "180 kcal",
+            "Protéines": "3 g",
+            "Glucides": "25 g",
+            "Lipides": "8 g"
+        },
+        "conservation": "3 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Churros Maison avec Chocolat Chaud",
+        "cat": "goûter",
+        "description": "Des churros croustillants, accompagnés d'un chocolat chaud onctueux.",
+        "image": "/cuisine/img/churros_chocolat_chaud.jpg",
+        "temps_total": "40 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "250 ml d'eau",
+            "100 g de farine",
+            "1 pincée de sel",
+            "1 cuillère à soupe de sucre",
+            "Huile pour la friture",
+            "100 g de chocolat noir",
+            "200 ml de lait"
+        ],
+        "etapes": [
+            "Porter l'eau à ébullition avec le sel et le sucre.",
+            "Ajouter la farine et mélanger jusqu'à obtenir une pâte lisse.",
+            "Faire chauffer l'huile et utiliser une poche à douille pour former les churros.",
+            "Faire frire jusqu'à ce qu'ils soient dorés.",
+            "Faire fondre le chocolat dans le lait pour accompagner les churros."
+        ],
+        "conseils": [
+            "Saupoudrez les churros de sucre et de cannelle pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "5 g",
+            "Glucides": "35 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Tarte au Citron Meringuée",
+        "cat": "goûter",
+        "description": "Une tarte acidulée au citron, recouverte d'une meringue légère et dorée.",
+        "image": "/cuisine/img/tarte_citron_meringuee.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "45 min",
+        "temps_cuisson": "45 min",
+        "difficulte": "Moyen",
+        "cout": "Modéré",
+        "cout_precis": "10€",
+        "portions": "8",
+        "ingredients": [
+            "1 pâte sablée",
+            "4 citrons",
+            "150 g de sucre",
+            "3 œufs",
+            "100 g de beurre",
+            "3 blancs d'œufs",
+            "75 g de sucre glace"
+        ],
+        "etapes": [
+            "Faire cuire la pâte sablée à blanc.",
+            "Préparer la crème au citron avec le jus de citron, le sucre, les œufs et le beurre.",
+            "Monter les blancs en neige avec le sucre glace pour la meringue.",
+            "Garnir la tarte avec la crème au citron et recouvrir de meringue.",
+            "Faire dorer la meringue au four ou au chalumeau."
+        ],
+        "conseils": [
+            "Servez bien frais pour une texture parfaite."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "6 g",
+            "Glucides": "40 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Donuts Glacés",
+        "cat": "goûter",
+        "description": "Des donuts moelleux, recouverts d'un glaçage coloré et de décorations.",
+        "image": "/cuisine/img/donuts_glaces.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "9€",
+        "portions": "12",
+        "ingredients": [
+            "300 g de farine",
+            "100 g de sucre",
+            "150 ml de lait",
+            "50 g de beurre",
+            "1 œuf",
+            "1 sachet de levure chimique",
+            "200 g de sucre glace",
+            "Colorant alimentaire (optionnel)"
+        ],
+        "etapes": [
+            "Mélanger la farine, le sucre, la levure, le lait, le beurre et l'œuf.",
+            "Former des donuts et les faire cuire 30 min à 180°C.",
+            "Préparer le glaçage avec le sucre glace et un peu d'eau.",
+            "Tremper les donuts dans le glaçage et ajouter des décorations."
+        ],
+        "conseils": [
+            "Ajoutez des pépites de chocolat ou des sprinkles pour plus de fun."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "4 g",
+            "Glucides": "35 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "2 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Pain d'Épices Moelleux",
+        "cat": "goûter",
+        "description": "Un pain d'épices traditionnel, moelleux et parfumé aux épices douces.",
+        "image": "/cuisine/img/pain_epices_moelleux.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "40 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "6€",
+        "portions": "8",
+        "ingredients": [
+            "250 g de farine",
+            "150 g de miel",
+            "100 ml de lait",
+            "1 œuf",
+            "1 cuillère à café de cannelle",
+            "1 cuillère à café de gingembre",
+            "1/2 cuillère à café de clou de girofle"
+        ],
+        "etapes": [
+            "Mélanger la farine, les épices, le miel, le lait et l'œuf.",
+            "Verser dans un moule et cuire 40 min à 180°C."
+        ],
+        "conseils": [
+            "Servez avec une confiture ou une crème fouettée."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "4 g",
+            "Glucides": "35 g",
+            "Lipides": "5 g"
+        },
+        "conservation": "5 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Financiers aux Amandes",
+        "cat": "goûter",
+        "description": "Des financiers moelleux et gourmands, parfumés aux amandes.",
+        "image": "/cuisine/img/financiers_amandes.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "7€",
+        "portions": "12",
+        "ingredients": [
+            "100 g de poudre d'amandes",
+            "100 g de sucre",
+            "50 g de farine",
+            "150 g de beurre",
+            "4 blancs d'œufs"
+        ],
+        "etapes": [
+            "Faire fondre le beurre jusqu'à obtenir un beurre noisette.",
+            "Mélanger la poudre d'amandes, le sucre, la farine et les blancs d'œufs.",
+            "Ajouter le beurre noisette et verser dans des moules à financiers.",
+            "Cuire 15 min à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez des amandes effilées sur le dessus pour plus de croquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "180 kcal",
+            "Protéines": "4 g",
+            "Glucides": "15 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "3 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Biscuits Sablés à la Vanille",
+        "cat": "goûter",
+        "description": "Des biscuits sablés croustillants, parfumés à la vanille.",
+        "image": "/cuisine/img/biscuits_sables_vanille.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "5€",
+        "portions": "20",
+        "ingredients": [
+            "200 g de farine",
+            "100 g de beurre",
+            "100 g de sucre",
+            "1 œuf",
+            "1 cuillère à café d'extrait de vanille"
+        ],
+        "etapes": [
+            "Mélanger la farine, le beurre, le sucre, l'œuf et la vanille.",
+            "Former une boule de pâte et l'étaler au rouleau.",
+            "Découper des formes et cuire 15 min à 180°C."
+        ],
+        "conseils": [
+            "Saupoudrez de sucre glace pour une touche sucrée."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "100 kcal",
+            "Protéines": "2 g",
+            "Glucides": "12 g",
+            "Lipides": "5 g"
+        },
+        "conservation": "1 semaine dans une boîte hermétique"
+    },
+    {
+        "nom": "Gaufres Liégeoises",
+        "cat": "goûter",
+        "description": "Des gaufres liégeoises moelleuses et sucrées, parfaites pour le goûter.",
+        "image": "/cuisine/img/gaufres_liegeoises.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "6",
+        "ingredients": [
+            "300 g de farine",
+            "150 g de beurre",
+            "100 g de sucre perlé",
+            "1 sachet de levure boulangère",
+            "100 ml de lait",
+            "1 œuf"
+        ],
+        "etapes": [
+            "Mélanger la farine, la levure, le lait et l'œuf.",
+            "Ajouter le beurre fondu et le sucre perlé.",
+            "Laisser reposer la pâte 30 min.",
+            "Cuire les gaufres dans un gaufrier."
+        ],
+        "conseils": [
+            "Servez avec de la chantilly ou du chocolat fondu."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "5 g",
+            "Glucides": "35 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "2 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Boeuf Bourguignon",
+        "cat": "dîner",
+        "description": "Un plat traditionnel français, riche et savoureux, à base de bœuf mijoté dans du vin rouge.",
+        "image": "/cuisine/img/boeuf_bourguignon.jpg",
+        "temps_total": "3h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "2h30",
+        "difficulte": "Moyen",
+        "cout": "Modéré",
+        "cout_precis": "15€",
+        "portions": "4",
+        "ingredients": [
+            "800 g de bœuf à bourguignon",
+            "1 bouteille de vin rouge",
+            "200 g de lardons",
+            "200 g de champignons",
+            "2 carottes",
+            "2 oignons",
+            "2 gousses d'ail",
+            "2 cuillères à soupe de farine",
+            "Bouquet garni",
+            "Huile d'olive"
+        ],
+        "etapes": [
+            "Faire revenir le bœuf dans l'huile d'olive.",
+            "Ajouter les oignons, l'ail et les carottes émincés.",
+            "Saupoudrer de farine et mouiller avec le vin rouge.",
+            "Ajouter les lardons, les champignons et le bouquet garni.",
+            "Laisser mijoter 2h30 à feu doux."
+        ],
+        "conseils": [
+            "Servez avec des pommes de terre vapeur ou de la purée."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "450 kcal",
+            "Protéines": "35 g",
+            "Glucides": "20 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Lasagnes à la Bolognaise",
+        "cat": "dîner",
+        "description": "Des lasagnes savoureuses, garnies de sauce bolognaise et de béchamel.",
+        "image": "/cuisine/img/lasagnes_bolognaise.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "1h",
+        "difficulte": "Moyen",
+        "cout": "Modéré",
+        "cout_precis": "12€",
+        "portions": "6",
+        "ingredients": [
+            "12 feuilles de lasagnes",
+            "500 g de viande hachée",
+            "1 bocal de sauce tomate",
+            "1 oignon",
+            "2 gousses d'ail",
+            "500 ml de béchamel",
+            "100 g de fromage râpé",
+            "Huile d'olive"
+        ],
+        "etapes": [
+            "Faire revenir l'oignon et l'ail dans l'huile d'olive.",
+            "Ajouter la viande hachée et la sauce tomate.",
+            "Alterner les couches de lasagnes, de sauce bolognaise et de béchamel dans un plat.",
+            "Terminer par une couche de fromage râpé.",
+            "Cuire 1h à 180°C."
+        ],
+        "conseils": [
+            "Laissez reposer 10 min avant de servir pour une meilleure découpe."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "25 g",
+            "Glucides": "30 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Poulet Rôti aux Herbes de Provence",
+        "cat": "dîner",
+        "description": "Un poulet rôti parfumé aux herbes de Provence, accompagné de légumes rôtis.",
+        "image": "/cuisine/img/poulet_roti_herbes_provence.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "1h10",
+        "difficulte": "Facile",
+        "cout": "Modéré",
+        "cout_precis": "10€",
+        "portions": "4",
+        "ingredients": [
+            "1 poulet entier",
+            "2 cuillères à soupe d'herbes de Provence",
+            "4 pommes de terre",
+            "2 carottes",
+            "2 oignons",
+            "4 gousses d'ail",
+            "Huile d'olive",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Préchauffer le four à 180°C.",
+            "Badigeonner le poulet d'huile d'olive et le saupoudrer d'herbes de Provence.",
+            "Disposer les légumes coupés en morceaux autour du poulet.",
+            "Enfourner et cuire 1h10 en arrosant régulièrement."
+        ],
+        "conseils": [
+            "Servez avec une salade verte pour un repas complet."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "30 g",
+            "Glucides": "20 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Gratin de Courgettes et Tomates",
+        "cat": "dîner",
+        "description": "Un gratin léger et savoureux, à base de courgettes et de tomates.",
+        "image": "/cuisine/img/gratin_courgettes_tomates.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "40 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "3 courgettes",
+            "4 tomates",
+            "100 g de fromage râpé",
+            "2 œufs",
+            "200 ml de crème fraîche",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Couper les courgettes et les tomates en rondelles.",
+            "Disposer les légumes en couches dans un plat à gratin.",
+            "Mélanger les œufs, la crème fraîche, le fromage râpé, le sel et le poivre.",
+            "Verser sur les légumes et cuire 40 min à 180°C."
+        ],
+        "conseils": [
+            "Ajoutez des herbes de Provence pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "10 g",
+            "Glucides": "15 g",
+            "Lipides": "18 g"
+        },
+        "conservation": "2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Sushi Maison (Maki et Nigiri)",
+        "cat": "dîner",
+        "description": "Des sushis faits maison, avec du riz vinaigré, du poisson frais et des légumes.",
+        "image": "/cuisine/img/sushi_maison.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "45 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Moyen",
+        "cout": "Modéré",
+        "cout_precis": "14€",
+        "portions": "4",
+        "ingredients": [
+            "300 g de riz à sushi",
+            "4 cuillères à soupe de vinaigre de riz",
+            "200 g de saumon frais",
+            "1 avocat",
+            "1 concombre",
+            "Feuilles de nori",
+            "Sauce soja",
+            "Wasabi (optionnel)"
+        ],
+        "etapes": [
+            "Cuire le riz et le mélanger avec le vinaigre de riz.",
+            "Couper le saumon, l'avocat et le concombre en fines lamelles.",
+            "Rouler les maki avec les feuilles de nori et le riz.",
+            "Former les nigiri avec le riz et les tranches de saumon.",
+            "Servir avec de la sauce soja et du wasabi."
+        ],
+        "conseils": [
+            "Utilisez un tapis à sushi pour faciliter le roulage des maki."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "15 g",
+            "Glucides": "40 g",
+            "Lipides": "8 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Curry Vert Thaï au Poulet",
+        "cat": "dîner",
+        "description": "Un curry vert thaï épicé et parfumé, à base de poulet et de lait de coco.",
+        "image": "/cuisine/img/curry_vert_thai_poulet.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Modéré",
+        "cout_precis": "12€",
+        "portions": "4",
+        "ingredients": [
+            "400 g de poulet",
+            "200 ml de lait de coco",
+            "2 cuillères à soupe de pâte de curry vert",
+            "1 poivron vert",
+            "1 aubergine",
+            "1 citronnelle",
+            "Feuilles de basilic thaï",
+            "Riz thaï pour accompagner"
+        ],
+        "etapes": [
+            "Faire revenir le poulet dans une poêle.",
+            "Ajouter la pâte de curry vert et le lait de coco.",
+            "Incorporer les légumes coupés en morceaux et la citronnelle.",
+            "Laisser mijoter 20 min.",
+            "Servir avec du riz thaï et des feuilles de basilic."
+        ],
+        "conseils": [
+            "Ajoutez du piment pour plus de piquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "25 g",
+            "Glucides": "30 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Tartiflette Traditionnelle",
+        "cat": "dîner",
+        "description": "Un plat réconfortant à base de pommes de terre, de lardons et de reblochon.",
+        "image": "/cuisine/img/tartiflette_traditionnelle.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "1h",
+        "difficulte": "Facile",
+        "cout": "Modéré",
+        "cout_precis": "10€",
+        "portions": "4",
+        "ingredients": [
+            "1 kg de pommes de terre",
+            "200 g de lardons",
+            "1 reblochon",
+            "1 oignon",
+            "200 ml de crème fraîche",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Cuire les pommes de terre à l'eau, puis les couper en rondelles.",
+            "Faire revenir les lardons et l'oignon émincé.",
+            "Disposer les pommes de terre, les lardons et la crème fraîche dans un plat.",
+            "Couper le reblochon en deux et le poser sur le dessus.",
+            "Cuire 1h à 180°C."
+        ],
+        "conseils": [
+            "Servez avec une salade verte pour équilibrer le repas."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "15 g",
+            "Glucides": "35 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Soupe à l'Oignon Gratinée",
+        "cat": "dîner",
+        "description": "Une soupe à l'oignon traditionnelle, gratinée avec du fromage et du pain.",
+        "image": "/cuisine/img/soupe_oignon_gratinee.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "7€",
+        "portions": "4",
+        "ingredients": [
+            "4 oignons",
+            "1 litre de bouillon de bœuf",
+            "4 tranches de pain",
+            "100 g de fromage râpé",
+            "2 cuillères à soupe de beurre",
+            "Sel et poivre"
+        ],
+        "etapes": [
+            "Faire revenir les oignons émincés dans le beurre jusqu'à caramélisation.",
+            "Ajouter le bouillon de bœuf et laisser mijoter 20 min.",
+            "Verser la soupe dans des bols, déposer une tranche de pain et saupoudrer de fromage.",
+            "Gratiner au four 10 min."
+        ],
+        "conseils": [
+            "Ajoutez un peu de vin blanc pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "10 g",
+            "Glucides": "20 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Couscous Royal",
+        "cat": "dîner",
+        "description": "Un couscous traditionnel avec de la viande, des légumes et des pois chiches.",
+        "image": "/cuisine/img/couscous_royal.jpg",
+        "temps_total": "2h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "1h30",
+        "difficulte": "Moyen",
+        "cout": "Modéré",
+        "cout_precis": "12€",
+        "portions": "6",
+        "ingredients": [
+            "500 g de semoule",
+            "500 g d'agneau",
+            "2 carottes",
+            "2 courgettes",
+            "1 navet",
+            "200 g de pois chiches",
+            "2 cuillères à soupe de concentré de tomate",
+            "Épices à couscous",
+            "Huile d'olive"
+        ],
+        "etapes": [
+            "Faire revenir l'agneau dans l'huile d'olive.",
+            "Ajouter les légumes coupés en morceaux et le concentré de tomate.",
+            "Mouiller avec de l'eau et ajouter les épices.",
+            "Laisser mijoter 1h30.",
+            "Préparer la semoule selon les instructions et servir avec le ragoût."
+        ],
+        "conseils": [
+            "Servez avec de la harissa pour plus de piquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "25 g",
+            "Glucides": "45 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Pizza Margherita Faite Maison",
+        "cat": "dîner",
+        "description": "Une pizza classique à la tomate, mozzarella et basilic.",
+        "image": "/cuisine/img/pizza_margherita_maison.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "300 g de farine",
+            "200 ml d'eau",
+            "1 sachet de levure boulangère",
+            "1 boîte de sauce tomate",
+            "200 g de mozzarella",
+            "Feuilles de basilic",
+            "Huile d'olive"
+        ],
+        "etapes": [
+            "Préparer la pâte à pizza en mélangeant la farine, l'eau et la levure.",
+            "Étaler la pâte et la garnir de sauce tomate et de mozzarella.",
+            "Cuire 15 min à 220°C.",
+            "Ajouter les feuilles de basilic avant de servir."
+        ],
+        "conseils": [
+            "Ajoutez des tomates fraîches pour plus de fraîcheur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "12 g",
+            "Glucides": "40 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Empanadas au Bœuf et aux Olives",
+        "cat": "entrée",
+        "description": "Des empanadas croustillantes, garnies de bœuf haché, d'olives et d'épices.",
+        "image": "/cuisine/img/empanadas_boeuf_olives.jpg",
+        "temps_total": "1h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "6",
+        "ingredients": [
+            "300 g de farine",
+            "150 g de bœuf haché",
+            "50 g d'olives vertes",
+            "1 oignon",
+            "1 œuf",
+            "1 cuillère à café de paprika",
+            "Huile pour la friture"
+        ],
+        "etapes": [
+            "Préparer la pâte en mélangeant la farine, l'œuf et un peu d'eau.",
+            "Faire revenir l'oignon et le bœuf haché avec le paprika.",
+            "Ajouter les olives coupées en morceaux.",
+            "Garnir les disques de pâte avec la farce et les plier en demi-lune.",
+            "Faire frire jusqu'à ce qu'ils soient dorés."
+        ],
+        "conseils": [
+            "Servez avec une sauce chimichurri pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "10 g",
+            "Glucides": "25 g",
+            "Lipides": "12 g"
+        },
+        "conservation": "2 jours au réfrigérateur"
+    },
+    {
+        "nom": "Soupe Miso avec Nouilles Soba",
+        "cat": "entrée",
+        "description": "Une soupe miso réconfortante, accompagnée de nouilles soba et de légumes.",
+        "image": "/cuisine/img/soupe_miso_nouilles_soba.jpg",
+        "temps_total": "30 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "15 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "2",
+        "ingredients": [
+            "100 g de nouilles soba",
+            "1 cuillère à soupe de pâte miso",
+            "500 ml d'eau",
+            "1 carotte",
+            "1 oignon vert",
+            "1 cuillère à soupe de sauce soja"
+        ],
+        "etapes": [
+            "Faire cuire les nouilles soba selon les instructions.",
+            "Dans une casserole, mélanger l'eau, la pâte miso et la sauce soja.",
+            "Ajouter les légumes émincés et laisser mijoter 10 min.",
+            "Servir avec les nouilles soba."
+        ],
+        "conseils": [
+            "Ajoutez du tofu pour plus de protéines."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "250 kcal",
+            "Protéines": "10 g",
+            "Glucides": "40 g",
+            "Lipides": "5 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Pad Thaï aux Crevettes",
+        "cat": "plat",
+        "description": "Un plat thaïlandais classique, à base de nouilles de riz, crevettes et légumes.",
+        "image": "/cuisine/img/pad_thai_crevettes.jpg",
+        "temps_total": "40 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Moyen",
+        "cout": "Modéré",
+        "cout_precis": "12€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de nouilles de riz",
+            "200 g de crevettes",
+            "1 œuf",
+            "100 g de germes de soja",
+            "2 cuillères à soupe de sauce de poisson",
+            "1 cuillère à soupe de sucre",
+            "1 citron vert",
+            "Cacahuètes concassées"
+        ],
+        "etapes": [
+            "Faire tremper les nouilles de riz dans l'eau chaude.",
+            "Faire revenir les crevettes dans une poêle.",
+            "Ajouter l'œuf, les nouilles, les germes de soja, la sauce de poisson et le sucre.",
+            "Servir avec des cacahuètes concassées et du citron vert."
+        ],
+        "conseils": [
+            "Ajoutez du piment pour plus de piquant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "20 g",
+            "Glucides": "40 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "24h au réfrigérateur"
+    },
+    {
+        "nom": "Feijoada Brésilienne",
+        "cat": "plat",
+        "description": "Un ragoût brésilien à base de haricots noirs et de viandes variées.",
+        "image": "/cuisine/img/feijoada_brésilienne.jpg",
+        "temps_total": "3h",
+        "temps_preparation": "30 min",
+        "temps_cuisson": "2h30",
+        "difficulte": "Moyen",
+        "cout": "Modéré",
+        "cout_precis": "14€",
+        "portions": "6",
+        "ingredients": [
+            "500 g de haricots noirs",
+            "300 g de porc",
+            "200 g de saucisse fumée",
+            "1 oignon",
+            "2 gousses d'ail",
+            "2 feuilles de laurier",
+            "Huile d'olive"
+        ],
+        "etapes": [
+            "Faire tremper les haricots noirs toute la nuit.",
+            "Faire revenir l'oignon et l'ail dans l'huile d'olive.",
+            "Ajouter les viandes et les haricots, puis couvrir d'eau.",
+            "Laisser mijoter 2h30 avec les feuilles de laurier."
+        ],
+        "conseils": [
+            "Servez avec du riz et des tranches d'orange."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "400 kcal",
+            "Protéines": "25 g",
+            "Glucides": "35 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "3 jours au réfrigérateur"
+    },
+    {
+        "nom": "Baklava (Dessert Méditerranéen)",
+        "cat": "dessert",
+        "description": "Un dessert sucré et croustillant, à base de pâte filo, de noix et de miel.",
+        "image": "/cuisine/img/baklava.jpg",
+        "temps_total": "1h30",
+        "temps_preparation": "45 min",
+        "temps_cuisson": "45 min",
+        "difficulte": "Moyen",
+        "cout": "Modéré",
+        "cout_precis": "10€",
+        "portions": "8",
+        "ingredients": [
+            "200 g de pâte filo",
+            "200 g de noix",
+            "100 g de beurre",
+            "200 g de miel",
+            "1 cuillère à café de cannelle"
+        ],
+        "etapes": [
+            "Mélanger les noix avec la cannelle.",
+            "Superposer les feuilles de pâte filo en les badigeonnant de beurre fondu.",
+            "Ajouter une couche de noix entre chaque feuille.",
+            "Cuire 45 min à 180°C.",
+            "Arroser de miel chaud après la cuisson."
+        ],
+        "conseils": [
+            "Laissez reposer quelques heures avant de servir."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "350 kcal",
+            "Protéines": "6 g",
+            "Glucides": "40 g",
+            "Lipides": "20 g"
+        },
+        "conservation": "5 jours dans une boîte hermétique"
+    },
+    {
+        "nom": "Churros Maison avec Chocolat Chaud",
+        "cat": "goûter",
+        "description": "Des churros croustillants, accompagnés d'un chocolat chaud onctueux.",
+        "image": "/cuisine/img/churros_chocolat_chaud.jpg",
+        "temps_total": "40 min",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "20 min",
+        "difficulte": "Moyen",
+        "cout": "Économique",
+        "cout_precis": "8€",
+        "portions": "4",
+        "ingredients": [
+            "250 ml d'eau",
+            "100 g de farine",
+            "1 pincée de sel",
+            "1 cuillère à soupe de sucre",
+            "Huile pour la friture",
+            "100 g de chocolat noir",
+            "200 ml de lait"
+        ],
+        "etapes": [
+            "Porter l'eau à ébullition avec le sel et le sucre.",
+            "Ajouter la farine et mélanger jusqu'à obtenir une pâte lisse.",
+            "Faire chauffer l'huile et utiliser une poche à douille pour former les churros.",
+            "Faire frire jusqu'à ce qu'ils soient dorés.",
+            "Faire fondre le chocolat dans le lait pour accompagner les churros."
+        ],
+        "conseils": [
+            "Saupoudrez les churros de sucre et de cannelle pour plus de saveur."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "5 g",
+            "Glucides": "35 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Granola Chocolat-Noisette",
+        "cat": "petit-déjeuner",
+        "description": "Un granola croustillant et gourmand, parfait avec du yaourt ou du lait.",
+        "image": "/cuisine/img/granola_chocolat_noisette.jpg",
+        "temps_total": "40 min",
+        "temps_preparation": "10 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "6€",
+        "portions": "4",
+        "ingredients": [
+            "200 g de flocons d'avoine",
+            "50 g de noisettes",
+            "50 g de chocolat noir",
+            "50 ml de miel",
+            "50 ml d'huile de coco"
+        ],
+        "etapes": [
+            "Mélanger les flocons d'avoine, les noisettes, le miel et l'huile de coco.",
+            "Étaler sur une plaque et cuire 30 min à 150°C en remuant de temps en temps.",
+            "Ajouter le chocolat noir haché après la cuisson."
+        ],
+        "conseils": [
+            "Conservez dans un bocal hermétique pour garder le croustillant."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "300 kcal",
+            "Protéines": "6 g",
+            "Glucides": "35 g",
+            "Lipides": "15 g"
+        },
+        "conservation": "1 semaine dans un contenant hermétique"
+    },
+    {
+        "nom": "Chocolat Chaud Épais",
+        "cat": "boisson",
+        "description": "Un chocolat chaud onctueux et réconfortant, parfait pour les journées froides.",
+        "image": "/cuisine/img/chocolat_chaud_epais.jpg",
+        "temps_total": "15 min",
+        "temps_preparation": "5 min",
+        "temps_cuisson": "10 min",
+        "difficulte": "Facile",
+        "cout": "Économique",
+        "cout_precis": "4€",
+        "portions": "2",
+        "ingredients": [
+            "200 ml de lait",
+            "100 g de chocolat noir",
+            "1 cuillère à soupe de sucre",
+            "1 pincée de cannelle"
+        ],
+        "etapes": [
+            "Faire chauffer le lait dans une casserole.",
+            "Ajouter le chocolat noir et le sucre, puis remuer jusqu'à ce qu'ils fondent.",
+            "Servir avec une pincée de cannelle."
+        ],
+        "conseils": [
+            "Ajoutez une touche de crème fouettée pour plus de gourmandise."
+        ],
+        "valeurs_nutritives": {
+            "Calories": "200 kcal",
+            "Protéines": "5 g",
+            "Glucides": "25 g",
+            "Lipides": "10 g"
+        },
+        "conservation": "À consommer immédiatement"
     }
 ]
