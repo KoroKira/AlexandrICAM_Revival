@@ -5,37 +5,79 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cuisine étudiante</title>
     <style>
-        /* .recettes {
-            border: 2px solid red;
-        } */
-
         /* Reset CSS basique */
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; }
-
+            
         /* Mode sombre */
         body.dark-mode {
-            background: #1a202c;
-            color: black; /* Correction : texte en blanc pour le mode sombre */
+            background: #121212; /* Fond plus doux */
+            color: #e0e0e0; /* Texte clair mais pas trop vif */
         }
-
+        
         .dark-mode header {
-            background: #2d3748;
-            color: white;
+            background: #1e1e1e; /* Fond plus sombre pour le header */
+            color: #e0e0e0;
         }
-
-        .dark-mode .card {
-            background: #2d3748;
-            border-color: #4a5568;
-            color: black; /* Correction : texte en blanc pour le mode sombre */
+        
+        .dark-mode .recette-card {
+            background: #1e1e1e; /* Fond des cartes plus sombre */
+            border-color: #333; /* Bordure plus subtile */
+            color: #e0e0e0; /* Texte clair */
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3); /* Ombre plus douce */
         }
-
+        
+        .dark-mode .recette-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.4); /* Ombre légèrement plus prononcée au survol */
+        }
+        
+        .dark-mode .recette-content h2 {
+            color: #bb86fc; /* Couleur d'accent pour les titres (violet doux) */
+        }
+        
+        .dark-mode .meta-info {
+            color: #b0b0b0; /* Texte secondaire plus doux */
+        }
+        
+        .dark-mode .difficulty {
+            background: #333; /* Fond des badges de difficulté plus sombre */
+            color: #bb86fc; /* Texte des badges de difficulté */
+        }
+        
+        .dark-mode .modal-content {
+            background: #1e1e1e; /* Fond de la modal plus sombre */
+            color: #e0e0e0; /* Texte clair dans la modal */
+        }
+        
+        .dark-mode .modal-content h2 {
+            color: #bb86fc; /* Titre de la modal en couleur d'accent */
+        }
+        
+        .dark-mode .close-btn {
+            color: #bb86fc; /* Bouton de fermeture en couleur d'accent */
+        }
+        
+        .dark-mode .recipe-steps li {
+            background: #333; /* Fond des étapes plus sombre */
+            color: #e0e0e0; /* Texte clair */
+        }
+        
+        .dark-mode .nutrition-item {
+            background: #333; /* Fond des infos nutritionnelles plus sombre */
+            color: #e0e0e0; /* Texte clair */
+        }
+        
+        .dark-mode .tips {
+            background: #333; /* Fond des conseils plus sombre */
+            color: #e0e0e0; /* Texte clair */
+        }
+        
         .dark-mode footer {
-            background: #2d3748;
-            color: black;
-            text-align: center;
+            background: #1e1e1e; /* Fond du footer plus sombre */
+            color: #e0e0e0; /* Texte clair */
         }
-
+        
         /* Bouton mode sombre */
         .dark-mode-toggle {
             background: none;
@@ -44,7 +86,7 @@
             font-size: 1.2rem;
             color: inherit; /* Utilisation de la couleur héritée pour s'adapter au mode sombre */
         }
-
+        
         /* Styles communs */
         body { 
             font-family: 'Segoe UI', sans-serif; 
@@ -63,7 +105,7 @@
             justify-content: space-between;
             align-items: center;
         }
-
+        
         nav {
             display: flex;
             gap: 2rem;
@@ -75,11 +117,11 @@
             text-decoration: none; 
             margin-right: 1.5rem; 
         }
-
+        
         nav a:hover {
             background: #2c5282;
         }
-
+        
         /* Conteneur des recettes */
         .recettes {
             max-width: 1200px;
@@ -89,7 +131,7 @@
             gap: 2rem;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         }
-
+        
         /* Carte recette */
         .recette-card {
             border: 1px solid #e2e8f0;
@@ -100,27 +142,27 @@
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
             cursor: pointer;
         }
-
+        
         .recette-card:hover {
             transform: translateY(-3px);
         }
-
+        
         .recette-image {
             width: 100%;
             height: 200px;
             object-fit: cover;
         }
-
+        
         .recette-content {
             padding: 1.5rem;
         }
-
+        
         .recette-content h2 {
             color: #2b6cb0;
             margin-bottom: 0.5rem;
             font-size: 1.25rem;
         }
-
+        
         .meta-info {
             display: flex;
             gap: 1rem;
@@ -128,14 +170,14 @@
             color: #666;
             margin-top: 0.5rem;
         }
-
+        
         .difficulty {
             padding: 0.25rem 0.5rem;
             border-radius: 4px;
             background: #ebf8ff;
             color: #2b6cb0;
         }
-
+        
         /* Modal (popup) */
         .modal {
             display: none;
@@ -150,7 +192,7 @@
             overflow-y: auto;
             padding: 2rem 0;
         }
-
+        
         .modal-content {
             background: white;
             padding: 2rem;
@@ -160,12 +202,12 @@
             position: relative;
             margin: auto;
         }
-
+        
         .modal-content h2 {
             margin-top: 0;
             color: #2b6cb0;
         }
-
+        
         .close-btn {
             position: absolute;
             top: 1rem;
@@ -177,39 +219,39 @@
             border: none;
             padding: 0.5rem;
         }
-
+        
         .recipe-steps {
             list-style-position: inside;
             padding-left: 0;
         }
-
+        
         .recipe-steps li {
             margin-bottom: 0.5rem;
             padding: 0.5rem;
             background: #f8fafc;
             border-radius: 4px;
         }
-
+        
         .nutritional-info {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
             gap: 1rem;
             margin: 1rem 0;
         }
-
+        
         .nutrition-item {
             padding: 1rem;
             background: #f8fafc;
             border-radius: 4px;
             text-align: center;
         }
-
+        
         .nutrition-item span {
             display: block;
             font-weight: bold;
             color: #2b6cb0;
         }
-
+        
         .tips {
             background: #ebf8ff;
             padding: 1rem;
