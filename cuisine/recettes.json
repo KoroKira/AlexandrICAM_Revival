@@ -4468,41 +4468,6 @@
         "conservation": "24h au réfrigérateur"
     },
     {
-        "nom": "Mini-Quiches aux Poireaux",
-        "cat": "apéritif",
-        "description": "Des mini-quiches légères et savoureuses, parfaites pour l'apéritif.",
-        "image": "/cuisine/img/mini_quiches_poireaux.jpg",
-        "temps_total": "40 min",
-        "temps_preparation": "20 min",
-        "temps_cuisson": "20 min",
-        "difficulte": "Moyen",
-        "cout": "Économique",
-        "cout_precis": "10€",
-        "portions": "6",
-        "ingredients": [
-            "6 fonds de tartelette",
-            "2 poireaux",
-            "2 œufs",
-            "100 ml de crème fraîche",
-            "100 g de fromage râpé"
-        ],
-        "etapes": [
-            "Faire revenir les poireaux émincés dans un peu de beurre.",
-            "Battre les œufs avec la crème fraîche et le fromage. Ajouter les poireaux.",
-            "Verser dans les fonds de tartelette et cuire 20 min au four à 180°C."
-        ],
-        "conseils": [
-            "Ajoutez une pincée de noix de muscade pour plus de saveur."
-        ],
-        "valeurs_nutritives": {
-            "Calories": "200 kcal",
-            "Protéines": "8 g",
-            "Glucides": "15 g",
-            "Lipides": "12 g"
-        },
-        "conservation": "24h au réfrigérateur"
-    },
-    {
         "nom": "Curry de Pois Chiches et Épinards",
         "cat": "plat végétarien",
         "description": "Un curry végétarien riche en saveurs, parfait pour un dîner réconfortant.",
@@ -5444,75 +5409,6 @@
         "conservation": "24h au réfrigérateur"
     },
     {
-        "nom": "Gâteau au Yaourt et Citron",
-        "cat": "goûter",
-        "description": "Un gâteau moelleux et parfumé, idéal pour un goûter simple et délicieux.",
-        "image": "/cuisine/img/gateau_yaourt_citron.jpg",
-        "temps_total": "45 min",
-        "temps_preparation": "15 min",
-        "temps_cuisson": "30 min",
-        "difficulte": "Facile",
-        "cout": "Économique",
-        "cout_precis": "5€",
-        "portions": "8",
-        "ingredients": [
-            "1 pot de yaourt nature",
-            "3 pots de farine",
-            "2 pots de sucre",
-            "1/2 pot d'huile",
-            "2 œufs",
-            "1 citron (zeste et jus)"
-        ],
-        "etapes": [
-            "Mélanger le yaourt, la farine, le sucre, l'huile, les œufs, le zeste et le jus de citron.",
-            "Verser dans un moule et cuire 30 min au four à 180°C."
-        ],
-        "conseils": [
-            "Saupoudrez de sucre glace avant de servir."
-        ],
-        "valeurs_nutritives": {
-            "Calories": "200 kcal",
-            "Protéines": "4 g",
-            "Glucides": "30 g",
-            "Lipides": "8 g"
-        },
-        "conservation": "3 jours dans une boîte hermétique"
-    },
-    {
-        "nom": "Muffins aux Myrtilles",
-        "cat": "goûter",
-        "description": "Des muffins moelleux et fruités, parfaits pour un goûter sain.",
-        "image": "/cuisine/img/muffins_myrtilles.jpg",
-        "temps_total": "35 min",
-        "temps_preparation": "15 min",
-        "temps_cuisson": "20 min",
-        "difficulte": "Facile",
-        "cout": "Économique",
-        "cout_precis": "7€",
-        "portions": "12",
-        "ingredients": [
-            "200 g de farine",
-            "100 g de sucre",
-            "1 œuf",
-            "100 ml de lait",
-            "100 g de myrtilles"
-        ],
-        "etapes": [
-            "Mélanger la farine, le sucre, l'œuf et le lait. Incorporer les myrtilles.",
-            "Verser dans des moules à muffins et cuire 20 min au four à 180°C."
-        ],
-        "conseils": [
-            "Ajoutez des flocons d'avoine pour plus de texture."
-        ],
-        "valeurs_nutritives": {
-            "Calories": "150 kcal",
-            "Protéines": "3 g",
-            "Glucides": "25 g",
-            "Lipides": "5 g"
-        },
-        "conservation": "3 jours dans une boîte hermétique"
-    },
-    {
         "nom": "Tarte au Caramel Beurre Salé",
         "cat": "goûter",
         "description": "Une tarte gourmande et réconfortante, parfaite pour les amateurs de caramel.",
@@ -6132,40 +6028,6 @@
             "Protéines": "15 g",
             "Glucides": "40 g",
             "Lipides": "8 g"
-        },
-        "conservation": "3 jours au réfrigérateur"
-    },
-    {
-        "nom": "Tagine de Poulet aux Olives et Citron Confit",
-        "cat": "dîner",
-        "description": "Un plat marocain parfumé et savoureux, parfait pour un dîner exotique.",
-        "image": "/cuisine/img/tagine_poulet_olives_citron.jpg",
-        "temps_total": "1h30",
-        "temps_preparation": "20 min",
-        "temps_cuisson": "1h10",
-        "difficulte": "Moyen",
-        "cout": "Moyen",
-        "cout_precis": "15€",
-        "portions": "4",
-        "ingredients": [
-            "8 morceaux de poulet",
-            "2 oignons",
-            "2 gousses d'ail",
-            "150 g d'olives vertes",
-            "2 citrons confits"
-        ],
-        "etapes": [
-            "Faire revenir le poulet avec les oignons et l'ail. Ajouter les olives et les citrons confits.",
-            "Laisser mijoter 1h à feu doux."
-        ],
-        "conseils": [
-            "Servez avec de la semoule pour une expérience authentique."
-        ],
-        "valeurs_nutritives": {
-            "Calories": "400 kcal",
-            "Protéines": "35 g",
-            "Glucides": "10 g",
-            "Lipides": "25 g"
         },
         "conservation": "3 jours au réfrigérateur"
     },
