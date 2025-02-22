@@ -312,6 +312,7 @@
             <span>🍳 Cuisine étudiante</span>
         </nav>
         <button class="dark-mode-toggle" id="dark-mode-toggle">🌙</button>
+        <button class="filter-toggle" id="filter-toggle">🔍 Filtres</button>
     </header>
 
     <!-- Section de filtres/recherche (cachée par défaut) -->
@@ -399,7 +400,7 @@
         // Enregistrer dans un cookie (valide 30 jours)
         document.cookie = `darkMode=${isDarkMode}; path=/; max-age=${30 * 24 * 60 * 60}`;
     });
-        
+
             // Gestion des filtres et de la recherche
             const filterToggle = document.getElementById('filter-toggle');
             const filtersSection = document.getElementById('filters-section');
@@ -410,9 +411,9 @@
             const recettesContainer = document.getElementById('recettes-container');
             const modal = document.getElementById('modal');
             const closeModal = document.getElementById('close-modal');
-        
+
             let recettes = []; // Stocker les recettes chargées
-        
+
             // Afficher/masquer la section de filtres
             filterToggle.addEventListener('click', () => {
                 filtersSection.style.display = filtersSection.style.display === 'none' ? 'block' : 'none';
