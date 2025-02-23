@@ -8492,5 +8492,84 @@
             "Lipides": "10 g"
         },
         "conservation": "À consommer immédiatement"
+    },
+    {
+        "nom": "Brisket au four façon Texane",
+        "cat": "plat",
+        "description": "Une recette de brisket cuisiné au four, inspirée de la tradition texane, sans fumoir. Parfait pour des wraps ou accompagné de crudités.",
+        "image": "/cuisine/img/brisket.jpg",
+        "temps_total": "8h",
+        "temps_preparation": "20 min",
+        "temps_cuisson": "8h",
+        "difficulte": "moyen",
+        "cout": "moyen",
+        "cout_precis": "environ 25€ pour 5 repas",
+        "portions": "5",
+        "ingredients": [
+            "1,5 à 2 kg de poitrine de bœuf (brisket)",
+            "2 Cs de sel",
+            "2 Cs de poivre noir moulu",
+            "1 Cs de paprika fumé",
+            "1 Cs de sucre brun",
+            "1 Cs de poudre d’ail",
+            "1 Cs de poudre d’oignon",
+            "1 Cs de moutarde en poudre",
+            "1 Cs de sauce Worcestershire",
+            "2 Cs d’huile d’olive",
+            "2 Cs de liquide fumé (optionnel)",
+            "200 ml de bouillon de bœuf"
+        ],
+        "etapes": [
+            "Mélange toutes les épices dans un bol.",
+            "Badigeonne la viande d’huile d’olive et de sauce Worcestershire, puis recouvre-la généreusement du mélange d’épices. Masse bien et laisse mariner une nuit au frigo.",
+            "Préchauffe le four à 120°C.",
+            "Enfourne la viande pendant 4 heures.",
+            "Après 4 heures, trempe la viande dans le bouillon de bœuf, puis enveloppe-la dans du papier aluminium.",
+            "Remets-la au four pour 4 heures supplémentaires.",
+            "À la fin de la cuisson, découpe la viande à contre-sens des fibres musculaires pour une texture parfaite."
+        ],
+        "conseils": [
+            "Laisse la viande reposer 10 minutes avant de la découper.",
+            "Servez-la dans des wraps avec des crudités pour un repas complet."
+        ],
+        "valeurs_nutritives": {},
+        "conservation": "3 jours au frigo ou congélation possible"
+    },
+    {
+        "nom": "Faux-filet grillé au beurre persillé",
+        "cat": "plat",
+        "description": "Un faux-filet grillé, accompagné d’un beurre persillé maison et d’échalotes caramélisées. Parfait pour les amateurs de viande gourmande.",
+        "image": "/cuisine/img/faux-filet.jpg",
+        "temps_total": "45 min",
+        "temps_preparation": "15 min",
+        "temps_cuisson": "30 min",
+        "difficulte": "facile",
+        "cout": "élevé",
+        "cout_precis": "environ 30€ pour 4 personnes",
+        "portions": "4",
+        "ingredients": [
+            "3/4 beaux faux-filets de bœuf",
+            "60 g de beurre doux",
+            "4 Cs d’huile d’olive",
+            "12 échalotes",
+            "3 gousses d’ail",
+            "Quelques branches de romarin",
+            "Quelques brins de persil frais",
+            "Sel & poivre noir"
+        ],
+        "etapes": [
+            "Prépare le beurre persillé : écrase le beurre à la fourchette, ajoute le persil haché et l’ail écrasé. Mélange bien et réserve au frigo.",
+            "Préchauffe le four à 180°C.",
+            "Épluche et coupe les échalotes en deux. Dispose-les sur une plaque, arrose d’huile d’olive, sale, poivre et ajoute 2 branches de romarin. Enfourne pendant 15 minutes jusqu’à ce qu’elles soient fondantes.",
+            "Pendant ce temps, fais chauffer une poêle avec un peu d’huile d’olive. Saisis les faux-filets 2-3 minutes de chaque côté à feu vif.",
+            "Baisse le feu, ajoute le beurre persillé et une branche de romarin dans la poêle. Arrose la viande avec le beurre fondu pendant 1-2 minutes.",
+            "Sers les faux-filets avec les échalotes caramélisées et des patates rôties."
+        ],
+        "conseils": [
+            "Laisse la viande reposer 5 minutes avant de servir pour garder son jus.",
+            "Pour une cuisson parfaite, utilise une sonde à viande : 55°C pour saignant, 60°C pour à point."
+        ],
+        "valeurs_nutritives": {},
+        "conservation": "2 jours au frigo"
     }
 ]
