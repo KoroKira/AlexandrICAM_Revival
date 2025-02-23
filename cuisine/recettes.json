@@ -1,8 +1,8 @@
 [
     {
-        "nom": "Conseils pratiques",
+        "nom": "Conseils généraux",
         "cat": "conseils",
-        "description": "Quelques astuces et infos utiles",
+        "description": "Astuces pour les courses et la cuisine au quotidien",
         "image": "/cuisine/img/michel.jpg",
         "temps_total": "N/A",
         "temps_preparation": "N/A",
@@ -15,7 +15,7 @@
         "etapes": [],
         "conseils": [
             "ATTENTION: ne pas recongeler un produit décongelé",
-            "En course, ne, JAMAIS, faire ses courses le ventre vide, ça donne envie de tout acheter",
+            "En course, ne JAMAIS faire ses courses le ventre vide, ça donne envie de tout acheter",
             "Faites une liste de course et focus dessus pour éviter les écarts et achats inutiles",
             "Pour économiser, achetez un poulet entier et démembrez-le vous-même.",
             "Acheter en grosse quantité permet de vite économiser, mais attention il arrive qu'on ait des mauvaises surprises",
@@ -28,13 +28,77 @@
             "Investissez dans des produits de base de qualité pour une meilleure durabilité",
             "Faites des conserves et des bocaux pour les légumes et les fruits de saison",
             "Préférez les aliments complets et bruts pour une meilleure santé",
-            "Évitez les plats préparés et les fast-foods pour des économies à long terme",
+            "Évitez les plats préparés et les fast-foods pour des économies à long terme"
+        ],
+        "valeurs_nutritives": {},
+        "conservation": "N/A"
+    },
+    {
+        "nom": "Meal Prep et conservation",
+        "cat": "conseils",
+        "description": "Conseils pour préparer et conserver ses repas",
+        "image": "/cuisine/img/michel.jpg",
+        "temps_total": "N/A",
+        "temps_preparation": "N/A",
+        "temps_cuisson": "N/A",
+        "difficulte": "N/A",
+        "cout": "N/A",
+        "cout_precis": "N/A",
+        "portions": "N/A",
+        "ingredients": [],
+        "etapes": [],
+        "conseils": [
             "Pour les meal prep:",
-            "Les légumes ça se conserve 4/5 jours dans un contenant hermétique au frais, avec un filet de citron et sans assaisonnement",
-            "Les poissons/viandes/oeufs se conservent 3/4 jours au frigo, dans un contenant hermétique, à séparer des glucides, et congelable",
-            "Les glucides/pâtes/riz/patates se conservent 3/4 jours, dans un contenant hermétique au frais, avec matière grasse mais sans sauce, et congelable",
-            "Avant tout surtout, faire confiance à ses yeux et son nez pour savoir si un aliment est encore bon à consommer",
-            "Tes meal prep surtout, fais les séparées: un tupp de viande, un tupp de féculent, un tupp de légumes. Pourquoi ? Comme ça les combinaisons de plat sont infinies"
+            "Les légumes se conservent 4/5 jours dans un contenant hermétique au frais, avec un filet de citron et sans assaisonnement",
+            "Les poissons/viandes/oeufs se conservent 3/4 jours au frigo, dans un contenant hermétique, à séparer des glucides, et congelables",
+            "Les glucides/pâtes/riz/patates se conservent 3/4 jours, dans un contenant hermétique au frais, avec matière grasse mais sans sauce, et congelables",
+            "Avant tout, faites confiance à vos yeux et votre nez pour savoir si un aliment est encore bon à consommer",
+            "Faites vos meal prep séparément : un tupp de viande, un tupp de féculent, un tupp de légumes. Pourquoi ? Comme ça les combinaisons de plat sont infinies"
+        ],
+        "valeurs_nutritives": {},
+        "conservation": "N/A"
+    },
+    {
+        "nom": "Trouver ses commerçants",
+        "cat": "conseils",
+        "description": "Conseils pour découvrir et fidéliser ses commerçants locaux",
+        "image": "/cuisine/img/michel.jpg",
+        "temps_total": "N/A",
+        "temps_preparation": "N/A",
+        "temps_cuisson": "N/A",
+        "difficulte": "N/A",
+        "cout": "N/A",
+        "cout_precis": "N/A",
+        "portions": "N/A",
+        "ingredients": [],
+        "etapes": [],
+        "conseils": [
+            "Allez au marché et discutez avec les commerçants pour créer du lien.",
+            "Devenez un client fidèle pour bénéficier de prix avantageux.",
+            "Choisissez des commerçants qui vous inspirent confiance.",
+            "Privilégiez les marchés locaux pour des produits frais et de qualité."
+        ],
+        "valeurs_nutritives": {},
+        "conservation": "N/A"
+    },
+    {
+        "nom": "Cuisiner avec de l’inox",
+        "cat": "conseils",
+        "description": "Astuces pour utiliser et entretenir les ustensiles en inox",
+        "image": "/cuisine/img/michel.jpg",
+        "temps_total": "N/A",
+        "temps_preparation": "N/A",
+        "temps_cuisson": "N/A",
+        "difficulte": "N/A",
+        "cout": "N/A",
+        "cout_precis": "N/A",
+        "portions": "N/A",
+        "ingredients": [],
+        "etapes": [],
+        "conseils": [
+            "Testez la chaleur de votre poêle avec une goutte d’eau : si elle rebondit et ne s’évapore pas, c’est prêt.",
+            "Nettoyez les taches avec une éponge en fil de fer ou du bicarbonate de soude laissé toute une nuit.",
+            "Optez pour des poêles en inox de qualité, comme les Lagostina, pour une cuisson efficace."
         ],
         "valeurs_nutritives": {},
         "conservation": "N/A"
