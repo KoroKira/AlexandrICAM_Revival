@@ -105,7 +105,7 @@
     },
     {
         "nom": "Pâtes à la Carbonara Étudiante",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Version économique et savoureuse de la carbonara, parfaite pour les étudiants.",
         "image": "/cuisine/img/carbonara.jpg",
         "temps_total": "20 minutes",
@@ -149,7 +149,7 @@
     },
     {
         "nom": "Buddha Bowl Économique",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un repas équilibré et coloré qui ne ruine pas le porte-monnaie.",
         "image": "/cuisine/img/buddha-bowl.jpg",
         "temps_total": "30 minutes",
@@ -195,7 +195,7 @@
     },
     {
         "nom": "Omelette aux Légumes du Placard",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Une recette rapide et personnalisable selon vos ingrédients disponibles.",
         "image": "/cuisine/img/omelette.jpg",
         "temps_total": "15 minutes",
@@ -239,7 +239,7 @@
     },
     {
         "nom": "Curry de Lentilles Express",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un plat réconfortant, riche en protéines et très économique.",
         "image": "/cuisine/img/curry-lentilles.jpg",
         "temps_total": "25 minutes",
@@ -287,7 +287,7 @@
     },
     {
         "nom": "Salade de Quinoa Méditerranéenne",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Une salade fraîche et nourrissante, parfaite pour les repas à emporter.",
         "image": "/cuisine/img/salade-quinoa.jpg",
         "temps_total": "25 minutes",
@@ -334,7 +334,7 @@
     },
     {
         "nom": "Wraps Végétariens aux Haricots Noirs",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Des wraps healthy et rassasiants, parfaits pour un repas sur le pouce.",
         "image": "/cuisine/img/wraps-vegetariens.jpg",
         "temps_total": "20 minutes",
@@ -382,7 +382,7 @@
     },
     {
         "nom": "Soupe de Légumes Express au Curry",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Une soupe réconfortante et épicée, prête en un rien de temps.",
         "image": "/cuisine/img/soupe-legumes.jpg",
         "temps_total": "25 minutes",
@@ -429,7 +429,7 @@
     },
     {
         "nom": "Bowl de Riz au Thon",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un repas rapide, équilibré et économique qui fait toujours l'affaire.",
         "image": "/cuisine/img/bowl-thon.jpg",
         "temps_total": "15 minutes",
@@ -476,7 +476,7 @@
     },
     {
         "nom": "Croque-Monsieur au Four",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Version au four du célèbre sandwich, plus léger et croustillant.",
         "image": "/cuisine/img/croque-monsieur.jpg",
         "temps_total": "20 minutes",
@@ -522,7 +522,7 @@
     },
     {
         "nom": "Taboulé de Chou-Fleur",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Version légère et sans gluten du taboulé traditionnel.",
         "image": "/cuisine/img/taboule-choufleur.jpg",
         "temps_total": "20 minutes",
@@ -571,7 +571,7 @@
     },
     {
         "nom": "Gnocchis à la Crème de Champignons",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un plat réconfortant et crémeux prêt en quelques minutes.",
         "image": "/cuisine/img/gnocchis-champignons.jpg",
         "temps_total": "20 minutes",
@@ -619,9 +619,9 @@
     },
     {
         "nom": "Falafels Maison",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Des falafels croustillants et sains, parfaits dans un sandwich ou une salade.",
-        "categorie": "Plat principal",
+        "categorie": "plat",
         "image": "/cuisine/img/falafels.jpg",
         "temps_total": "40 minutes",
         "temps_preparation": "20 minutes",
@@ -668,7 +668,7 @@
     },
     {
         "nom": "Velouté de Potimarron aux Épices",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Une entrée réconfortante aux saveurs automnales.",
         "categorie": "Entrée",
         "image": "/cuisine/img/veloute-potimarron.jpg",
@@ -716,7 +716,7 @@
     },
     {
         "nom": "Mug Cake au Chocolat",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un dessert gourmand prêt en 5 minutes chrono !",
         "categorie": "Dessert",
         "image": "/cuisine/img/mugcake-chocolat.jpg",
@@ -762,7 +762,7 @@
     },
     {
         "nom": "Houmous aux Betteraves",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Une version colorée et originale du houmous classique.",
         "categorie": "Entrée",
         "image": "/cuisine/img/houmous-betterave.jpg",
@@ -809,7 +809,7 @@
     },
     {
         "nom": "Brownie aux Haricots Noirs",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Version healthy et protéinée du brownie classique.",
         "categorie": "Dessert",
         "image": "/cuisine/img/brownie-haricots.jpg",
@@ -856,7 +856,7 @@
     },
     {
         "nom": "Jarret de bœuf aux pruneaux",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un plat mijoté savoureux et réconfortant, parfait pour les repas en famille ou entre amis. Le jarret de bœuf, tendre et fondant, se marie à merveille avec les pruneaux et les légumes.",
         "image": "/cuisine/img/jarret-pruneaux.jpg",
         "temps_total": "3 heures",
@@ -907,7 +907,7 @@
     },
     {
         "nom": "Entrecôtes sauce au bleu, purée de patate douce et poêlée de champignons",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un repas gourmand et équilibré, alliant la richesse des entrecôtes, la douceur de la purée de patate douce et la saveur d'une poêlée de champignons. Parfait pour les amateurs de viande et de fromage.",
         "image": "/cuisine/img/entrecote_bleu.jpg",
         "temps_total": "1 heure",
@@ -968,7 +968,7 @@
     },
     {
         "nom": "Poulet Teriyaki avec brocoli et riz",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Une version simple et rapide du poulet teriyaki, idéale pour un meal prep. Prêt en 30 minutes à 1 heure pour 5 à 10 repas.",
         "image": "/cuisine/img/poulet_teriyaki.jpg",
         "temps_total": "1 heure",
@@ -1017,7 +1017,7 @@
     },
     {
         "nom": "Épaule d'agneau au porto",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un plat mijoté riche en saveurs, où l'agneau est cuit lentement avec du porto pour une viande tendre et fondante. Parfait pour un repas entre amis.",
         "image": "/cuisine/img/agneau_au_porto.jpg",
         "temps_total": "4 heures",
@@ -1063,7 +1063,7 @@
     },
     {
         "nom": "Cote de boeuf au cognac",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Je vais pas passer par 4 chemins, tout ce qui compte, c'est que tu me la rates pas celle-là. Donc on se concentre, focus sur la cuisson, et on boit après la recette, pas pendant. Bon après ça a jamais tué personne de gouter au produit…",
         "image": "/cuisine/img/cote_de_boeuf_au_cognac.jpg",
         "temps_total": "1h30",
@@ -1104,7 +1104,7 @@
     },
     {
         "nom": "Club Crevette",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Je sais pas si c’est le meilleur choix pour un repas de St-Valentin, mais c’est très bon et simple à faire. Je le vends bien pas vrai ? Dis que je le vends bien.",
         "image": "/cuisine/img/club_crevette.jpg",
         "temps_total": "45 min",
@@ -1148,7 +1148,7 @@
     },
     {
         "nom": "Tripes de BP",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un bon gros plat de brute, la recette vient de chez Bonne Pitance. C’est à gouter au moins une fois. Certains adorent, d’autres détestent, moi je dirai qu’après 8h de cuisson, tout se mange.",
         "image": "/cuisine/img/tripes_de_bp.jpg",
         "temps_total": "8h",
@@ -1190,7 +1190,7 @@
     },
     {
         "nom": "Pâtes aux Crevettes",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Les petites pâtes à l’encre de seiche, elles font leur petit effet gamin. Du gout à l’esthétique, c’est un 10/10.",
         "image": "/cuisine/img/pates_aux_crevettes.jpg",
         "temps_total": "30 min",
@@ -1229,7 +1229,7 @@
     },
     {
         "nom": "Ragout de Bœuf",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un Meal prep ou un festin, pas cher, bon à crever et facile à faire. C’est plus une recette c’est une leçon d’humilité.",
         "image": "/cuisine/img/ragout_de_boeuf.jpg",
         "temps_total": "6h",
@@ -1273,7 +1273,7 @@
     },
     {
         "nom": "Saumon Gravlax",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "T’as été missionné de faire une partie du repas de Noël ou t’as juste envie de te faire kiffer, c’est cadeau.",
         "image": "/cuisine/img/saumon_gravlax.jpg",
         "temps_total": "48h",
@@ -1318,7 +1318,7 @@
     },
     {
         "nom": "Chicken Teriyaki",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un classique parmi les classiques. Du poulet nappé de sauce teriyaki maison, des brocolis rôtis croustillants et du riz jasmin bien parfumé. Facile à préparer, parfait pour 5 repas et validé par les estomacs affamés.",
         "image": "/cuisine/img/poulet_teriyaki.jpg",
         "temps_total": "45 min",
@@ -1408,7 +1408,7 @@
     },
     {
         "nom": "Calamars Tequila",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un plat qui sent bon le soleil, l’audace, et la cuite aussi. Avec des calamars grillés marinés à la tequila et un riz pilaf acidulé pour l’accompagner. Parfait pour une soirée entre potes où on sort les tentacules et les flammes (sans cramer la baraque, promis).",
         "image": "/cuisine/img/calamar_tequila.jpg",
         "temps_total": "1h30",
@@ -1459,7 +1459,7 @@
     },
     {
         "nom": "Agneau au Porto",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un plat pour les vrais gourmands : de l’agneau mijoté dans du porto, servi avec une purée maison ou des pâtes fraiches. C’est généreux, c’est bonne ambiance, et ça garantit des invitations à dîner toutes les semaines. En plus le porto, c’est un banger, c’est normal c’est portugais.",
         "image": "/cuisine/img/agneau_au_porto.jpg",
         "temps_total": "2h30",
@@ -1506,7 +1506,7 @@
     },
     {
         "nom": "Tortilla au Boeuf Mariné",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Une recette pour ceux qui veulent des repas prêts à déguster après une longue journée. Bœuf mariné, légumes frais, tortillas chaudes et une sauce à l’ail qui tabasse. Rapide à assembler, parfait pour la semaine de taff !",
         "image": "/cuisine/img/tortilla_boeuf_marine.jpg",
         "temps_total": "1h30",
@@ -1602,7 +1602,7 @@
     },
     {
         "nom": "Canard au Génépi",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Une viande tendre cuite dans sa propre graisse, une sauce au Génépi qui fait chanter les papilles, et des patates dorées au persil. Simple, efficace, et parfait pour impressionner.",
         "image": "/cuisine/img/canard_au_genepi.jpg",
         "temps_total": "1h30",
@@ -1649,7 +1649,7 @@
     },
     {
         "nom": "Boeuf au Calva",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un bon tournedos saignant (obligatoire), une sauce au calva flambé pour que tu te sentes un peu pyromane, et des pommes fondantes pour le petit twist sucré-salé. À partager entre potes ou à sortir pour impressionner ton prochain date.",
         "image": "/cuisine/img/boeuf_au_calva.jpg",
         "temps_total": "1h",
@@ -1738,7 +1738,7 @@
     },
     {
         "nom": "Gua Bao",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Les fameux petits pains vapeur asiatiques, et comme je suis sympa, je t’ai mit 2 garnitures, porc caramélisé ou aubergines épicées. Parfait pour un date qui claque.",
         "image": "/cuisine/img/gua_bao.jpg",
         "temps_total": "2h",
@@ -1794,7 +1794,7 @@
     },
     {
         "nom": "Barbecue & Pastèque",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Bon c’est pas compliqué, je t’ai fait un top 3 de mes viandes préférées (j’ai évidement enlevé le bœuf qui est premier de loin). Et on se met une petite salade de pastèque pour la fraicheur qui fait bien plaisir en été.",
         "image": "/cuisine/img/barbecue_pasteque.jpg",
         "temps_total": "1h30",
@@ -1858,7 +1858,7 @@
     },
     {
         "nom": "Brochettes de Poulet Citronnées",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Des brochettes de poulet marinées au citron et thym, accompagnées d’une salade avec des nectarines rôties. Simple, frais, et parfait pour ton prochain date ou ton BBQ entre potes.",
         "image": "/cuisine/img/brochettes_poulet_citronnees.jpg",
         "temps_total": "1h",
@@ -1901,7 +1901,7 @@
     },
     {
         "nom": "Riz Poulet Coco Express",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Stop le riz-thon tristesse. Ce plat, c’est du riz parfumé, du poulet juteux, une sauce au lait de coco et le croquant des cacahuètes. Simple, rapide, mais surtout, ça a de la gueule.",
         "image": "/cuisine/img/riz_poulet_coco_express.jpg",
         "temps_total": "45 min",
@@ -1940,7 +1940,7 @@
     },
     {
         "nom": "Pique-nique de Date",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Les cinés claqués et les plans foireux, on a connu ça. Le Pique-nique c’est le plan parfait, t’as le temps de parler, tu marques des points avec le repas et avec un peu de chance il fait beau. Roi du game assuré.",
         "image": "/cuisine/img/pic_nique_de_date.jpg",
         "temps_total": "1h",
@@ -2636,7 +2636,7 @@
     },
     {
         "nom": "Risotto aux Champignons et Parmesan",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un risotto crémeux et réconfortant, parfait pour un dîner élégant.",
         "image": "/cuisine/img/risotto_champignons_parmesan.jpg",
         "temps_total": "45 min",
@@ -2673,7 +2673,7 @@
     },
     {
         "nom": "Tajine de Poulet aux Olives et Citron Confit",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un plat marocain parfumé, alliant saveurs sucrées et salées.",
         "image": "/cuisine/img/tajine_poulet_olives_citron.jpg",
         "temps_total": "1h30",
@@ -2714,7 +2714,7 @@
     },
     {
         "nom": "Lasagnes Végétariennes aux Épinards et Ricotta",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Des lasagnes légères et savoureuses, idéales pour un repas végétarien.",
         "image": "/cuisine/img/lasagnes_epinards_ricotta.jpg",
         "temps_total": "1h",
@@ -2751,7 +2751,7 @@
     },
     {
         "nom": "Burger de Lentilles et Avocat",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un burger végétarien gourmand et sain.",
         "image": "/cuisine/img/burger_lentilles_avocat.jpg",
         "temps_total": "40 min",
@@ -2787,7 +2787,7 @@
     },
     {
         "nom": "Poulet Tikka Masala",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un plat indien épicé et savoureux, parfait pour un dîner exotique.",
         "image": "/cuisine/img/poulet_tikka_masala.jpg",
         "temps_total": "1h",
@@ -2825,7 +2825,7 @@
     },
     {
         "nom": "Tartiflette Light",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Une version allégée de la tartiflette, tout aussi savoureuse.",
         "image": "/cuisine/img/tartiflette_light.jpg",
         "temps_total": "1h",
@@ -2861,7 +2861,7 @@
     },
     {
         "nom": "Paëlla aux Fruits de Mer",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un plat espagnol coloré et savoureux, parfait pour les amateurs de fruits de mer.",
         "image": "/cuisine/img/paella_fruits_de_mer.jpg",
         "temps_total": "1h",
@@ -2898,7 +2898,7 @@
     },
     {
         "nom": "Gratin Dauphinois",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un classique français, onctueux et réconfortant.",
         "image": "/cuisine/img/gratin_dauphinois.jpg",
         "temps_total": "1h30",
@@ -2934,7 +2934,7 @@
     },
     {
         "nom": "Quiche Lorraine",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Une quiche traditionnelle, riche et savoureuse.",
         "image": "/cuisine/img/quiche_lorraine.jpg",
         "temps_total": "1h",
@@ -2969,7 +2969,7 @@
     },
     {
         "nom": "Ratatouille Provençale",
-        "cat": "plat principal",
+        "cat": "plat",
         "description": "Un plat méditerranéen coloré et parfumé.",
         "image": "/cuisine/img/ratatouille_provencale.jpg",
         "temps_total": "1h30",
