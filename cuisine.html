@@ -321,9 +321,19 @@
         <div class="filters">
             <select id="filter-category">
                 <option value="">Toutes les catégories</option>
-                <option value="Végétarien">Végétarien</option>
-                <option value="Rapide">Rapide</option>
-                <option value="Économique">Économique</option>
+                <option value="conseils">Conseils</option>
+                <option value="plat principal">Plat Principal</option>
+                <option value="dessert">Dessert</option>
+                <option value="entrée">Entrée</option>
+                <option value="plat">Plat</option>
+                <option value="petit-déjeuner">Petit-déjeuner</option>
+                <option value="collation">Collation</option>
+                <option value="boisson">Boisson</option>
+                <option value="apéritif">Apéritif</option>
+                <option value="plat végétarien">Plat Végétarien</option>
+                <option value="déjeuner">Déjeuner</option>
+                <option value="goûter">Goûter</option>
+                <option value="dîner">Dîner</option>
             </select>
             <select id="filter-difficulty">
                 <option value="">Toutes les difficultés</option>
@@ -333,9 +343,11 @@
             </select>
             <select id="filter-time">
                 <option value="">Tous les temps</option>
-                <option value="15">15 min</option>
-                <option value="15-30">15-30 min</option>
-                <option value="30">30 min</option>
+                <option value="lessThan15">Moins de 15 minutes</option>
+                <option value="15to30">15 à 30 minutes</option>
+                <option value="30to60">30 minutes à 1 heure</option>
+                <option value="1to4">1 heure à 4 heures</option>
+                <option value="moreThan4">Plus de 4 heures</option>
             </select>
         </div>
     </div>
@@ -394,12 +406,10 @@
             // Basculer le mode sombre
             darkModeToggle.addEventListener('click', () => {
                 body.classList.toggle('dark-mode');
-        const isDarkMode = body.classList.contains('dark-mode');
-        darkModeToggle.textContent = isDarkMode ? '☀️' : '🌙';
-        
-        // Enregistrer dans un cookie (valide 30 jours)
-        document.cookie = `darkMode=${isDarkMode}; path=/; max-age=${30 * 24 * 60 * 60}`;
-    });
+                const isDarkMode = body.classList.contains('dark-mode');
+                darkModeToggle.textContent = isDarkMode ? '☀️' : '🌙';
+                document.cookie = `darkMode=${isDarkMode}; path=/; max-age=${30 * 24 * 60 * 60}`;
+            });
 
             // Gestion des filtres et de la recherche
             const filterToggle = document.getElementById('filter-toggle');
@@ -431,25 +441,40 @@
             // Fonction pour filtrer les recettes
             function filtrerRecettes() {
                 const searchTerm = searchBar.value.toLowerCase();
-                const category = filterCategory.value;
-                const difficulty = filterDifficulty.value;
-                const time = filterTime.value;
-            
-                const recettesFiltrees = recettes.filter(recette => {
+                const selectedCategory = filterCategory.value;
+                const selectedDifficulty = filterDifficulty.value;
+                const selectedTime = filterTime.value;
+
+                const filteredRecettes = recettes.filter(recette => {
                     const matchesSearch = recette.nom.toLowerCase().includes(searchTerm) ||
                                          recette.description.toLowerCase().includes(searchTerm);
-                    const matchesCategory = category ? recette.cat === category : true;
-                    const matchesDifficulty = difficulty ? recette.difficulte === difficulty : true;
-                    const matchesTime = time ? (
-                        time === '<15' && parseInt(recette.temps_total) < 15 ||
-                        time === '15-30' && parseInt(recette.temps_total) >= 15 && parseInt(recette.temps_total) <= 30 ||
-                        time === '>30' && parseInt(recette.temps_total) > 30
-                    ) : true;
-                
+                    const matchesCategory = selectedCategory ? recette.cat === selectedCategory : true;
+                    const matchesDifficulty = selectedDifficulty ? recette.difficulte === selectedDifficulty : true;
+                    const matchesTime = selectedTime ? checkTimeCategory(recette.temps_total, selectedTime) : true;
+
                     return matchesSearch && matchesCategory && matchesDifficulty && matchesTime;
                 });
-            
-                afficherRecettes(recettesFiltrees);
+
+                afficherRecettes(filteredRecettes);
+            }
+
+            // Fonction pour vérifier la catégorie de temps
+            function checkTimeCategory(tempsTotal, selectedTime) {
+                const temps = parseInt(tempsTotal); // Extraire le nombre de minutes
+                switch (selectedTime) {
+                    case 'lessThan15':
+                        return temps < 15;
+                    case '15to30':
+                        return temps >= 15 && temps <= 30;
+                    case '30to60':
+                        return temps > 30 && temps <= 60;
+                    case '1to4':
+                        return temps > 60 && temps <= 240;
+                    case 'moreThan4':
+                        return temps > 240;
+                    default:
+                        return true;
+                }
             }
         
             // Appliquer les filtres lors de la saisie ou de la sélection
@@ -549,5 +574,4 @@
             });
         });
     </script>
-</body>
-</html>
+</body></html>
