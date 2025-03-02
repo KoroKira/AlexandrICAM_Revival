@@ -8571,5 +8571,1198 @@
         ],
         "valeurs_nutritives": {},
         "conservation": "2 jours au frigo"
+    },
+    {
+      "nom": "Wrap improvisé du frigo",
+      "cat": "plat",
+      "description": "Une composition créative pour recycler les restes dans un wrap gourmand. Fromage blanc et charcuterie s'associent pour un repas rapide et personnalisable.",
+      "image": "/cuisine/img/wrap-frigo.jpg",
+      "temps_total": "15 min",
+      "temps_preparation": "15 min",
+      "temps_cuisson": "0 min",
+      "difficulte": "facile",
+      "cout": "faible",
+      "cout_precis": "environ 3€ par personne",
+      "portions": "1",
+      "ingredients": [
+        "4 wraps",
+        "2 petites laitues",
+        "100g de charcuterie ou restes de viande",
+        "100g de fromage blanc",
+        "Herbes aromatiques au choix",
+        "1 c. à soupe d'huile d'olive",
+        "1 c. à soupe de vinaigre",
+        "Sel et poivre"
+      ],
+      "etapes": [
+        "Hacher finement la laitue et les herbes",
+        "Émincer la viande si nécessaire",
+        "Mélanger tous les ingrédients dans un bol avec le fromage blanc",
+        "Assaisonner avec huile, vinaigre, sel et poivre",
+        "Répartir la préparation dans les wraps et rouler"
+      ],
+      "conseils": [
+        "Ajouter des crudités pour plus de croquant",
+        "Varier les vinaigres pour des saveurs différentes"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "À consommer immédiatement"
+    },
+    {
+      "nom": "Bœuf Bourguignon traditionnel",
+      "cat": "plat",
+      "description": "Un classique de la cuisine française où le bœuf mijote lentement dans une sauce au vin rouge, accompagné de carottes et d'oignons fondants.",
+      "image": "/cuisine/img/boeuf-bourguignon.jpg",
+      "temps_total": "4h",
+      "temps_preparation": "1h",
+      "temps_cuisson": "3h",
+      "difficulte": "moyen",
+      "cout": "moyen",
+      "cout_precis": "environ 20€ pour 4 personnes",
+      "portions": "4",
+      "ingredients": [
+        "800g de paleron de bœuf",
+        "3 carottes",
+        "2 oignons",
+        "2 gousses d'ail",
+        "50cl de vin rouge",
+        "1 bouquet garni",
+        "1 cuillère à soupe de farine",
+        "1 cuillère à soupe de gelée de groseille"
+      ],
+      "etapes": [
+        "Mariner la viande 12h avec vin, légumes et aromates",
+        "Faire revenir la viande dans une cocotte",
+        "Saupoudrer de farine et mélanger",
+        "Ajouter la marinade filtrée et compléter avec de l'eau",
+        "Laisser mijoter à feu doux 3h",
+        "Incorporer la gelée de groseille en fin de cuisson"
+      ],
+      "conseils": [
+        "Préparer la veille pour plus de saveurs",
+        "Servir avec des pommes de terre vapeur"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "3 jours au réfrigérateur"
+    },
+    {
+      "nom": "Galette des Rois à la frangipane",
+      "cat": "dessert",
+      "description": "Pâtisserie feuilletée garnie d'une crème frangipane vanille-amande, selon la technique du feuilletage inversé.",
+      "image": "/cuisine/img/galette-rois.jpg",
+      "temps_total": "8h",
+      "temps_preparation": "6h",
+      "temps_cuisson": "50 min",
+      "difficulte": "difficile",
+      "cout": "élevé",
+      "cout_precis": "environ 15€ pour 8 parts",
+      "portions": "8",
+      "ingredients": [
+        "375g de farine T55",
+        "300g de beurre AOP",
+        "130g de poudre d'amande",
+        "2 œufs",
+        "1 gousse de vanille",
+        "1 fève"
+      ],
+      "etapes": [
+        "Préparer la détrempe et laisser reposer",
+        "Réaliser le beurre de tourage",
+        "Effectuer 5 tours de feuilletage",
+        "Préparer la crème frangipane",
+        "Monter la galette et dessiner des motifs",
+        "Cuire à 175°C jusqu'à coloration dorée"
+      ],
+      "conseils": [
+        "Travailler dans une pièce à 18°C maximum",
+        "Laisser reposer la pâte entre chaque tour"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "2 jours à température ambiante"
+    },
+    {
+      "nom": "Muffins double chocolat",
+      "cat": "goûter",
+      "description": "Muffins intensément chocolatés avec cœur fondant à la ganache, pour les amateurs de cacao.",
+      "image": "/cuisine/img/muffins-chocolat.jpg",
+      "temps_total": "1h15",
+      "temps_preparation": "45 min",
+      "temps_cuisson": "30 min",
+      "difficulte": "moyen",
+      "cout": "moyen",
+      "cout_precis": "environ 8€ pour 6 pièces",
+      "portions": "6",
+      "ingredients": [
+        "260g de farine",
+        "130g de sucre roux",
+        "10g de levure",
+        "2 œufs",
+        "50g de cacao amer",
+        "200g de pépites chocolat",
+        "80g de chocolat au lait",
+        "60g de crème liquide"
+      ],
+      "etapes": [
+        "Préchauffer le four à 190°C",
+        "Mélanger les ingrédients secs",
+        "Incorporer les œufs et l'huile progressivement",
+        "Verser dans des moules à muffins",
+        "Cuire 25-30 minutes",
+        "Préparer la ganache en émulsionnant chocolat et crème chaude"
+      ],
+      "conseils": [
+        "Utiliser du café soluble pour rehausser le goût du cacao",
+        "Laisser refroidir avant de démouler"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "3 jours dans une boîte hermétique"
+    },
+    {
+      "nom": "Cookie géant praliné",
+      "cat": "dessert",
+      "description": "Cookie XXL croustillant avec cœur fondant au praliné et noisettes caramélisées.",
+      "image": "/cuisine/img/cookie-xxl.jpg",
+      "temps_total": "24h",
+      "temps_preparation": "1h30",
+      "temps_cuisson": "30 min",
+      "difficulte": "difficile",
+      "cout": "élevé",
+      "cout_precis": "environ 15€ pour 6 parts",
+      "portions": "6",
+      "ingredients": [
+        "185g de cassonade",
+        "150g de pépites chocolat",
+        "125g de noisettes",
+        "180g de crème liquide",
+        "35g de praliné maison",
+        "2g de fleur de sel"
+      ],
+      "etapes": [
+        "Torréfier les noix 15min à 150°C",
+        "Réaliser un caramel sec",
+        "Mixer pour obtenir le praliné",
+        "Mélanger la pâte à cookie",
+        "Cuire entre deux plaques pour une forme plate",
+        "Monter la ganache au praliné et décorer"
+      ],
+      "conseils": [
+        "Laisser reposer la pâte 24h pour développer les arômes",
+        "Utiliser un cercle à pâtisserie pour la forme"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "48h au réfrigérateur"
+    },
+    {
+      "nom": "Flan vanille-framboise",
+      "cat": "dessert",
+      "description": "Flan crémeux sur lit de coulis framboise-hibiscus, dans une croûte sablée.",
+      "image": "/cuisine/img/flan-framboise.jpg",
+      "temps_total": "24h",
+      "temps_preparation": "1h",
+      "temps_cuisson": "35 min",
+      "difficulte": "difficile",
+      "cout": "élevé",
+      "cout_precis": "environ 18€ pour 6 parts",
+      "portions": "6",
+      "ingredients": [
+        "230g de farine",
+        "250g de purée framboise",
+        "10g de fleurs d'hibiscus",
+        "1 gousse vanille",
+        "460g de lait entier",
+        "145g de crème liquide"
+      ],
+      "etapes": [
+        "Préparer l'infusion d'hibiscus",
+        "Réaliser le confit framboise",
+        "Faire cuire l'appareil à flan au bain-marie",
+        "Verser en couches alternées dans le fond sablé",
+        "Cuire à 180°C jusqu'à tremblement caractéristique"
+      ],
+      "conseils": [
+        "Congeler l'insert fruité pour une découpe nette",
+        "Utiliser un couteau chauffé pour trancher"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "72h au réfrigérateur"
+    },
+    {
+      "nom": "Chouquettes vanille",
+      "cat": "goûter",
+      "description": "Bouchées aériennes croustillantes accompagnées d'une chantilly onctueuse.",
+      "image": "/cuisine/img/chouquettes.jpg",
+      "temps_total": "1h",
+      "temps_preparation": "40 min",
+      "temps_cuisson": "25 min",
+      "difficulte": "moyen",
+      "cout": "faible",
+      "cout_precis": "environ 5€ pour 80 pièces",
+      "portions": "80",
+      "ingredients": [
+        "120g de lait",
+        "150g de farine",
+        "4 œufs",
+        "300g de crème liquide",
+        "1 gousse vanille",
+        "Sucre perlé"
+      ],
+      "etapes": [
+        "Préparer la pâte à choux",
+        "Dresser à la poche sur plaque",
+        "Saupoudrer de sucre perlé",
+        "Cuire sans ouvrir le four",
+        "Fouetter la chantilly vanillée"
+      ],
+      "conseils": [
+        "Fariner légèrement les doigts pour façonner",
+        "Fourrer au dernier moment pour garder le croustillant"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "24h dans une boîte métallique"
+    },
+    {
+      "nom": "Flan vanille-praliné",
+      "cat": "dessert",
+      "description": "Flan onctueux sur lit de praliné vanille dans une croûte sablée au sucre vergeoise.",
+      "image": "/cuisine/img/flan-praline.jpg",
+      "temps_total": "24h",
+      "temps_preparation": "2h",
+      "temps_cuisson": "35 min",
+      "difficulte": "difficile",
+      "cout": "élevé",
+      "cout_precis": "environ 20€ pour 6 parts",
+      "portions": "6",
+      "ingredients": [
+        "230g de farine T55",
+        "375g d'amandes",
+        "4 gousses vanille",
+        "460g de lait entier",
+        "145g de crème liquide",
+        "250g de sucre blanc"
+      ],
+      "etapes": [
+        "Torréfier amandes et vanille 20min à 140°C",
+        "Réaliser un caramel à sec",
+        "Mixer pour obtenir le praliné vanille",
+        "Préparer l'appareil à flan au bain-marie",
+        "Verser en couches successives dans le fond sablé",
+        "Cuire à 180°C jusqu'à consistance tremblotante"
+      ],
+      "conseils": [
+        "Utiliser un mixeur puissant pour le praliné",
+        "Laisser infuser la vanille 24h dans le lait"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "4 jours au réfrigérateur"
+    },
+    {
+      "nom": "Flan marbré vanille-chocolat",
+      "cat": "dessert",
+      "description": "Effet visuel saisissant avec des volutes de chocolat noir dans un flan vanillé traditionnel.",
+      "image": "/cuisine/img/flan-marbre.jpg",
+      "temps_total": "24h",
+      "temps_preparation": "1h30",
+      "temps_cuisson": "35 min",
+      "difficulte": "expert",
+      "cout": "élevé",
+      "cout_precis": "environ 22€ pour 6 parts",
+      "portions": "6",
+      "ingredients": [
+        "230g de farine",
+        "35g de chocolat noir 70%",
+        "1 gousse vanille",
+        "460g de lait",
+        "145g de crème",
+        "45g de fécule de maïs"
+      ],
+      "etapes": [
+        "Préparer deux appareils (vanille et chocolat)",
+        "Alterner les couches dans le moule",
+        "Créer des motifs avec une spatule",
+        "Cuire à basse température (160°C)",
+        "Refroidir 12h avant démoulage"
+      ],
+      "conseils": [
+        "Maintenir les deux préparations à même température",
+        "Utiliser un couteau chauffé pour les motifs"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "5 jours au frais"
+    },
+    {
+      "nom": "Pâte à tartiner maison",
+      "cat": "petit-déjeuner",
+      "description": "Pâte onctueuse à base de noisettes torréfiées et chocolat au lait, sans additifs ni conservateurs.",
+      "image": "/cuisine/img/pate-tartiner.jpg",
+      "temps_total": "45 min",
+      "temps_preparation": "30 min",
+      "temps_cuisson": "15 min",
+      "difficulte": "facile",
+      "cout": "moyen",
+      "cout_precis": "environ 10€ pour 375g",
+      "portions": "375g",
+      "ingredients": [
+        "150g de noisettes torréfiées",
+        "150g de chocolat au lait",
+        "45g de sucre glace",
+        "30g d'huile végétale",
+        "3g d'extrait de vanille"
+      ],
+      "etapes": [
+        "Mixer noisettes, sucre et huile jusqu'à obtention d'une pâte lisse",
+        "Faire fondre le chocolat au bain-marie",
+        "Incorporer le chocolat fondu à la préparation",
+        "Mixer à nouveau pour homogénéiser"
+      ],
+      "conseils": [
+        "Ajuster la texture avec de l'huile si nécessaire",
+        "Conserver à température ambiante"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "2 semaines à température ambiante"
+    },
+    {
+      "nom": "Pralinés maison",
+      "cat": "base",
+      "description": "Praliné polyvalent pour pâtisseries avec variations selon les fruits à coque.",
+      "image": "/cuisine/img/praline.jpg",
+      "temps_total": "40 min",
+      "temps_preparation": "20 min",
+      "temps_cuisson": "20 min",
+      "difficulte": "moyen",
+      "cout": "variable",
+      "cout_precis": "environ 5-8€ selon les fruits secs",
+      "portions": "350g",
+      "ingredients": [
+        "250g de fruits à coque (noisettes/amandes/pistaches)",
+        "100g de sucre",
+        "Optionnel : 20g sirop de glucose"
+      ],
+      "etapes": [
+        "Torréfier les fruits à coque 15min à 150°C",
+        "Préparer un caramel ambré",
+        "Enrober les fruits de caramel",
+        "Mixer jusqu'à obtention d'une pâte lisse"
+      ],
+      "conseils": [
+        "Utiliser un mixeur puissant avec pauses régulières",
+        "Ajouter de l'huile neutre si texture trop sèche"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "3 semaines au frais"
+    },
+    {
+      "nom": "Financiers à la pistache",
+      "cat": "pâtisserie",
+      "description": "Financiers moelleux fourrés d'un cœur coulant au caramel pistache.",
+      "image": "/cuisine/img/financiers-pistache.jpg",
+      "temps_total": "48 min",
+      "temps_preparation": "30 min",
+      "temps_cuisson": "18 min",
+      "difficulte": "moyen",
+      "cout": "élevé",
+      "cout_precis": "environ 18€ pour 12 pièces",
+      "portions": "12",
+      "ingredients": [
+        "325g sucre glace",
+        "180g beurre noisette",
+        "70g pâte de pistache",
+        "335g blancs d'œufs",
+        "225g crème liquide"
+      ],
+      "etapes": [
+        "Préparer le beurre noisette",
+        "Mélanger ingrédients secs et liquides",
+        "Cuire 18-20min à 180°C",
+        "Fourrer avec caramel pistache refroidi"
+      ],
+      "conseils": [
+        "Utiliser des moules en silicone antiadhésifs",
+        "Laisser refroidir avant démoulage"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "3 jours en boîte hermétique"
+    },
+    {
+      "nom": "Cake citron-pavot meringué",
+      "cat": "dessert",
+      "description": "Cake acidulé aux graines de pavot surmonté d'une meringue italienne.",
+      "image": "/cuisine/img/cake-citron.jpg",
+      "temps_total": "1h45",
+      "temps_preparation": "50 min",
+      "temps_cuisson": "55 min",
+      "difficulte": "difficile",
+      "cout": "moyen",
+      "cout_precis": "environ 15€ pour 6 parts",
+      "portions": "6",
+      "ingredients": [
+        "170g farine",
+        "65g jus de citron",
+        "10g graines de pavot",
+        "100g sucre blanc",
+        "3g pectine NH",
+        "60g blancs d'œufs"
+      ],
+      "etapes": [
+        "Préparer crémeux citron la veille",
+        "Cuire le cake 55min à 160°C",
+        "Monter la meringue italienne",
+        "Dresser et flamber au chalumeau"
+      ],
+      "conseils": [
+        "Utiliser un thermomètre pour le sirop à 118°C",
+        "Brasser régulièrement le crémeux pendant refroidissement"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "2 jours au réfrigérateur"
+    },
+    {
+      "nom": "Flan Pâtissier à la vanille",
+      "cat": "dessert",
+      "description": "Flan traditionnel onctueux à la vanille sur fond de pâte sablée, nécessitant une infusion lente pour des arômes optimaux.",
+      "image": "/cuisine/img/flan-vanille.jpg",
+      "temps_total": "24h",
+      "temps_preparation": "1h",
+      "temps_cuisson": "35 min",
+      "difficulte": "difficile",
+      "cout": "élevé",
+      "cout_precis": "environ 18€ pour 6 parts",
+      "portions": "6",
+      "ingredients": [
+        "460g lait entier",
+        "2 gousses vanille",
+        "90g jaunes d'œufs",
+        "80g sucre blanc",
+        "45g fécule de maïs",
+        "145g crème liquide"
+      ],
+      "etapes": [
+        "Infuser le lait 24h avec la vanille",
+        "Préparer la pâte sablée et la laisser reposer",
+        "Cuire l'appareil à flan au bain-marie",
+        "Verser dans le fond de pâte précuit",
+        "Cuire 35min à 180°C jusqu'au tremblement caractéristique"
+      ],
+      "conseils": [
+        "Utiliser un cercle amovible pour un démoulage parfait",
+        "Laisser refroidir complètement avant de servir"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "4 jours au réfrigérateur"
+    },
+    {
+      "nom": "Fondant chocolat-noisette",
+      "cat": "dessert",
+      "description": "Fondant intense au chocolat noir enrichi de praliné maison, avec un cœur coulant.",
+      "image": "/cuisine/img/fondant-chocolat.jpg",
+      "temps_total": "4h",
+      "temps_preparation": "1h",
+      "temps_cuisson": "20 min",
+      "difficulte": "moyen",
+      "cout": "élevé",
+      "cout_precis": "environ 22€ pour 8 parts",
+      "portions": "8",
+      "ingredients": [
+        "250g chocolat noir 65%",
+        "230g beurre",
+        "70g pâte de noisettes",
+        "5 œufs",
+        "130g sucre",
+        "100g farine"
+      ],
+      "etapes": [
+        "Préparer le praliné noisette",
+        "Fondre chocolat et beurre au bain-marie",
+        "Incorporer œufs et sucre progressivement",
+        "Cuire 16-20min à 200°C",
+        "Laisser reposer au frais avant démoulage"
+      ],
+      "conseils": [
+        "Servir légèrement tiède pour un cœur fondant",
+        "Accompagner d'une boule de glace vanille"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "3 jours au réfrigérateur"
+    },
+    {
+      "nom": "Flan vanille et myrtilles",
+      "cat": "dessert",
+      "description": "Flan crémeux à la vanille avec un cœur de compotée de myrtilles, sur fond de pâte sablée parfumée.",
+      "image": "/cuisine/img/flan-myrtilles.jpg",
+      "temps_total": "24h",
+      "temps_preparation": "1h",
+      "temps_cuisson": "35 min",
+      "difficulte": "difficile",
+      "cout": "élevé",
+      "cout_precis": "environ 18€ pour 6 parts",
+      "portions": "6",
+      "ingredients": [
+        "230g farine T55",
+        "200g myrtilles surgelées",
+        "460ml lait entier",
+        "90g jaunes d'œufs",
+        "1 gousse vanille",
+        "30g fécule de maïs"
+      ],
+      "etapes": [
+        "Préparer la pâte sablée et la laisser reposer une nuit",
+        "Réaliser la compotée de myrtilles avec pectine",
+        "Infuser le lait avec la vanille 30 min",
+        "Cuire l'appareil à flan au bain-marie",
+        "Assembler et cuire 35 min à 180°C"
+      ],
+      "conseils": [
+        "Utiliser un cercle amovible pour un démoulage parfait",
+        "Laisser refroidir 12h avant dégustation"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "4 jours au réfrigérateur"
+    },
+    {
+      "nom": "Gâteau aux noisettes",
+      "cat": "goûter",
+      "description": "Gâteau léger sans beurre à base de poudre de noisettes et blancs montés en neige.",
+      "image": "/cuisine/img/gateau-noisettes.jpg",
+      "temps_total": "1h15",
+      "temps_preparation": "30 min",
+      "temps_cuisson": "45 min",
+      "difficulte": "moyen",
+      "cout": "moyen",
+      "cout_precis": "environ 8€ pour 6 parts",
+      "portions": "6",
+      "ingredients": [
+        "240g blancs d'œufs",
+        "100g poudre noisettes",
+        "140g sucre",
+        "80g farine",
+        "1 pincée sel"
+      ],
+      "etapes": [
+        "Préchauffer four à 180°C",
+        "Monter les blancs en neige ferme",
+        "Incorporer délicatement les ingrédients secs",
+        "Cuire 45min jusqu'à dorure"
+      ],
+      "conseils": [
+        "Utiliser des moules en silicone antiadhésifs",
+        "Servir avec un coulis de fruits rouges"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "3 jours dans une boîte hermétique"
+    },
+    {
+      "nom": "Financier à la noisette",
+      "cat": "pâtisserie",
+      "description": "Petits gâteaux moelleux parfumés à la noisette avec cœur fondant ganache montée.",
+      "image": "/cuisine/img/financier-noisette.jpg",
+      "temps_total": "24h",
+      "temps_preparation": "1h30",
+      "temps_cuisson": "16 min",
+      "difficulte": "difficile",
+      "cout": "élevé",
+      "cout_precis": "environ 15€ pour 6 pièces",
+      "portions": "6",
+      "ingredients": [
+        "180g beurre noisette",
+        "140g poudre noisettes",
+        "85g blancs d'œufs",
+        "100g chocolat blanc",
+        "80g pâte de noisettes"
+      ],
+      "etapes": [
+        "Préparer la ganache montée la veille",
+        "Réaliser le beurre noisette",
+        "Mélanger tous les ingrédients",
+        "Cuire 16min à 200°C",
+        "Garnir de ganache refroidie"
+      ],
+      "conseils": [
+        "Torréfier légèrement les noisettes avant utilisation",
+        "Laisser reposer la pâte 2h au frais avant cuisson"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "48h au réfrigérateur"
+    },
+    {
+      "nom": "Flan chocolat-tonka",
+      "cat": "dessert",
+      "description": "Flan intense au chocolat noir et fève de tonka avec praliné croustillant.",
+      "image": "/cuisine/img/flan-chocolat.jpg",
+      "temps_total": "24h",
+      "temps_preparation": "2h",
+      "temps_cuisson": "35 min",
+      "difficulte": "expert",
+      "cout": "élevé",
+      "cout_precis": "environ 22€ pour 6 parts",
+      "portions": "6",
+      "ingredients": [
+        "220g farine",
+        "80g chocolat noir 70%",
+        "4g poudre tonka",
+        "125g noix de pécan",
+        "460ml lait entier"
+      ],
+      "etapes": [
+        "Préparer le praliné de noix",
+        "Infuser le lait avec la tonka",
+        "Cuire l'appareil à flan au chocolat",
+        "Monter en couches successives",
+        "Cuire 35min à 180°C"
+      ],
+      "conseils": [
+        "Râper la tonka fraîche pour plus d'arôme",
+        "Utiliser un thermomètre pour contrôler la cuisson"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "5 jours au frais"
+    },
+    {
+      "nom": "Cheesecake vanille-myrtilles",
+      "cat": "dessert",
+      "description": "Cheesecake onctueux sur base de spéculoos, garni de compotée de myrtilles maison.",
+      "image": "/cuisine/img/cheesecake-myrtilles.jpg",
+      "temps_total": "24h",
+      "temps_preparation": "1h30",
+      "temps_cuisson": "1h15",
+      "difficulte": "difficile",
+      "cout": "élevé",
+      "cout_precis": "environ 20€ pour 8 parts",
+      "portions": "8",
+      "ingredients": [
+        "320g spéculoos",
+        "670g fromage frais type Philadelphia",
+        "450g myrtilles",
+        "170g sucre",
+        "3 œufs"
+      ],
+      "etapes": [
+        "Préparer la base de spéculoos concassés",
+        "Réaliser la compotée de myrtilles",
+        "Mélanger l'appareil à cheesecake",
+        "Cuire au bain-marie 1h15",
+        "Laisser refroidir 12h avant démoulage"
+      ],
+      "conseils": [
+        "Utiliser un moule à charnière étanche",
+        "Éviter les chocs thermiques pour prévenir les fissures"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "4 jours au réfrigérateur"
+    },
+    {
+      "nom": "Fondant pistache et fleur d'oranger",
+      "cat": "dessert",
+      "description": "Gâteau moelleux à la pistache rehaussé de fleur d'oranger, avec un glaçage onctueux.",
+      "image": "/cuisine/img/fondant-pistache.jpg",
+      "temps_total": "2h",
+      "temps_preparation": "35 min",
+      "temps_cuisson": "45 min",
+      "difficulte": "moyen",
+      "cout": "élevé",
+      "cout_precis": "environ 18€ pour 8 parts",
+      "portions": "8",
+      "ingredients": [
+        "160g beurre pommade",
+        "185g sucre",
+        "140g poudre de pistaches",
+        "4 œufs",
+        "25ml fleur d'oranger",
+        "90g sucre glace"
+      ],
+      "etapes": [
+        "Crémer beurre et sucre",
+        "Incorporer œufs et poudre de pistache",
+        "Ajouter fleur d'oranger",
+        "Cuire 45min à 180°C",
+        "Préparer glaçage et napper"
+      ],
+      "conseils": [
+        "Torréfier légèrement les pistaches avant de les moudre",
+        "Laisser refroidir avant de glacer"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "4 jours au réfrigérateur"
+    },
+    {
+      "nom": "Flan sirop d'érable et praliné pécan",
+      "cat": "dessert",
+      "description": "Flan crémeux au sirop d'érable sur lit de praliné de noix de pécan caramélisées.",
+      "image": "/cuisine/img/flan-erable.jpg",
+      "temps_total": "24h",
+      "temps_preparation": "1h30",
+      "temps_cuisson": "35 min",
+      "difficulte": "difficile",
+      "cout": "élevé",
+      "cout_precis": "environ 25€ pour 6 parts",
+      "portions": "6",
+      "ingredients": [
+        "250g noix de pécan",
+        "460ml lait",
+        "30ml sirop d'érable",
+        "90g jaunes d'œufs",
+        "45g fécule de maïs"
+      ],
+      "etapes": [
+        "Préparer praliné de pécan",
+        "Infuser lait avec sirop d'érable",
+        "Cuire appareil à flan",
+        "Monter en couches",
+        "Cuire 35min à 180°C"
+      ],
+      "conseils": [
+        "Utiliser un sirop d'érable ambré",
+        "Laisser reposer 12h avant dégustation"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "5 jours au frais"
+    },
+    {
+      "nom": "Cheesecake caramel beurre salé",
+      "cat": "dessert",
+      "description": "Cheesecake vanille sur base de spéculoos, nappé d'un caramel au beurre salé maison.",
+      "image": "/cuisine/img/cheesecake-caramel.jpg",
+      "temps_total": "24h",
+      "temps_preparation": "2h",
+      "temps_cuisson": "1h30",
+      "difficulte": "expert",
+      "cout": "élevé",
+      "cout_precis": "environ 28€ pour 8 parts",
+      "portions": "8",
+      "ingredients": [
+        "320g spéculoos",
+        "635g fromage frais",
+        "200g sucre pour caramel",
+        "150g crème liquide",
+        "3 œufs"
+      ],
+      "etapes": [
+        "Préparer caramel au beurre salé",
+        "Réaliser base de spéculoos",
+        "Mélanger appareil à cheesecake",
+        "Cuire au bain-marie 1h30",
+        "Napper de caramel refroidi"
+      ],
+      "conseils": [
+        "Refroidir progressivement pour éviter les fissures",
+        "Utiliser un couteau chauffé pour trancher"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "5 jours au réfrigérateur"
+    },
+    {
+      "nom": "Flan sésame noir",
+      "cat": "dessert",
+      "description": "Flan audacieux au sésame noir et praliné de sésame, sur pâte sablée noire au charbon végétal.",
+      "image": "/cuisine/img/flan-sesame.jpg",
+      "temps_total": "24h",
+      "temps_preparation": "2h",
+      "temps_cuisson": "35 min",
+      "difficulte": "expert",
+      "cout": "élevé",
+      "cout_precis": "environ 22€ pour 6 parts",
+      "portions": "6",
+      "ingredients": [
+        "250g sésame noir",
+        "460ml lait",
+        "70g pâte de sésame",
+        "8g charbon végétal",
+        "90g jaunes d'œufs"
+      ],
+      "etapes": [
+        "Préparer praliné de sésame",
+        "Colorer pâte avec charbon végétal",
+        "Infuser lait avec sésame",
+        "Monter en couches",
+        "Cuire 35min à 180°C"
+      ],
+      "conseils": [
+        "Mixer longuement pour une pâte de sésame homogène",
+        "Servir avec des graines de sésame torréfiées"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "4 jours au frais"
+    },
+    {
+      "nom": "Beignets crème brûlée",
+      "cat": "petit-déjeuner",
+      "description": "Beignets fourrés à la crème pâtissière vanille, enrobés d'une fine couche de caramel croustillant.",
+      "image": "/cuisine/img/beignets-creme-brulee.jpg",
+      "temps_total": "5h",
+      "temps_preparation": "4h",
+      "temps_cuisson": "1h",
+      "difficulte": "difficile",
+      "cout": "moyen",
+      "cout_precis": "environ 12€ pour 10 pièces",
+      "portions": "10",
+      "ingredients": [
+        "410g farine",
+        "10g levure fraîche",
+        "450ml lait",
+        "200g sucre pour caramel",
+        "5 jaunes d'œufs"
+      ],
+      "etapes": [
+        "Préparer pâte à beignets",
+        "Laisser pousser 2h",
+        "Frire à 170°C",
+        "Fourrer de crème pâtissière",
+        "Tremper dans caramel liquide"
+      ],
+      "conseils": [
+        "Maintenir huile à température constante",
+        "Utiliser une poche à douille fine pour garnir"
+      ],
+      "valeurs_nutritives": {},
+      "conservation": "24h à température ambiante"
+    },
+    {
+      "nom": "Flan Pâtissier chocolat-tonka et insert poire",
+      "cat": "dessert",
+      "description": "Flan crémeux au chocolat et fève de tonka avec insert de poire fondante sur pâte sabrée chocolatée",
+      "image": "",
+      "temps_total": "25h 35min",
+      "temps_preparation": "24h 30min",
+      "temps_cuisson": "35min",
+      "difficulte": "difficile",
+      "cout": "élevé",
+      "portions": "6",
+      "ingredients": [
+        "220g farine T55",
+        "30g poudre d'amandes",
+        "30g sucre glace",
+        "60g sucre vergeoise",
+        "90g beurre doux",
+        "50g œufs",
+        "10g cacao non sucré",
+        "330g poires",
+        "460g lait entier",
+        "145g crème 30%"
+      ],
+      "etapes": [
+        "Préparer la pâte la veille",
+        "Congeler l'insert poire",
+        "Infuser la tonka dans le lait",
+        "Montage en cercle de 16cm",
+        "Cuire 35min à 180°C"
+      ],
+      "conseils": [
+        "Utiliser des poires Williams",
+        "Laisser reposer une nuit au frigo après cuisson"
+      ],
+      "conservation": "3 jours au réfrigérateur"
+    },
+    {
+      "nom": "Carrés au citron vert meringués",
+      "cat": "dessert",
+      "description": "Base sablée, crème acidulée au citron vert et meringue italienne torréfiée",
+      "image": "",
+      "temps_total": "26h",
+      "temps_preparation": "25h 30min",
+      "temps_cuisson": "30min",
+      "difficulte": "moyen",
+      "cout": "moyen",
+      "portions": "8",
+      "ingredients": [
+        "200g biscuits sablés",
+        "75g beurre fondu",
+        "650g lait concentré sucré",
+        "240g jus citron vert",
+        "110g blancs d'œufs"
+      ],
+      "etapes": [
+        "Préparer la base sablée",
+        "Cuire la crème au citron",
+        "Préparer meringue italienne",
+        "Dressage en carrés",
+        "Flamber à la torche"
+      ],
+      "conseils": [
+        "Utiliser des zestes frais",
+        "Consommer la meringue le jour même"
+      ],
+      "conservation": "3 jours au frigo"
+    },
+    {
+      "nom": "Financiers noisette, fourrés au caramel de noisette",
+      "cat": "dessert",
+      "description": "Financiers moelleux à la noisette avec cœur coulant de caramel maison",
+      "image": "",
+      "temps_total": "24h 53min",
+      "temps_preparation": "24h 40min",
+      "temps_cuisson": "18min",
+      "difficulte": "moyen",
+      "cout": "moyen",
+      "portions": "12",
+      "ingredients": [
+        "325g sucre glace",
+        "150g poudre d'amandes",
+        "335g blancs d'œufs",
+        "180g beurre noisette",
+        "185g sucre blanc"
+      ],
+      "etapes": [
+        "Préparer beurre noisette",
+        "Repos pâte 24h",
+        "Moulage en petits moules",
+        "Préparer caramel",
+        "Garnir après cuisson"
+      ],
+      "conseils": [
+        "Repos obligatoire pour la texture",
+        "Utiliser pâte de noisette maison"
+      ],
+      "conservation": "3 jours en boîte hermétique"
+    },
+    {
+      "nom": "Babka ronde à la pâte à tartiner noisette",
+      "cat": "dessert",
+      "description": "Briche tressée fourrée de praliné noisette et pâte à tartiner",
+      "image": "",
+      "temps_total": "25h 15min",
+      "temps_preparation": "24h 45min",
+      "temps_cuisson": "30min",
+      "difficulte": "difficile",
+      "cout": "moyen",
+      "portions": "8",
+      "ingredients": [
+        "500g farine T45",
+        "20g levure fraîche",
+        "120g beurre",
+        "170g pâte à tartiner",
+        "70g praliné noisette"
+      ],
+      "etapes": [
+        "Préparation pâte briochée",
+        "Repos 2h au frigo",
+        "Tressage de la babka",
+        "Cuisson à 180°C",
+        "Nappage au sirop"
+      ],
+      "conseils": [
+        "Refroidir avant de trancher",
+        "Utiliser moule à charnière"
+      ],
+      "conservation": "3 jours à température ambiante"
+    },
+    {
+      "nom": "Cheesecake vanille et pamplemousse",
+      "cat": "dessert",
+      "description": "Cheesecake onctueux avec compotée acidulée de pamplemousse",
+      "image": "",
+      "temps_total": "3h 20min",
+      "temps_preparation": "1h 30min",
+      "temps_cuisson": "1h 50min",
+      "difficulte": "moyen",
+      "cout": "moyen",
+      "portions": "6",
+      "ingredients": [
+        "635g Philadelphia",
+        "135g sucre blanc",
+        "280g pamplemousse",
+        "130g farine T55",
+        "55g beurre"
+      ],
+      "etapes": [
+        "Préparer pâte sablée",
+        "Cuire cheesecake au bain-marie",
+        "Préparer compotée",
+        "Montage à froid",
+        "Dressage final"
+      ],
+      "conseils": [
+        "Utiliser pomelos rouges",
+        "Éviter les chocs thermiques"
+      ],
+      "conservation": "4 jours au frigo"
+    },
+    {
+      "nom": "Flan Pâtissier vanille et insert frangipane",
+      "cat": "dessert",
+      "description": "Flan classique revisité avec insert de frangipane précuit et double couche de crème vanillée",
+      "image": "",
+      "temps_total": "3h 54min",
+      "temps_preparation": "3h",
+      "temps_cuisson": "54min",
+      "difficulte": "difficile",
+      "cout": "moyen",
+      "portions": "6",
+      "ingredients": [
+        "230g farine T55",
+        "90g beurre",
+        "460g lait entier",
+        "1 gousse vanille",
+        "70g poudre d'amandes"
+      ],
+      "etapes": [
+        "Préparer pâte sucrée vergeoise",
+        "Précuire l'insert frangipane",
+        "Infuser la vanille dans le lait",
+        "Cuire en deux couches",
+        "Refroidir 24h avant dégustation"
+      ],
+      "conseils": [
+        "Utiliser un cercle de 16x6cm",
+        "Congeler l'insert pour faciliter le montage"
+      ],
+      "conservation": "4 jours au réfrigérateur"
+    },
+    {
+      "nom": "Tarte aux noix de pécan (Pecan Pie)",
+      "cat": "dessert",
+      "description": "Tarte traditionnelle américaine au sirop d'érable et noix caramélisées",
+      "image": "",
+      "temps_total": "26h",
+      "temps_preparation": "25h 20min",
+      "temps_cuisson": "40min",
+      "difficulte": "moyen",
+      "cout": "élevé",
+      "portions": "6",
+      "ingredients": [
+        "250g farine T55",
+        "150g sirop d'érable",
+        "200g noix de pécan",
+        "150g beurre",
+        "3g cannelle"
+      ],
+      "etapes": [
+        "Repos pâte 24h",
+        "Cuire fond de tarte à blanc",
+        "Préparer garniture caramel",
+        "Cuire 20min à 180°C",
+        "Ajouter chantilly à la cannelle"
+      ],
+      "conseils": [
+        "Utiliser un moule anti-adhésif",
+        "Badigeonner de nappage neutre"
+      ],
+      "conservation": "48h au frigo"
+    },
+    {
+      "nom": "Crêpes au chocolat",
+      "cat": "dessert",
+      "description": "Crêpes légères au cacao accompagnées de 4 garnitures maison",
+      "image": "",
+      "temps_total": "2h 30min",
+      "temps_preparation": "2h",
+      "temps_cuisson": "30min",
+      "difficulte": "facile",
+      "cout": "bas",
+      "portions": "20",
+      "ingredients": [
+        "335g farine T45",
+        "30g cacao",
+        "700ml lait",
+        "200g caramel au beurre salé",
+        "150g pâte à tartiner"
+      ],
+      "etapes": [
+        "Repos pâte 2h",
+        "Cuire les crêpes",
+        "Préparer garnitures",
+        "Plier/ranger en pyramide",
+        "Saupoudrer de cacao"
+      ],
+      "conseils": [
+        "Chauffer la poêle entre chaque crêpe",
+        "Utiliser un mixeur pour lisser la pâte"
+      ],
+      "conservation": "24h à température ambiante"
+    },
+    {
+      "nom": "Tarte citron-noisette meringuée",
+      "cat": "dessert",
+      "description": "Contraste acidulé/douceur avec pâte noisette, crémeux citron et meringue italienne",
+      "image": "",
+      "temps_total": "27h 40min",
+      "temps_preparation": "27h",
+      "temps_cuisson": "40min",
+      "difficulte": "difficile",
+      "cout": "élevé",
+      "portions": "6",
+      "ingredients": [
+        "125g farine T55",
+        "70g poudre de noisettes",
+        "150g jus de citron",
+        "200g sucre blanc",
+        "100g blancs d'œufs"
+      ],
+      "etapes": [
+        "Préparer praliné la veille",
+        "Cuire fond de tarte en 2 étapes",
+        "Montage couches successives",
+        "Flamber meringue au chalumeau",
+        "Ajouter gel citron décoratif"
+      ],
+      "conseils": [
+        "Utiliser gélatine 200 bloom",
+        "Tempérer le crémeux avant montage"
+      ],
+      "conservation": "24h au réfrigérateur"
+    },
+    {
+      "nom": "Tartelettes vanille et noix de pécan",
+      "cat": "dessert",
+      "description": "Mini-pâtisseries croquantes avec praliné pécan et ganache montée vanille",
+      "image": "",
+      "temps_total": "3h 15min",
+      "temps_preparation": "3h",
+      "temps_cuisson": "15min",
+      "difficulte": "difficile",
+      "cout": "élevé",
+      "portions": "10",
+      "ingredients": [
+        "250g farine T55",
+        "20g cacao",
+        "250g noix de pécan",
+        "425g crème liquide",
+        "1 gousse vanille"
+      ],
+      "etapes": [
+        "Torréfier les noix",
+        "Préparer praliné maison",
+        "Monter ganache 24h à l'avance",
+        "Assembler en couches",
+        "Décorer à la douille"
+      ],
+      "conseils": [
+        "Utiliser cercles perforés 8cm",
+        "Chauffer couteau pour coupes nettes"
+      ],
+      "conservation": "48h au frigo"
+    },
+    {
+      "nom": "Flan Pâtissier façon tiramisu (Tiramiflan)",
+      "cat": "dessert",
+      "description": "Deux couches de flan (nature/café) avec insert de biscuit cuillère imbibé, praliné amande-café et chantilly mascarpone",
+      "image": "",
+      "temps_total": "28h 17min",
+      "temps_preparation": "27h 30min",
+      "temps_cuisson": "47min",
+      "difficulte": "difficile",
+      "cout": "élevé",
+      "portions": "6",
+      "ingredients": [
+        "230g farine T55",
+        "90g beurre",
+        "5g café soluble",
+        "200g mascarpone",
+        "35g gélatine",
+        "250g amandes",
+        "60g biscuits cuillère"
+      ],
+      "etapes": [
+        "Préparer pâte sucrée vergeoise (24h)",
+        "Réaliser le praliné amande-café",
+        "Cuire le biscuit cuillère en disque",
+        "Monter les deux appareils à flan",
+        "Assembler en couches successives",
+        "Ajouter chantilly au mascarpone"
+      ],
+      "conseils": [
+        "Utiliser un cercle de 16x6cm",
+        "Imbiber le biscuit après montage",
+        "Laisser reposer 24h avant dégustation"
+      ],
+      "conservation": "3 jours au réfrigérateur"
     }
 ]

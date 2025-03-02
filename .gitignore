@@ -1,3 +1,4 @@
 # Ignore all files in the cuisine/img and uploads/cuisine/img directories
 cuisine/img/
 uploads/cuisine/img/
+prompt.txt
