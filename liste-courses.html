@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liste de courses - Cuisine étudiante</title>
+    <style>
+        /* Reset et styles de base */
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; background: #f7fafc; color: #1a202c; }
+
+        /* Header */
+        header {
+            background: #2b6cb0;
+            padding: 1rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        nav a { 
+            color: white; 
+            text-decoration: none; 
+            margin-right: 1.5rem; 
+        }
+
+        /* Conteneur principal */
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        /* Carte recette modifiée pour la sélection */
+        .recette-card {
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 1rem;
+            margin: 1rem 0;
+            background: white;
+            box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .quantity-selector {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .quantity-input {
+            width: 70px;
+            padding: 0.5rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 4px;
+            text-align: center;
+        }
+
+        /* Liste de courses */
+        .shopping-list {
+            background: white;
+            border-radius: 8px;
+            padding: 2rem;
+            margin-top: 2rem;
+            box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .ingredient-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 0.5rem 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .total-cost {
+            font-weight: bold;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 2px solid #2b6cb0;
+        }
+
+        .generate-btn {
+            background: #2b6cb0;
+            color: white;
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1.1rem;
+            transition: background 0.3s;
+        }
+
+        .generate-btn:hover {
+            background: #2c5282;
+        }
+
+        /* Mode sombre */
+        .dark-mode {
+            background: #121212;
+            color: #e0e0e0;
+        }
+
+        .dark-mode .recette-card,
+        .dark-mode .shopping-list {
+            background: #1e1e1e;
+            border-color: #333;
+        }
+
+        .dark-mode .quantity-input {
+            background: #333;
+            border-color: #444;
+            color: #e0e0e0;
+        }
+
+        .dark-mode .ingredient-item {
+            border-color: #333;
+        }
+
+        .dark-mode .total-cost {
+            border-color: #bb86fc;
+        }
+
+        .dark-mode .generate-btn {
+            background: #bb86fc;
+            color: #121212;
+        }
+
+        .dark-mode .generate-btn:hover {
+            background: #9b6cfc;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">← Retour</a>
+            <span>🛒 Liste de courses</span>
+        </nav>
+        <button class="dark-mode-toggle" id="dark-mode-toggle">🌙</button>
+    </header>
+
+    <div class="container">
+        <div id="recettes-container"></div>
+        <div style="text-align: center;">
+            <button class="generate-btn" id="generate-list">Générer ma liste</button>
+        </div>
+        <div class="shopping-list">
+            <h2>📝 Ma liste de courses</h2>
+            <div id="ingredients-list"></div>
+            <div id="total-cost" class="total-cost"></div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Gestion du mode sombre
+            const darkModeToggle = document.getElementById('dark-mode-toggle');
+            const body = document.body;
+
+            if (document.cookie.includes('darkMode=true')) {
+                body.classList.add('dark-mode');
+                darkModeToggle.textContent = '☀️';
+            }
+
+            darkModeToggle.addEventListener('click', () => {
+                body.classList.toggle('dark-mode');
+                darkModeToggle.textContent = body.classList.contains('dark-mode') ? '☀️' : '🌙';
+                document.cookie = `darkMode=${body.classList.contains('dark-mode')}; path=/; max-age=${30 * 24 * 60 * 60}`;
+            });
+
+            // Chargement des recettes
+            let allRecettes = [];
+            
+            fetch('cuisine/recettes.json')
+                .then(response => response.json())
+                .then(data => {
+                    allRecettes = data;
+                    initRecipeSelector();
+                })
+                .catch(error => console.error('Erreur de chargement:', error));
+
+            function initRecipeSelector() {
+                const container = document.getElementById('recettes-container');
+                
+                allRecettes.forEach(recette => {
+                    const card = document.createElement('div');
+                    card.className = 'recette-card';
+                    card.innerHTML = `
+                        <h3>${recette.nom}</h3>
+                        <p>${recette.description}</p>
+                        <div class="quantity-selector">
+                            <input type="number" min="0" value="0" 
+                                class="quantity-input" 
+                                data-recipe='${JSON.stringify(recette).replace(/'/g, "&#39;")}'>
+                            <span>nombre de fois</span>
+                        </div>
+                    `;
+                    container.appendChild(card);
+                });
+            }
+
+            // Génération de la liste
+            document.getElementById('generate-list').addEventListener('click', () => {
+                const selected = Array.from(document.querySelectorAll('.quantity-input'))
+                    .filter(input => input.value > 0)
+                    .map(input => ({
+                        recipe: JSON.parse(input.dataset.recipe),
+                        quantity: parseInt(input.value)
+                    }));
+
+                const mergedIngredients = mergeIngredients(selected);
+                displayShoppingList(mergedIngredients);
+                calculateTotalCost(selected);
+            });
+
+            function mergeIngredients(selectedRecipes) {
+                const ingredientsMap = new Map();
+
+                selectedRecipes.forEach(({recipe, quantity}) => {
+                    recipe.ingredients.forEach(ingredient => {
+                        const parsed = parseIngredient(ingredient);
+                        const key = parsed.name.toLowerCase();
+                        
+                        if (ingredientsMap.has(key)) {
+                            const existing = ingredientsMap.get(key);
+                            existing.quantity += parsed.quantity * quantity;
+                        } else {
+                            ingredientsMap.set(key, {
+                                ...parsed,
+                                quantity: parsed.quantity * quantity
+                            });
+                        }
+                    });
+                });
+
+                return Array.from(ingredientsMap.values()).sort((a, b) => a.name.localeCompare(b.name));
+            }
+
+            function parseIngredient(ingredient) {
+                // Gestion des formats courants : "100g de farine", "3 œufs", "1 cuillère à soupe..."
+                const match = ingredient.match(/([\d½¼¾,.]+)\s*([a-zA-Z]*)\s*(de |d'|)?(.+)/i);
+                return {
+                    quantity: match ? parseFloat(match[1].replace(',', '.')) || 1 : 1,
+                    unit: match ? (match[2] || '').trim() : '',
+                    name: match ? match[4].trim() : ingredient
+                };
+            }
+
+            function displayShoppingList(ingredients) {
+                const listContainer = document.getElementById('ingredients-list');
+                listContainer.innerHTML = ingredients
+                    .map(ing => `
+                        <div class="ingredient-item">
+                            <span>${ing.quantity.toFixed(2).replace(/\.?0+$/, '')} ${ing.unit} ${ing.name}</span>
+                        </div>
+                    `).join('') || '<p>Aucun ingrédient sélectionné</p>';
+            }
+
+            function calculateTotalCost(selectedRecipes) {
+                let total = 0;
+                
+                selectedRecipes.forEach(({recipe, quantity}) => {
+                    const costMatch = recipe.cout_precis?.match(/[\d,]+/);
+                    if (costMatch) {
+                        const cost = parseFloat(costMatch[0].replace(',', '.')) * quantity;
+                        total += cost;
+                    }
+                });
+
+                const costElement = document.getElementById('total-cost');
+                costElement.textContent = total > 0 ? 
+                    `💰 Coût total estimé : ${total.toFixed(2)}€` : 
+                    'Sélectionnez des recettes pour voir le coût estimé';
+            }
+        });
+    </script>
+</body>
+</html>
