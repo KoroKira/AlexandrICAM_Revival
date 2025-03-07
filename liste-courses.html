@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Liste de courses - Cuisine étudiante</title>
     <style>
-        /* Styles de base */
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: 'Segoe UI', sans-serif; background: #f7fafc; color: #1a202c; }
 
@@ -25,7 +24,6 @@
             padding: 0 1rem;
         }
 
-        /* Filtres visibles */
         .filters {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -44,7 +42,6 @@
             width: 100%;
         }
 
-        /* Cartes recettes */
         .recipe-card {
             background: white;
             border-radius: 8px;
@@ -59,7 +56,6 @@
             margin-top: 0.5rem;
         }
 
-        /* Liste de courses */
         .shopping-list {
             background: white;
             padding: 2rem;
@@ -87,7 +83,6 @@
     </header>
 
     <div class="container">
-        <!-- Filtres visibles -->
         <div class="filters">
             <select id="filter-category">
                 <option value="">Toutes catégories</option>
@@ -105,17 +100,14 @@
             <input type="text" id="search" placeholder="Rechercher...">
         </div>
 
-        <!-- Liste des recettes filtrées -->
         <div id="recipes-container"></div>
 
-        <!-- Bouton génération -->
         <div style="text-align: center; margin: 2rem 0;">
             <button onclick="generateList()" style="padding: 1rem 2rem; background: #2b6cb0; color: white; border: none; border-radius: 5px; cursor: pointer;">
                 Générer ma liste
             </button>
         </div>
 
-        <!-- Liste de courses -->
         <div class="shopping-list">
             <h2>🛒 Ma liste de courses</h2>
             <div id="ingredients-list"></div>
@@ -132,7 +124,8 @@
             .then(data => {
                 allRecipes = data;
                 filterRecipes();
-            });
+            })
+            .catch(error => console.error('Erreur de chargement:', error));
 
         // Filtrage en temps réel
         document.querySelectorAll('.filters select, #search').forEach(el => {
@@ -164,32 +157,39 @@
                     <div>
                         <input type="number" min="0" value="0" 
                             class="quantity-input"
-                            data-recipe='${JSON.stringify(recipe)}'>
+                            data-recipe='${encodeURIComponent(JSON.stringify(recipe))}'>
                         <span>quantité</span>
                     </div>
                 </div>
             `).join('');
         }
 
-        // Génération de la liste
+        // Génération de la liste (corrigé)
         function generateList() {
             const ingredients = {};
             let totalCost = 0;
 
             document.querySelectorAll('.quantity-input').forEach(input => {
                 if(input.value > 0) {
-                    const recipe = JSON.parse(input.dataset.recipe);
-                    const quantity = parseInt(input.value);
+                    try {
+                        const recipe = JSON.parse(decodeURIComponent(input.dataset.recipe));
+                        const quantity = parseInt(input.value);
 
-                    // Ajout des ingrédients
-                    recipe.ingredients.forEach(ing => {
-                        const key = ing.toLowerCase();
-                        ingredients[key] = (ingredients[key] || 0) + quantity;
-                    });
+                        // Ajout des ingrédients
+                        recipe.ingredients.forEach(ing => {
+                            const key = ing.toLowerCase();
+                            ingredients[key] = (ingredients[key] || 0) + quantity;
+                        });
 
-                    // Calcul du coût
-                    const cost = parseFloat(recipe.cout_precis) || 0;
-                    totalCost += cost * quantity;
+                        // Calcul du coût
+                        const costMatch = recipe.cout_precis?.match(/[\d,]+/);
+                        if (costMatch) {
+                            const cost = parseFloat(costMatch[0].replace(',', '.')) * quantity;
+                            totalCost += cost;
+                        }
+                    } catch (error) {
+                        console.error('Erreur de traitement de la recette:', error);
+                    }
                 }
             });
 
@@ -197,10 +197,10 @@
             const list = document.getElementById('ingredients-list');
             list.innerHTML = Object.entries(ingredients)
                 .map(([ing, qty]) => `<div>${qty}x ${ing}</div>`)
-                .join('') || 'Aucun ingrédient sélectionné';
+                .join('') || '<p>Aucun ingrédient sélectionné</p>';
 
             document.getElementById('total-cost').textContent = 
-                `Coût estimé : ${totalCost.toFixed(2)}€`;
+                totalCost > 0 ? `💰 Coût estimé : ${totalCost.toFixed(2)}€` : '';
         }
 
         // Mode sombre
