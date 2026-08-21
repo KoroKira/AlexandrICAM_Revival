@@ -1,102 +1,33 @@
-# 📚 AlexandrIcam
+# AlexandrIcam
 
-**Plateforme collaborative de ressources étudiantes**
+Plateforme (site statique, sans backend) de partage de ressources pédagogiques entre étudiants de l'ICAM Toulouse (apprentissage) : cours, sujets d'examens, conseils stage/alternance, recettes de cuisine étudiante, et quelques mini-jeux pour la pause.
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-En%20développement-yellow)](https://github.com/KoroKira/AlexandrICAM_Revival)
+Reprise/nettoyage du projet [AlexandrIcam](https://github.com/KoroKira/AlexandrIcam) original.
 
-## 🚀 Introduction
+## Pages
 
-AlexandrIcam est une plateforme web permettant aux étudiants de l'ICAM (Apprentissage Toulouse surtout), de partager et d'accéder à des ressources pédagogiques :
+- `cours.html` — banque de cours filtrable par année/matière/type, alimentée par `cours/cours.json`
+- `exams.html` — banque d'annales (actuellement données d'exemple seulement, pas de vraies annales chargées)
+- `stage.html` — ressources CV/lettre de motivation et liste d'entreprises partenaires
+- `cuisine.html` — recettes étudiantes, alimentées par `cuisine/recettes.json`
+- `user.html` — raccourcis vers les mini-jeux (Démineur, Sudoku, Tetris, Échecs), page purement statique (pas de compte utilisateur réel)
 
-- 📄 Cours et supports
-- 📝 Sujets d'examens
-- 🍳 Recettes de cuisine étudiante
-- 💼 Conseils pour les stages
-- 👤 Espace personnel de partage
+## Fonctionnement
 
-## ✨ Fonctionnalités
+Site 100% statique (HTML/CSS/JS vanilla), sans build ni backend : chaque page charge un fichier JSON (`cours/cours.json`, `exams/exams.json`, `cuisine/recettes.json`) qui référence des fichiers stockés dans `uploads/`.
 
-### Pour les étudiants
-- **Accès aux ressources** : Par année, matière et type de ressource
-- **Banque d'examens** : Sujets et corrigés classés par année
-- **Espace cuisine** : Recettes économiques et rapides
-- **Stage/Alternance** : Conseils et modèles de documents
+## Lancer en local
 
-### Pour les contributeurs
-- **Partage facile** : Upload de fichiers via l'interface
-- **Gestion des ressources** : Ajout/suppression de contenu
-- **Statistiques** : Visualisation des téléchargements
-
-## 🛠️ Technologies
-
-- **Frontend** : HTML5, CSS3, JavaScript
-- **Hébergement** : GitHub Pages (pour l'instant)
-- **Optimisation** : Compression des images, lazy loading
-- **Accessibilité** : Conforme aux standards WCAG 2.1
-
-## 🖥️ Prévisualisation
-
-![Accueil](screenshots/home.png)
-![Exams](screenshots/exams.png)
-![Cuisine](screenshots/cuisine.png)
-
-## 🚀 Installation
-
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/tonusername/AlexandrIcam.git
-   ```
-
-2. Ouvrez le dossier :
-   ```bash
-   cd AlexandrIcam
-   ```
-
-3. Lancez le serveur local (optionnel) :
-   ```bash
-   python -m http.server 8000
-   ```
-
-4. Ouvrez dans votre navigateur :
-   ```
-   http://localhost:8000
-   ```
-
-## 📂 Structure des dossiers
-
-```
-AlexandrIcam/
-├── public/               # Fichiers statiques
-│   ├── assets/           # CSS, JS, polices
-│   ├── uploads/          # Ressources partagées
-│   └── index.html        # Page d'accueil
-├── screenshots/          # Captures d'écran
-└── README.md             # Ce fichier
+```bash
+python3 -m http.server 8000
 ```
 
-## 🤝 Contribution
+Puis ouvrir `http://localhost:8000`.
 
-Les contributions sont les bienvenues ! Voici comment participer :
+## État du projet / ce qu'il reste à faire
 
-1. Forkez le projet
-2. Créez une branche (`git checkout -b feature/NouvelleFonctionnalité`)
-3. Committez vos changements (`git commit -m 'Ajout d'une nouvelle fonctionnalité'`)
-4. Pushez la branche (`git push origin feature/NouvelleFonctionnalité`)
-5. Ouvrez une Pull Request
-
-## 📜 Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-## 🙏 Remerciements
-
-- **Étudiants contributeurs** : Pour leurs partages de ressources
-- **Équipe pédagogique** : Pour avoir créé les cours
-- **ICAM** : Pour m'avoir pris en tant qu'étudiant
-- **CODICAM** : Pour m'avoir aidé à connaître plus de choses en progra
-- **Smaug** : Pour m'avoir donné l'idée du site
-
----
-
-**AlexandrIcam** - Par des étudiants, pour des étudiants 🎓
+- **Banque de cours** : ~200 fichiers référencés sur les 305 uploadés (A1/A2). Les années A3-A5 n'ont que des pages vides (`info.html`, `physique.html`, `maths.html` sans contenu).
+- **`uploads/annee/meca`** contient une centaine de fichiers de mécanique jamais rattachés à une année/matière dans le catalogue — à trier.
+- **Annales (`exams.html`)** : encore des données d'exemple, aucune vraie annale chargée.
+- **Poids du repo** : ~400 Mo de PDF versionnés directement dans git (pas de Git LFS) — à surveiller si le volume continue de grossir.
+- Les rapports de stage nominatifs d'autres étudiants ont été retirés du dépôt (y compris de l'historique) pour des raisons de confidentialité — seuls des documents génériques (méthode CV/LM, liste d'entreprises) sont conservés.
